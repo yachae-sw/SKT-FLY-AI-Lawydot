@@ -55,7 +55,7 @@
 
   ### :hammer:개발 환경
 
-  <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/4adb74c5-142d-4a02-ab60-a00c6f32fdf2" width="500">
+  <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/7b6b228d-f770-48a5-b112-466b6a371daf" width="500">
 
   - Front-end : HTML, React, styled-components
   - Back-end : express, Node.js
@@ -69,7 +69,7 @@
 
   ### 🔍시스템 구성도
 
-  <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/4708e4ff-f7c5-4cc8-a8a4-a229643a868f" width="900">
+  <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/5e6acc9d-791d-459d-906f-990e68e3e3ac" width="900">
 
   ### :computer:시연 영상
 

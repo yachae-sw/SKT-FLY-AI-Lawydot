@@ -11,7 +11,7 @@
 
 |                                                                                     **채성원**                                                                                     |                                                                                      **김윤서**                                                                                      |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/SKT-TeamZero/.github/assets/93850398/4f7ab082-6aac-4ec5-99e9-ff677d0459ed" width="120" height="150"> <br/> @yachae-sw](https://github.com/yachae-sw) | [<img src="https://github.com/SKT-TeamZero/.github/assets/93850398/05f48886-ff00-491d-b0ef-9f3952152d4a" width="100" height="150"> <br/> @yoonseo111](https://github.com/yoonseo111) |
+| [<img src="https://github.com/SKT-TeamZero/.github/assets/93850398/4f7ab082-6aac-4ec5-99e9-ff677d0459ed" width="120" height="120"> <br/> @yachae-sw](https://github.com/yachae-sw) | [<img src="https://github.com/SKT-TeamZero/.github/assets/93850398/05f48886-ff00-491d-b0ef-9f3952152d4a" width="100" height="120"> <br/> @yoonseo111](https://github.com/yoonseo111) |
 
 ## 📅개발 기간
 

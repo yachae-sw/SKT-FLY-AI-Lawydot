@@ -21,7 +21,9 @@
 
   ### [린 캔버스]
 
-<br/>
+  <img src="https://github.com/yachae-sw/git-practice/assets/93850398/ac365696-7d38-427c-a06b-344dd3ac4809" width="250">
+
+  <br/>
 
 ## :star:핵심 기술
 

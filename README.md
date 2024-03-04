@@ -21,7 +21,7 @@
 
   ### [린 캔버스]
 
-  <img src="https://github.com/yachae-sw/git-practice/assets/93850398/ac365696-7d38-427c-a06b-344dd3ac4809" width="350"><img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/f2a2e7ee-26b3-4398-a874-928cf6748094" width="350">
+  <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/f2a2e7ee-26b3-4398-a874-928cf6748094" width="600">
 
   <br/>
 

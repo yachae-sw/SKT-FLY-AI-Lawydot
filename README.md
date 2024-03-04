@@ -8,6 +8,14 @@
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/42c9e675-6126-473d-91b8-f59fcf165e08" width="120" > <br/> @yachae-sw](https://github.com/yachae-sw) | [<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/2761f43b-bad2-46bd-9bbf-735cb7fa8a1b" width="120"> <br/> @yoonseo111](https://github.com/yoonseo111) |
 
+### 📅개발 기간
+
+- 2024.01.02 - 2024.02.29
+
+### :computer:시연 영상
+
+<img width="80%" src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/7bd93ffd-729b-48bc-a6e2-d37c66111c77"/>
+
 ## 👻프로젝트 소개
 
 - 최근 사회 초년생에게 자주 발생하는 **부동산 사기** 문제
@@ -49,10 +57,6 @@
 - **Cosine Similarity** : 코사인 유사도는 두 벡터 간의 코사인 각도를 이용하여 구할 수 있는 두 벡터의 유사도를 의미한다.
   <br/>
 
-  ### 📅개발 기간
-
-  - 2024.01.02 - 2024.02.29
-
   ### :hammer:개발 환경
 
   <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/7b6b228d-f770-48a5-b112-466b6a371daf" width="500">
@@ -70,8 +74,6 @@
   ### 🔍시스템 구성도
 
   <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/5e6acc9d-791d-459d-906f-990e68e3e3ac" width="900">
-
-  ### :computer:시연 영상
 
   <br/>
 

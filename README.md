@@ -65,6 +65,8 @@
 
   ### 🔍시스템 구성도
 
+  <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/4708e4ff-f7c5-4cc8-a8a4-a229643a868f" width="900">
+
   ### :computer:시연 영상
 
     <br/>

@@ -53,8 +53,9 @@
 
   ### :hammer:개발 환경
 
-  - Front : HTML, React, styled-components
-  - Back-end : express
+  - Front-end : HTML, React, styled-components
+  - Back-end : express, Node.js
+  - Database : MongoDB
   - 인공지능(LLM api & prompt) : Python, JavaScript
   - UI/UX : Figma
   - 버전 및 이슈관리 : Github, Github Issues, Github organizations

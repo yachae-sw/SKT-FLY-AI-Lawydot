@@ -1,6 +1,6 @@
 # 나만의 법률 개인 비서 (My own legal secretary)
 
-<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/f1ca6842-b63e-40a4-91b3-a9f64c3e2aba" width="900">
+<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/f1ca6842-b63e-40a4-91b3-a9f64c3e2aba" width="200">
 
 ### 🧑‍🤝‍🧑맴버 구성
 

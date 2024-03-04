@@ -1,5 +1,7 @@
 # 나만의 법률 개인 비서 (My own legal secretary)
 
+<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/f1ca6842-b63e-40a4-91b3-a9f64c3e2aba" width="400">
+
 ### 🧑‍🤝‍🧑맴버 구성
 
 |                                                                                   **채성원**                                                                                   |                                                                                   **김윤서**                                                                                    |
@@ -63,12 +65,12 @@
 
   ### 🔍시스템 구성도
 
-  ### :bookmark_tabs:페이지별 기능
+  ### :computer:시연 영상
 
     <br/>
 
-## 향후 개선 방향
+## :dart:향후 활용 방향
 
 <br/>
 
-## 프로젝트 후기
+## :memo:프로젝트 후기

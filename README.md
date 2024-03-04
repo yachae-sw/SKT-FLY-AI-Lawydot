@@ -59,7 +59,7 @@
 
   ### :hammer:개발 환경
 
-  <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/7b6b228d-f770-48a5-b112-466b6a371daf" width="500">
+  <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/7c0e7bd7-8d40-4c43-aba4-16e859421c6d" width="500">
 
   - Front-end : HTML, React, styled-components
   - Back-end : express, Node.js

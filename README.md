@@ -6,7 +6,7 @@
 
 |                                                                                   **채성원**                                                                                   |                                                                                   **김윤서**                                                                                    |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/459301f0-976e-4fa9-ad6e-fe6649eb4a0c" width="200" > <br/> @yachae-sw](https://github.com/yachae-sw) | [<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/df5529f5-10e2-4335-b776-22e130ac0846" width="200"> <br/> @yoonseo111](https://github.com/yoonseo111) |
+| [<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/459301f0-976e-4fa9-ad6e-fe6649eb4a0c" width="150" > <br/> @yachae-sw](https://github.com/yachae-sw) | [<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/df5529f5-10e2-4335-b776-22e130ac0846" width="150"> <br/> @yoonseo111](https://github.com/yoonseo111) |
 
 ### 📅개발 기간
 

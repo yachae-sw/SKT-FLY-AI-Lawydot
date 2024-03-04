@@ -7,6 +7,7 @@
 | [<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/42c9e675-6126-473d-91b8-f59fcf165e08" width="120" > <br/> @yachae-sw](https://github.com/yachae-sw) | [<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/2761f43b-bad2-46bd-9bbf-735cb7fa8a1b" width="120"> <br/> @yoonseo111](https://github.com/yoonseo111) |
 
 <br/>
+
 ## 👻프로젝트 소개
 
 - 최근 사회 초년생에게 자주 발생하는 **부동산 사기** 문제
@@ -23,6 +24,7 @@
   ### [린 캔버스]
 
 <br/>
+
 ## :star:핵심 기술
 
 - **Gemini Pro(LLM)** : Google DeepMind에서 개발한 다중 모드 대형 언어 모델이다. 텍스트, 오디오, 이미지, 영상 등 다양한 입력값을 원활하게 이해하고 받아 추론할 수 있으며, 기존 멀티모달 모델보다 훨씬 뛰어난 성능을 보여준다.
@@ -48,7 +50,7 @@
   - 버전 및 이슈관리 : Github, Github Issues, Github organizations
   - 협업 툴 : Notion, Discord, Github
 
-  ### ⚙시스템 구성도
+  ### 🔍시스템 구성도
 
   ### :bookmark_tabs:페이지별 기능
 

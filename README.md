@@ -1,6 +1,6 @@
 # 나만의 법률 개인 비서 (My own legal secretary)
 
-<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/f1ca6842-b63e-40a4-91b3-a9f64c3e2aba" width="200">
+<img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/f1ca6842-b63e-40a4-91b3-a9f64c3e2aba" width="900">
 
 ### 🧑‍🤝‍🧑맴버 구성
 
@@ -14,7 +14,7 @@
 
 ### :computer:시연 영상
 
-[![Lawydot](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/eb1f4f28-5ce0-4f2e-886e-35fce936e454)]
+[![Lawydot](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/f1ca6842-b63e-40a4-91b3-a9f64c3e2aba)](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/eb1f4f28-5ce0-4f2e-886e-35fce936e454)
 
 ## 👻프로젝트 소개
 

@@ -8,15 +8,15 @@
 
 ## 👻프로젝트 소개
 
-`- 최근 사회 초년생에게 자주 발생하는 **부동산 사기** 문제`
-`- 해결하기 위한 **가이드라인을 이해하기 쉽게** 제공해드립니다`
+- 최근 사회 초년생에게 자주 발생하는 **부동산 사기** 문제
+- 해결하기 위한 **가이드라인을 이해하기 쉽게** 제공해드립니다
 
-### 특징
+  ### 특징
 
--
--
+  -
+  -
 
-### 린 캔버스
+  ### 린 캔버스
 
 ## :star:핵심 기술
 
@@ -26,22 +26,22 @@
 - Bert
 - Cosine Siminlarity
 
-### 📅개발 기간
+  ### 📅개발 기간
 
-- 2024.01.02 - 2024.02.29
+  - 2024.01.02 - 2024.02.29
 
-### :hammer:개발 환경
+  ### :hammer:개발 환경
 
-- Front : HTML, React, styled-components
-- Back-end : express
-- 인공지능(LLM api & prompt) : Python, JavaScript
-- UI/UX : Figma
-- 버전 및 이슈관리 : Github, Github Issues, Github organizations
-- 협업 툴 : Notion, Discord, Github
+  - Front : HTML, React, styled-components
+  - Back-end : express
+  - 인공지능(LLM api & prompt) : Python, JavaScript
+  - UI/UX : Figma
+  - 버전 및 이슈관리 : Github, Github Issues, Github organizations
+  - 협업 툴 : Notion, Discord, Github
 
-### 시스템 구성도
+  ### 시스템 구성도
 
-### 페이지별 기능
+  ### 페이지별 기능
 
 ## 향후 개선 방향
 

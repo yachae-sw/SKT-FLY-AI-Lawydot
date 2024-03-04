@@ -55,6 +55,8 @@
 
   ### :hammer:개발 환경
 
+  <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/4adb74c5-142d-4a02-ab60-a00c6f32fdf2" width="900">
+
   - Front-end : HTML, React, styled-components
   - Back-end : express, Node.js
   - Database : MongoDB
@@ -63,13 +65,15 @@
   - 버전 및 이슈관리 : Github, Github Issues, Github organizations
   - 협업 툴 : Notion, Discord, Github
 
+  <br/>
+
   ### 🔍시스템 구성도
 
   <img src="https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/4708e4ff-f7c5-4cc8-a8a4-a229643a868f" width="900">
 
   ### :computer:시연 영상
 
-    <br/>
+  <br/>
 
 ## :dart:향후 활용 방향
 

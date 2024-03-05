@@ -1,8 +1,8 @@
-# Lawydot Front-end
+# Lawydot Back-end
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Front-end start
+## Back-end start
 
 In the project directory, you can run:
 
@@ -17,12 +17,10 @@ In the project directory, you can run:
 3. 로컬 설치: npm i는 종속성을 로컬로 설치합니다. 이는 프로젝트 폴더 내에 node_modules라는 디렉토리에 패키지를 설치하고 관리합니다.\
    이로써 각 프로젝트가 자체적인 종속성을 가지고 있으며, 다른 프로젝트와의 충돌을 방지할 수 있습니다.
 
-### `yarn start`
+### `npm start`
 
 개발 모드에서 앱을 실행합니다.\
- 브라우저에서 [http://localhost:3000](http://localhost:3000)을 열어보세요.
+ 브라우저에서 [http://localhost:5000](http://localhost:5000)을 열어보세요.
 
 변경 사항을 만들 때마다 페이지가 다시로드됩니다.\
  콘솔에서 린트(lint) 오류를 확인할 수도 있습니다.
-
-## 페이지 구성

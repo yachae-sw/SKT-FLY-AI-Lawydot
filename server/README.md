@@ -19,8 +19,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-개발 모드에서 앱을 실행합니다.\
- 브라우저에서 [http://localhost:5000](http://localhost:5000)을 열어보세요.
+- 개발 모드에서 앱을 실행합니다.\
+   브라우저에서 [http://localhost:5000](http://localhost:5000)을 열어보세요.
 
-변경 사항을 만들 때마다 페이지가 다시로드됩니다.\
- 콘솔에서 린트(lint) 오류를 확인할 수도 있습니다.
+- 변경 사항을 만들 때마다 페이지가 다시로드됩니다.\
+   콘솔에서 린트(lint) 오류를 확인할 수도 있습니다.

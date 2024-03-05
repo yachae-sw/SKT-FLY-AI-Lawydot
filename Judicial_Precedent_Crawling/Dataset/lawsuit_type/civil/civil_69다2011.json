@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.2.24.",
+        "caseNo": "69다2011",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "권한유월의 표현대리를 인정함에 있어 채증에 관한 우리의 경험칙에 어긋난 위법이 있는 실례."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

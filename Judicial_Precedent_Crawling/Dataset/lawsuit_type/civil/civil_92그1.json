@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "판결경정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1992.3.4.자",
+        "caseNo": "92그1",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "당사자의 과실에 의한 오류와 판결경정의 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민사소송법 제197조 제1항에 규정된 오류는 그것이 법원의 과실로 인하여 생긴 경우는 물론이고 당사자의 과실에 의하여 생긴 경우에도 그 오류가 명백하면 판결을 경정할 수 있다고 할 것이나  이 사건에 있어서와 같이 원고들 소송대리인이 소장에 청구취지를 잘못 기재하고서도 사실심변론종결시까지 그 변경절차를 밟지 아니하였고 법원도 이를 간과하여 소장 기재대로 판결을 하였고 소송의 전과정에 나타난 자료에 의하더라도 그 오류가 명백하지 아니한 경우에는 이른바 판결에 명백한 오류가 있다고 볼 수 없다.",
+            "결국 같은 취지에서 원심이 이 사건 경정신청을 기각한 조치는 수긍이 가고 달리 원심결정에 민사소송법 제420조 소정의 위법사유가 있다고 할 수 없으므로 논지는 이유 없다.",
+            "이에 특별항고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "절도미수",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.5.3.",
+        "caseNo": "66도383",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "절도죄에 있어서 착수시기의 일례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 제1심 판결적시의 범죄사실에 의하면 피고인은 1965.9.9 오전 11시경 피해자 소외인가에 침입하여 동가 응접실 책상위에 놓여있던 라디오 1대를 훔치려고 동 라디오 선을 거드려다 피해자에게 발견되어 절취의 목적을 달치못하였다는 것이므로 위와 같은 라디오선을 거드려고하는 행위는 본건 라디오에 대한 사실상의 지배를 침해하는데 밀접한 행위라 할수 있으므로 원심이 본건을 절도 미수죄로 처단하였음은 정당하고 피고의 가정사정과 범죄의 동기들이 소론과 같고 또 본건 범행이 계획적이 아니었다 하여도 그와 같은 사정과 사실로서는 피고인에게 징역 단기 6월 장기 8월의 형이 선고된 본건에 있어서는 적법한 상고이유가 되지 못하므로 논지는 이유없다.",
+            "그러므로 관여법관 전원의 일치된 의견으로서 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

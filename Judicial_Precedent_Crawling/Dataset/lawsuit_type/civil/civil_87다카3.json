@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소등기등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.4.14.",
+        "caseNo": "87다카3",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부대상고허가신청의 허부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "한편 원고의 상고허가신청이유에 비추어 기록을 살펴보니 이 사건은 법령의 해석에 관하여 중요한 사항을 포함하는 것으로 인정되므로 원고의 상고허가신청은 이유있다.",
+            "이에 원고의 상고를 허가하고 피고 1의 부대상고허가신청은 각하하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고의 상고를 허가한다."
+        ]
+    }
+}

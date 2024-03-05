@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소등청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1971.7.14.",
+        "caseNo": "70나2475",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "허무인 명의로 등기한 자에 대한 말소등기청구가 가능한지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "다음 원고 소송대리인은 피고 1은 허무인인 소외 1 앞으로 소유권보존등기를 경료케 한 행위자이므로 위 피고에 대하여 소외 1 명의의 소유권보존등기의 말소를 구한다고 주장하나 등기부상 명의자가 아닌 피고 1로서는 소외 1이 허무인이라 할지라도 위 소외인 명의의 등기를 말소할 의무는 없다 할 것이므로 원고의 위 주장은 이유없다.",
+            "그렇다면 원고의 이건 청구는 위 인정한 범위내에서 이유있어 인용하고 당심에서 확장된 청구는 이유없어 이를 기각할 것인 바 이와 결론을 같이한 원판결은 정당하고 피고들의 항소는 이유없으므로 이를 기각하기로 하고 소송비용의 부담에 관하여는 민사소송법 96조  89조  92조  93조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고들의 항소를 기각한다."
+        ]
+    }
+}

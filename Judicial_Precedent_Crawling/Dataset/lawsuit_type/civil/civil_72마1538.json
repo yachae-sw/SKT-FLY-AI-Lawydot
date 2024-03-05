@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "이송신청각하결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1973.2.14.자",
+        "caseNo": "72마1538",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "관할권의 유무에 관한 문제와 당사자의 이송신청권"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 각하 한다."
+        ]
+    }
+}

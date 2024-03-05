@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1981.10.27.",
+        "caseNo": "81도1370",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피의자의 기명만이 있고 날인이나 무인이 없는 피의자 신문조서의 증거능력 유무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "상고이유 제2점을 본다.",
+            "기록에 의하면 검사 작성의 피고인에 대한 제1차 피의자신문조서 말미에 피고인의 기명만이 있고 그 날인이나 무인이 되어 있지 않으며 이 피의자신문조서가 원심이 유지한 제 1 심 판결에 의하여 피고인에 대한 판시사실을 증명하는 증거로 채용되어 있음이 명백한바 이 피의자신문조서는 그 증거능력이 부인되어 이를 증거로 하였음은 위법임을 면할 수 없다함은 과연 소론 논지와 같다 할 것이나 위 판결 거시의 다른 증거에 의하더라도 이 사건 범죄사실을 인정하기에 충분하므로 이와 같은 위법은 판결결과에 아무런 영향도 미치지 아니하였다고 할 것이니 이 점에 관한 상고논지 또한 그 이유없음에 돌아간다고 할 것이다.",
+            "따라서 상고를 기각하기로 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

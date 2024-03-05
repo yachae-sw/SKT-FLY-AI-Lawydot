@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기말소등청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1957.1.24.",
+        "caseNo": "4289민공440",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "토지소유자의 인장 인감증명서 및 권리증서 등을 소지하고 있는 경우 대리권이 있다고 믿을 만한 \"정당한 사유\"에의 해당여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

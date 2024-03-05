@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "뇌물수수",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.7.24.",
+        "caseNo": "70도1289",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형법  에 의하여 선고를 유예하는 형은 주형과 부가형을 포함한 전처단형을 말한다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "「원심은 피고인을 징역 10월에 처하면서 형법 제59조 제1항에 의하여 그 선고를 유예하되 피고인에게 대하여 추징금 300000원을 과하고 그러나 형법 제59조 제1항에 의하여 선고를 유예하는 형은 주형과 부가형을 포함한 전처단형을 말하는 것이라 할 것이므로 필경 위의 원판결은 선고유예의 법리를 오해하였다 할 것이다」",
+            "논지는 이유 있으므로 나머지의 상고논지에 관한 판단을 그만두고 형사소송법 제391조 제397조에 의하여 원심판결중 피고인에 관한 부분을 파기하고 이 부분을 원심인 서울고등법원으로 환송하기로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결중 피고인에 관한 부분을 파기하고"
+        ]
+    }
+}

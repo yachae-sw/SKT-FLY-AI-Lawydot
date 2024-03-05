@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "약속어음금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.10.13.",
+        "caseNo": "87다카702",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상고허가신청서의 기재내용을 상고이유로 원용할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 이 사건 상고는 그 상고이유가 없다 하여 이를 기각하고 상고비용은 패소자의 부담으로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

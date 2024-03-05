@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "무고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1973.12.11.",
+        "caseNo": "73도1658",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무고죄에서 말하는“허위의 사실”에는 처벌법규상의 다소의 차이를 초래함에 불과한 사실적시행위도 포함되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

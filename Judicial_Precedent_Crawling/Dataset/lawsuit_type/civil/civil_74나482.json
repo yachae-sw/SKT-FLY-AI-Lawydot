@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대여금청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1974.12.12.",
+        "caseNo": "74나482",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "청구확장을 위한 항소의 적법여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "살피건대 원심판결에 대한 항소의 이익 불이익의 판정시기는 항소심 변론종결당시가 아니라 항소제기당시를 기준으로 하여야 할 것이므로 원심에서 전부 승소판결을 받은 원고로서는 불이익한 판결을 받은 피고의 항소가 없는 한 항소를 제기할 이익이 없다할 것이고 따라서 항소심에서의 새로운 청구의 확장을 위한 항소는 이를 허용할 수 없는 법리라 할 것이다.",
+            "따라서 원고의 이건 항소는 항소의 이익이 없는 부적법한 항소로서 그 흠결을 보정할 수 없는 경우에 해당하므로 이를 각하하고 민사소송법 383조  95조  89조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

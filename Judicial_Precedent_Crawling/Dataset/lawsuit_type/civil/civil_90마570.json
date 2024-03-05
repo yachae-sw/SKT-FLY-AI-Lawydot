@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.8.20.자",
+        "caseNo": "90마570",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "전호폐문부재로 아무도 만날 수 없어 송달불능된 경우의 우편송달 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이에 재항고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

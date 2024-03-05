@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1964.9.8.",
+        "caseNo": "64다165",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민법 의 이른바\"…판결…에 의한 부동산에 관한 물권의 취득\"의 의의."
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

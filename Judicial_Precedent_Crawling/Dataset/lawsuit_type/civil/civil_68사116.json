@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가재항고기각결정에대한준재심",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.1.13.자",
+        "caseNo": "68사116",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "하자있는 공시송달허가 신청에 의한 공시송달 명령의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "채권자의 공시송달허가 신청 절차에 소론과 같은 하자가 있었다 하더라도 일단 경매법원 법관에 의하여 공시 송달 명령이 내려가서 이후 부동산 소유자인 신청인에게 대한 송달을 공시송달의 방법으로 한 것인 이상 그 공시송달은 법률상 송달로서의 효력을 발생한다는 원결정의 판단은 정당하고 이와 반대의 견해로 원결정을 비난하는 논지는 민사소송법 제422조 제1항 소정의 어느 사유에도 해당하지 아니하여 적법한 준재심 이유가 될 수 없다.",
+            "이에 준재심 신청은 이유없으므로 관여법관의 일치한 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "준재심 신청을 기각한다."
+        ]
+    }
+}

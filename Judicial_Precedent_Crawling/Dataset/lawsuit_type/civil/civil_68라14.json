@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "이송신청각하결정에대한항고사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1968.8.23.",
+        "caseNo": "68라14",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "특정물의 인도채무의 이행지는 원칙적으로 그 채무성립 당시에 그 물건이 있던 장소라 할 것이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 피신청인은 이건 주권대여계약 성립당시에는 그 주권이 대구시에 있었다고 주장하고 있음은 솟장에 의하여 명백하므로 그 반환을 구하는 이건 소송은 대구지방법원에도 의무이행지로서 관할권이 있다 할 것이니 원심법원에 관할권이 없다는 것을 전제로 한 항고논지는 이유없고 같은 이유로서 이송신청을 각하한 원심결정은 정당하니 항고를 기각하고 민사소송법 제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이건 항소를 기각한다."
+        ]
+    }
+}

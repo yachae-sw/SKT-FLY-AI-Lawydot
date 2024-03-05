@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.2.22.",
+        "caseNo": "82도2555",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피해자를 기망하여 연대보증인으로 서명케 한 행위와 사기죄의 성부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결 이유를 기록과 대조하여 살피건대 원심이 인용한 제1심 판결 거시의 증거를 종합하면 피고인의 본건 사기사실은 그 증명이 충분하여 심리미진이나 사실오인이 있다는 논지는 이유 없고 피고인이 피해자를 기망하여 연대보증인으로 서명하게 한 행위에 대하여 형법 제347조 제2항을 적용처단한 원심의 조처에도 아무 위법이 없으므로 법리오해를 주장하는 논지도 받아들일 수 없다.",
+            "따라서 상고를 기각하고 상고 후의 구금일수 중 일부를 그 본형에 산입하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "채권부존재확인",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1978.2.28.",
+        "caseNo": "78다51",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사립학교교원연금법 부칙 2조와 퇴직금 산정방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 피고등의 1974.12.31까지의 이건 퇴직금을 산정함에 있어 1974.12.31 이전 3개월간의 평균임금을 기초로 하여 산정하여야 한다는 취지로 판단하여 원고의 청구를 인용한 조처는 사립학교교원연금법의 부칙의 규정과 근로기준법의 해당규정에 비추어 적법하고 원판결에는 소론과 같은 법리를 오해한 위법사유가 없으므로 논지는 이유없어 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 모두 상고비용은 피고등의 부담으로 한다."
+        ]
+    }
+}

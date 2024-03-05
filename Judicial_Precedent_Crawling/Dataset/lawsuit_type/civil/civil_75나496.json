@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "불교단체및주지등록취소청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1976.4.9.",
+        "caseNo": "75나496",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사찰의 당사자능력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 위 사찰이 위와 같이 대한불교조계종소속의 말사로서 관할청에 의한 등록절차의 요건흠결여부의 심사를 거쳐 불교단체등록이 마쳐진 이상 위 사찰은 일단 대한불교조계종에 속하는 사찰이라고 할 것이고 위 등록된 피고 ○○사와는 다른 원효불교단종파에 속하는 별개독립의 사찰이라고 하는 원고 ○○사는 그 실체가 인정되지 아니하여 당사자능력이 없다고 할 것이다.",
+            "그리하여 결국 이사건 소는 부적법한 것으로서 그 흠결을 보정할 수 없는 경우에 해당하므로 이를 각하할 것이니 이와 결론을 같이하는 원판결은 결과에 있어서 정당하고 항소는 이유없어 이를 기각하기로 하며 항소비용의 부담에 관하여는 민사소송법 제95조  제99조를 준용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기말소청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1961.9.27.",
+        "caseNo": "4292민공112",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "농지분배의 당연무효주장과 재산신청등 절차의 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대부금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.2.22.",
+        "caseNo": "4294민상925",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고 갑 주식회사 ○○○읍 출장소장의 권한과 표현대리"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 하고 이 사건을 서울고등법원에 환송 한다."
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1972.5.9.",
+        "caseNo": "72도597",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "두개의 공소사실들이 형법  전단 소정의 경합범 관계에 있는 경우 그 사실들에 대하여 병합심리를 하고 한 판결로서 처단하는 이상 형법   소정의 예에 따라 경합 가중한 형기 범위 내에서 피고인을 단일한 선고형으로 처단하여야 한다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고 사건을 춘천지방법원 합의부에 환송한다."
+        ]
+    }
+}

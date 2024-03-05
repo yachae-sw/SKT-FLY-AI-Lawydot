@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수표금청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1968.12.5.",
+        "caseNo": "68나150",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소지인출급식 수표의 지급거절증서작성 후의 양도에 있어서의 수표채무자가 대항할 수 있는 사유"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그런데 원고들의 각 위의 수표등을 양수한 날짜가 각 그 수표등에 대한 지급거절 선언이 작성된 후인 사실은 원고들이 시인하는 바이고 무릇 수표가 지급거절 선언이 작성된 후에 양도된 경우에는 그 효력은 지명채권의 양도와 같은 효력밖에 없다고 할 것이므로 수표채무자는 양도인에게 대항할 수 있는 모든 사유로서 양수인에게 대항할 수 있다고 할 것인 바 위의 수표등은 위의 소외인이 그의 사채를 변제하기 위하여 임의로 발행한 것임은 원고들이 시인하는 바이므로 결국 원고들의 청구는 모두 부당하여 기각할 것이다.",
+            "따라서 원심판결은 부당하므로 민사소송법 제386조  제93조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 취소한다."
+        ]
+    }
+}

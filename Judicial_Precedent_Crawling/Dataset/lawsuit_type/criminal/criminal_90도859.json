@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.6.12.",
+        "caseNo": "90도859",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "깨진 맥주병 항아리조각 부러뜨린 걸레자루가 폭력행위등처벌에관한법률  의 '위험한 물건'에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결 및 원심이 인용한 제1심판결이 들고 있는 증거를 기록에 비추어 살펴보며 피고인에 대한 원심판시의 범죄사실을 인정하기에 넉넉하고 원심이 깨진 맥주병 항아리조각 부러뜨린 걸레자루 등을 소론의 위험한 물건이라고 판단한 것은 정당하므로 원심판결에 지적하는 바와 같은 채증법칙위배로 인한 사실오인과 법리오해의 위법이 있다 할수 없고 피고인에게 징역 10년 미만의 형이 선고된 이 사건에 있어서 양형부당의 주장은 적법한 상고이유가 될 수 없으니 논지는 모두 이유없다.",
+            "이에 상고를 기각하고 상고후의 미결구금일수 중 33일을 본형에 산입하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

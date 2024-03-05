@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "낙찰허가결정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1994.7.11.자",
+        "caseNo": "94마1036",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "\"경락허가에 대한 이의신청\"이라는 제목으로 제출된 불복의 처리"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "경락허가결정에 대한 불복방법으로서는 즉시항고만이 인정되고 이의의 방법은 허용되지 아니하므로 이의신청이라는 제목으로 제출된 불복은 이를 즉시항고로 보아 처리함이 상당하다 할 것인바 원심이 이러한 입장에서 재항고인의 이 사건 1994.5.2.자 \"부동산경락허가에 대한 이의신청\"을 즉시항고로 보고 판단한 조치는 적법하고 나아가 소론의 주장은 재항고인이 즉시항고를 제기함에 있어 항고장에 민사소송법 제642조 제4항 소정의 공탁을 하였음을 증명하는 서류를 첨부하지 않았음을 이유로 그 제5항에 의하여 항고장을 각하한 원심결정에 대한 적법한 재항고이유가 될 수 없는 것이므로 논지는 이유가 없다.",
+            "이에 재항고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

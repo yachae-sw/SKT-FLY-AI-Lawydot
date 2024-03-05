@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "뇌물공여,횡령,제3자뇌물교부,폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1988.9.20.",
+        "caseNo": "86도628",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "불법원인급여와 횡령죄의 성부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민법 제746조에 불법의 원인으로 인하여 재산을 급여하거나 노무를 제공한 때에는 그 이익의 반환을 청구하지 못한다고 규정한 뜻은 급여를 한 사람은 그 원인행위가 법률상 무효임을 내세워 상대방에게 부당이득반환청구를 할 수 없고 또 급여한 물건의 소유권이 자기에게 있다고 하여 소유권에 기한 반환청구도 할 수 없어서 결국 급여한 물건의 소유권은 급여를 받은 상대방에게 귀속된다는 것인바 원심판시와 같이 피고인이 조합으로부터 공무원에게 뇌물로 전달하여 달라고 금원을 교부받은 것은 불법원인으로 인하여 지급받은 것으로서 이를 뇌물로 전달하지 않고 타에 소비하였다고 해서 타인의 물을 보관중 횡령하였다고 볼 수는 없으므로 논지 이유없다.",
+            "따라서 이 상고를 기각하기로 하고 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

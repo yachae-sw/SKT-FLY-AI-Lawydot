@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.12.22.자",
+        "caseNo": "82마750",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "집달관에 의한 경매부동산의 감정평가의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 재항고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

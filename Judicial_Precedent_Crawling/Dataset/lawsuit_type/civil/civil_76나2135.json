@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "양수금청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1977.2.16.",
+        "caseNo": "76나2135",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채권양도를 전제로 한 소취하 약정의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 위 소취하에 관한 원 피고간의 합의는 그 효력이 있다고 볼 수 없어 피고의 위 본안전항변은 이유없다 하겠다.",
+            "그러므로 나아가 본안에 관하여 판단해야 할 것인 바 이와 결론을 달리하여 이건 소가 원 피고간의 위 소취하 합의에 어긋나 부적법하다고 보고 이건 소를 각하한 원판결은 부당하여 이를 취소하고 민사소송법 388조에 의하여 이사건을 1심법원에 환송하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

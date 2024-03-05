@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가등기가처분결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1973.8.29.자",
+        "caseNo": "73마657",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부동산등기법상의 가등기가처분의 성질"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "부동산등기법상의 가등기가처분은 당사자의 이해관계의 대립이 있을 요건으로 하지 아니하는 보전처분으로서 그것도 본등기의 순위보전의 효력밖에 없는 것이므로 민사소송법상의 가처분과는 성질이 달라 민사소송법의 가처분에 관한 규정을 준용할 여지가 없는 만큼 가등기가처분의 수소법원은 그 가등기 원인에 대한 소명의 취급에 신중을 기할 필요가 있고 그 소명이 충분한가 아닌가를 조사 검토 하여야 할 것이므로 기록에 의하면 원심이 같은 취지에서 본건에 있어서 항고인이 내세우고 있는 소명은 그 거시의 다른 서류들에 비추어 가등기원인의 소명으로서는 불충분하고 그밖에 소명이 없다 하여 항고인의 본건 항고를 배척한 조처는 정당하고 원결정에는 소론과 같은 위법이 있다 할 수 없으므로 논지는 이유없다.",
+            "그러므로 재항고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

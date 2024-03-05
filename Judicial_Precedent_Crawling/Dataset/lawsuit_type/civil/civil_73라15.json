@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "경매절차정지가처분기각결정에대한항고",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1974.4.19.자",
+        "caseNo": "73라15",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부동산임의경매사건의 경락허가결정취소신청에 대한 기각결정에 불복하는 항고의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그런데 민사소송법 제507조 2항에 규정된 신청에 대한 재판은 그 성질이 임시조치로서 하는 잠정적인 재판이라 이에 대하여는 같은법 제473조 3항을 유추하여 그 불복이 허용되지 않는다 할 것이므로 이건 항고는 결국 불복할 수 없는 결정에 대한 항고로서 부적법한 것이므로 각하하기로 하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항고를 각하한다."
+        ]
+    }
+}

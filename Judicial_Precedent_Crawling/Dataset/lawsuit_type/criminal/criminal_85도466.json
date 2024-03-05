@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.5.14.",
+        "caseNo": "85도466",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "압류표시를 떼어 달라고 매달리는 피해자를 피하려고 뿌리치다 상해를 입힌 경우 상해죄의 성부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결 이유에 의하면 원심은 피고인이 일부러 피해자를 현관 바닥에 넘어뜨려 상해를 입혔다고 인정할 만한 자료는 없고 오히려 압류표시를 떼어 달라고 매달리는 피해자를 피하기 위하여 이를 뿌리치고 나온 것에 불과하다고 인정되므로 그 과정에서 피해자가 다소의 상처를 입었다 하더라도 그러한 사실만으로는 피고인을 상해죄로 문의할 수 없다는 취지로 무죄를 선고한 제1심판결을 유지하여 검사의 항고를 기각하였는바 기록에 의하여 살피건대 원심의 그와 같은 조치에 수긍이 갈 뿐만 아니라 피고인의 소위가 폭행치상죄에 해당한다고 인정할 만한 자료도 찾아볼 수 없으므로 논지는 모두 이유없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

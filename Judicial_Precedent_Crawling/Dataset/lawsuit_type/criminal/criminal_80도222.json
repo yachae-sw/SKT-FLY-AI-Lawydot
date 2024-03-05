@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사문서위조·사문서위조행사",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.3.11.",
+        "caseNo": "80도222",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "문서의 내용과 관계없는 사항의 기입과 문서의 변조"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 원심이 그 사실로서는 이른바 사문서변조죄가 성립하지 아니한다고 판단하였음은 상당하고 거기에 같은 죄에 관한 법리오해가 없으므로 논지 이유 없다.",
+            "이리하여 상고는 이유없으므로 이를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "건물명도등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.2.4.자",
+        "caseNo": "86그157",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부당한 인지보정명령에 대한 불복방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "결국 항고이유를 따져 볼 필요도 없이 이 사건 재항고는 부적법하므로 이를 각하하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 각하한다."
+        ]
+    }
+}

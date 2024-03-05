@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "농지반환,손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.8.4.",
+        "caseNo": "4288민상64",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "자치단체의 설립경영하는 학교와 당사자능력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "직권으고써 심안하니 서울농업고등학교는 지방자치단체인 서울특별시가 설립경영하는 학교임이 공지의 사실인바 이와같은 지방자치단체의 영조물은 법인이 아님은 물론이요 민사소송법 제46조 규정의 사단 또는 재단에도 해당하지 않으므로 당사자 능력이 없는 것이다 그렇다면 본소는 당사자 능력을 결한 부적법한 것으로서 각하할 것인바 제1심 법원은 이를 간과하여 본안에 대하여 재판하였으며 원심 역시 공소기각의 언도를 하였음은 모다 위법이므로 원판결을 파기하고 민사소송법 제408조 제96조 제89조에 의하여 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다"
+        ]
+    }
+}

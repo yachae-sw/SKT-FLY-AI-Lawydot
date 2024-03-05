@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "보수금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1964.3.31.",
+        "caseNo": "63다715",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "정관이나 주주총회의 결의 또는 주무부장관의 승인에 의한 보수액의 결정이 없었던 경우에 주주총회의 결의에 의하여 그 상무취체역으로 선임되어 임무를 수행한자의 보수금 지급에 관한 특약의 존부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원 판결을 파기하고 사건을 서울고등법원에 환송한다."
+        ]
+    }
+}

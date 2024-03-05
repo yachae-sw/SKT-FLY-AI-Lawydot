@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가옥명도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.11.26.",
+        "caseNo": "68다14681469",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "계의 청산관계로 부담하게 되었던 채무를 변제하기 위하여 한 대물변제의 예약의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하여 원판결을 검토하건대 원심이 본건 부동산에 관하여 피고가 원고에게 소유권이전등기를 하여 준 것은 원고의 강박에 의한 것이라는 피고의 주장에 대하여 이를 배척한 조처에 채증상 위법이 있다고 볼 수 없으므로 이에 반하는 논지는 이유없고 또 일종의 조합관계였던 계의 청산관계로 부담하게 되었던 채무를 변제하기 위하여 대물변제의 예약이 이루어진 경우에는 이는 소비대차관계로서 생긴 대물변제의 예약이라고는 할 수 없는 것이니 민법 제607조 608조의 규정은 적용될 수 없다 할 것이므로 이와 같은 취지로 판시한 원판결은 정당하고 반대의 논지 역시 이유없다.",
+            "이에 상고는 이유없으므로 기각하고 소송비용은 패소자의 부담으로 하여 관여법관의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

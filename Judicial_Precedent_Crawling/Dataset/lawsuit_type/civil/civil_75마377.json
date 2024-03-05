@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1975.10.22.자",
+        "caseNo": "75마377",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경매부동산에 대한 처분금지가처분자가 민사소송법 641조 1항에 의한 경락허가결정에 대하여 한 항고의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민사소송법 제641조 제1항의 규정에 의하면 이해관계인만이 경락허가결정에 대하여 불복을 할 수 있게되어 있는데 반하여 이 이해관계인의 범위를 규정한 민사소송법 제607조의 규정에 의하면 재항고인과 같이 경매부동산에 대한 처분금지가 처분권자는 여기에 들어 있지 이러한 취지에서 원심이 재항고인의 이 사건 항고를 부적법하다 하여 각하한 것은 정당하다. 그러므로 관여법관들의 일치한 의견으로 이 재항고를 기각하기로 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 재항고를 기각한다."
+        ]
+    }
+}

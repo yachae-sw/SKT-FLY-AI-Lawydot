@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권확인청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1977.2.4.",
+        "caseNo": "76나2684",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소유권확인청구에 대한 군의 피고 당사자적격"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "별지 부동산목록 생략"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

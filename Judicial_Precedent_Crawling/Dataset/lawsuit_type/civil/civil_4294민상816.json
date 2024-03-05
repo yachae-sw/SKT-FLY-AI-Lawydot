@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대여금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1961.2.8.",
+        "caseNo": "4294민상816",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "기존채무의 이행을 보장하기 위하여 약속어음을 발행한 경우와 기존 채권의 소멸시효"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 원고의 청구 원인을 일반 채권으로 보고 피고의 시효항변을 배척한 것은 다음에 논지는 피고의 처남인 소외 3이 20만환어치의 돈과 물건을 원고에게 갚았다는 점은 원고가 다투지 않고 있다 하나 이러한 피고의 답변에 대하여 원고는 제1심 변론에서 원고의 주장에 반하는 피고의 답변사실을 부인하고 있는 것이 기록상 뚜렷하므로 이 논지도 기록을 자세히 검토하지 않은 주장임이 필경 이 상고는 이유없다 하겠으므로 개정전의 민사소송법 제400조를 적용하여 기각하기로 하고 상고비용에 관하여는 패소자의 부담으로 관여 법관 전원의 일치된 견해로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각 한다."
+        ]
+    }
+}

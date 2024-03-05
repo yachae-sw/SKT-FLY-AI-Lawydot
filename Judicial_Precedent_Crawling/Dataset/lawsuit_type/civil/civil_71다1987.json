@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.11.9.",
+        "caseNo": "71다1987",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "해안초소 복무군인이 선박을 정선 검문키 위하여 총기를 발사하여 인명의 피해를 끼친 경우 과실을 인정한 사례.",
+            "선박을 운항하는 자가 정지신호를 인식하지 못하여 운항을 계속하였다면 과실이 있다고 할 수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 상고를 기각하기로 하고 상고소송비용의 부담에 관하여 민사소송법 제95조 89조를 적용하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각 한다."
+        ]
+    }
+}

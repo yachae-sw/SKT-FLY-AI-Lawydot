@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.6.22.",
+        "caseNo": "71다1029",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "철도 건널목에 대한 보안시설을 함에 있어 이른바 1종시설로 할 것을 4종시설인 “일단정지” 표시만을 해둔 경우와 시설물의 하자."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 사건이 일어난 현장인 원설시 건널목에 대한 피고측의 보안시설은 이른바 1종 시설로 할 것을 4종 시설인 \"일단정지\" 표시를 해둔 것은 시설물의 하자에 해당한다고 원심이 판단하였음은 수긍 못할 바 아니며 그 판시와는 반대의 견해로 그 건널목에 대한 보안시설에 하자가 있다고 보기 어렵다는 취지로 펴는 각 논지는 이유 없고 원판결 판단에 소론 위법이 있다고 하기 어렵다.",
+            "이러므로 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

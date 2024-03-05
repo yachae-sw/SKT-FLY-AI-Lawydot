@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사기·사문서위조·사문서위조행사",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.5.24.",
+        "caseNo": "83도877",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "간이공판절차에 의하여 증거로 채택한 서류가 허위로 작성된 것이라는 상고이유의 당부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록을 살피건대 본건에 관하여 피고인은 제1심 법정에서 범죄사실을 모두 시인한 까닭에 제1심은 형사소송법 제286조의 2의 규정에 따라 간이공판절차에 의한 심판할 것을 결정한 사건이므로 검사가 제출한 증거서류는 동법 제318조의 3에 의하여 증거로 함에 동의한 것으로 간주하여 유죄의 증거로 채택하였음은 적법하다고 할 것이니 이제와서 동 증거서류들이 허위작성된 것이라는 소론은 이유없고 원심공판조서기재 및 원심판결에 의하면 항소이유에 대한 심리를 다하고 또 그 전부에 대하여 판단하고 있음이 명료하므로 소송절차에 하자가 있다는 소론 역시 채택할바 못된다.",
+            "그러므로 상고는 이유없어 이를 기각하고 상고후의 당심 미결구금일수의 일부를 통산하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

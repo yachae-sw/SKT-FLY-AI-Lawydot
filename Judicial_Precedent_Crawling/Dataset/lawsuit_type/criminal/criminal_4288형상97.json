@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수회증회",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.7.11.",
+        "caseNo": "4288형상97",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "의례의 범위와 뇌물성의 존부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안하니 기록에 의하면 피고인 양명 간에 수수된 소론금 60만원을 사교적 의례의 범위를 일탈한 것으로서 피고인 1의 직무에 관한 것임이 소연함에 불구하고 원심이 그 직무에 관한 것이 아니라 하여 피고인 양명에 대하여 무죄를 선언하였음은 채증법에 위반한 위법이 있음으로 논지는 자에 형사소송법부칙 제1조 구 형사소송법 제448조의2에 의하여 원판결을 파기하여 원심에 환송키로 하는 바이다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

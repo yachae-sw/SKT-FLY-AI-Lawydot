@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "횡령피고사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1961.8.9.",
+        "caseNo": "4294형공101",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무권대리인의 매매행위이후에 한 본인의 매매행위가 횡령죄가 되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 전시 공소외 2가 피고인으로부터 본건 토지에 대한 매매대리권을 수여받았음을 전제로하여 한 공소외 3 공소외 4 공소외 5 공소외 6 공소외 7 공소외 8 공소외 9 공소외 10 공소외 11 공소외 14 등에게의 본건 분할 매매행위는 공소외 2의 무권대리행위로서 동 행위는 본인인 피고에게 기 효력이 미치지 아니하다할 것이고 따라서 피고인은 우 동 소외인 등에게 본건 토지를 매도한 사실이 없음에 귀착될 것이니 피고인이 본건 토지를 공소외 1에게 매도한 행위는 결국 범죄가 성립되지 아니함에 귀착되야 형사소송법 제325조에 의하여 피고인에게 대하여 무죄를 선고하기로 할 것인바 이와 동지인 원심판결에 대한 본건 공소는 그 이유없음으로 형사소송법 제364조 제2항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 공소는 이를 기각한다."
+        ]
+    }
+}

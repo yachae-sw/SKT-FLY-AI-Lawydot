@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "절도등피고사건",
+        "courtNm": "수원지법",
+        "judmnAdjuDe": "1984.11.23.",
+        "caseNo": "84노1161",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인만이 항소한 사건에서 원심이 장물의 대가를 교부하지 아니한 경우의 항소심의 조치"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "당원이 인정하는 범죄사실 및 그 증거관계는 모두 원심판시와 같으므로 같은법 제369조에 의하여 이를 인용한다.",
+            "【적용법조】",
+            "형법 제329조 제331조 제2항 제1항 도로교통법 제75조 제1호 제38조 제35조 제37조 전단 제38조 제1항 제2호 제42조 단서 소년법 제2조 제54조 형법 제57조 형사소송법 제333조 제2항."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기한다."
+        ]
+    }
+}

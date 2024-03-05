@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대여금청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1972.3.23.",
+        "caseNo": "71나1778",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "관세포탈품 구입자금의 대여가 불법원인급여에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "위 인정사실에 의하면 위 대여금은 관세법에서 금지하고 있는 관세포탈품의 구입자금조로 원고가 이에 합의하여 이를 조달하여 준 것이므로 이는 민법 제746조의 불법원인급부에 해당하고 따라서 원고는 피고에게 위 금원의 반환을 청구할 수 없다 하겠다.",
+            "과연 그러하다면 위 대여금의 지급을 구하는 원고의 본소청구는 이유없다 하여 이를 기각할 것인바 이와 결론을 달리하는 원판결은 부당하므로 이를 취소하고 원고의 청구를 기각하며 소송비용은 패소자의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

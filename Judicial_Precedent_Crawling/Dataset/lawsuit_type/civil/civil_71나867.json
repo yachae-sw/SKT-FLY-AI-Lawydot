@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소등청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1972.3.29.",
+        "caseNo": "71나867",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "임야세 명기장의 적요란 기재 부분을 믿을 수 없다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 위 갑5호증의 전술한 적요란 기재부분은 작성권한 있는자에 의하여 적법하게 기입된 것이라고 보기 어려우므로 그 기재부분은 당원이 그대로 받아들일 수 없고 당심 및 원심증인 소외 2 소외 3 당심증인 소외 4 소외 5의 증언 만으로서는 원고가 그 주장일시에 피고 1로부터 본건 임야를 매수하였다고 단정하기에는 부족하고 그외의 원고의 모든 거증에 의하더라도 원고 주장의 위 매매사실을 인정할만한 아무런 자료가 없다.",
+            "그렇다면 원고가 1943.6.경에 본건 임야를 피고 1로부터 매수하였다는 것을 전제로 한 원고의 본소 청구는 이유없어 기각할 것인바 이와 결론을 달리한 원판결중의 피고 패소부분은 부당하므로 이를 취소하고 소송비용의 부담에 대하여는 민사소송법 제96조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중 피고들 패소부분을 취소한다."
+        ]
+    }
+}

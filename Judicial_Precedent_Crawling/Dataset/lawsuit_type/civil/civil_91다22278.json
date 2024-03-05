@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부당이득금반환",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1991.10.11.",
+        "caseNo": "91다22278",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "적법한 상고이유의 제출방법",
+            "'원고가 1심 이래 원심에서 주장하여 온 원인을 상고이유로 원용한다'는 상고이유서의 기재가 적법한 상고이유의 제출로 될 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "상고이유는 상고장에 기재하거나 상고이유서라는 독립된 서면으로 하여야 하고 다른 서면의 기재내용을 원용할 수 없는 것이고 원심판결의 어떤 부분이 어떻게 법령에 위배되었는가를 구체적으로 명시하지 아니하면 상고이유의 제출이 있었다고 할 수 없을 것인바 상고이유서에 '원고가 1심 이래 원심에서 주장하여 온 원인을 상고이유로 원용한다'는 기재만으로는 적법한 상고이유의 제출이 있었다고 할 수 없고 그 밖에 상고이유서에 적법한 상고이유로 삼을 만한 내용은 없다.",
+            "그러므로 상고를 기각하고 상고비용은 패소자의 부담으로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

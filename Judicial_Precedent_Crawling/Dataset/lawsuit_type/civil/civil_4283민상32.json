@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소작권계속급소작권침해배제",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1954.12.30.",
+        "caseNo": "4283민상32",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "농지개혁법 와 경작권확인"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨대 농지개혁법 제27조에 소위 소작권의 이동 및 박탈을 금지한다 함은 동 법 공포당시 현재의 소작권을 보호하기 위한 법의인 것은 다언을 요하지 아니할 그러므로 본건 원고가 우 법 공포일 당시에 현존한 소작권계속의 확인 및 그 침해의 배제를 소구한 것은 적법한 것이라 할 것임으로 원심은 의당히 그 소작권의 존부 및 기 청구의 당부에 대하여 심리판단하여야 할 그럼에도 불구하고 원심이 이에 이르지 아니하였음은 우 법의 오해가 아니면 심리미진이라 할 논지이유 있으므로 원판결은 파기를 면하지 못할 따라서 이여의 논지에 대한 설명을 생략하고 본건을 경히 심리하게 하기 위하여 민사소송법 제407조 제1항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

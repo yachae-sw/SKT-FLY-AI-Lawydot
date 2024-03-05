@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1997.12.23.",
+        "caseNo": "97다45341",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "매매를 원인으로 한 소유권이전등기 청구소송에서 승소판결을 받았으나 항소심에서 토지거래허가신청절차 이행의 소로 변경함으로써 당초의 소가 종국판결 후 취하된 것으로 된 경우 토지거래허가를 받은 후 다시 소유권이전등기 청구소송을 제기하는 것이 재소금지원칙에 위반되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결 이유를 기록과 대조하여 살펴보면 이 사건 매매로 인한 양도소득세를 원고가 부담하기로 하였다는 피고들의 주장을 배척한 것은 옳고 거기에 상고이유에서 주장하는 바와 같이 처분문서의 해석을 그르치거나 다른 법리오해 등의 위법이 있다고 할 수 따라서 이 점 상고이유도 받아들이지 아니한다.",
+            "그러므로 상고를 모두 기각하고 상고비용은 패소자인 피고들의 부담으로 하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 모두 상고비용은 피고들의 부담으로 한다."
+        ]
+    }
+}

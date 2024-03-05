@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "이송결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1973.11.26.자",
+        "caseNo": "73마910",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "약속어음금 청구사건에 관한 관할법원"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민법 제467조 2항의 법의는 불특정물의 급부를 목적으로 하는 채무는 그 채무의 성질 또는 당사자의 별단의 의사표시에 의하여 채무이행 장소가 정하여 지지 않는한 통상 지참채무로 본다는 뜻이므로 약속어음은 그 성질상 그 어음상에 표시된 지급지가 의무이행지라 할 것이며 그리고 소송이 어음금청구인 이상 지급기일에 지급장소에서 어음이 제시되어 지급거절이 된 경우에도 그 의무이행지에 무슨 변동이 생기는 것도 그러므로 이 약속어음금 청구사건에 대한 관할법원은 채권자의 주소지를 관할하는 서울민사지방법원이 아니고 그 지급지의 소재지를 관할하는 부산지방법원 마산지원임이 뚜렷하므로 이러한 취지에서 항고인 항고를 기각한 원결정은 정당하고 지참채무란 전제 아래 원결정을 논난하는 재항고논지는 이유없다.",
+            "그러므로 관여법관의 일치된 의견으로 주문과 같이 재항고를 기각한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부당이득금반환",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1991.5.28.",
+        "caseNo": "91다9831",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상고장에 상고이유로서 원심이 사실을 오인하고 법리해석을 잘못하여 판결에 영향을 미친 위법이 있다고만 기재한 것만으로써 상고이유가 명시되었다고 볼 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 원고 소송대리인은 상고장에 상고이유로서 원심이 사실을 오인하고 법리해석을 잘못하여 판결에 영향을 미친 위법이 있다고만 기재하였을 뿐이어서 이것만으로는 상고이유가 구체적으로 명시되었다고 볼 수 없고 그 밖에 소정기간 내에 상고이유서를 제출하지 아니하였음이 분명하다.",
+            "따라서 상고를 기각하고 상고비용은 패소자의 부담으로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

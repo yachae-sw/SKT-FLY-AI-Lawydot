@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가압류이의신청사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1975.5.22.",
+        "caseNo": "74나1084",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "중실화로 인정되지 아니한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "별지 생략"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

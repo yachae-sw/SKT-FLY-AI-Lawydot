@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수표금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1964.7.14.",
+        "caseNo": "64다63",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "수표상의 이득상환 청구권을 취득할 수 있는 소지인의 범위."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이리하여 본건상고는 이유있다 하겠으므로 원심판결중 피고의 패소부분을 파기하고 이 부분을 원심인 서울민사지방법원으로 환송하기로 한다.",
+            "이 판결에는 관여법관들의 의견이 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결중 피고의 패소부분을 파기하고 이 부분을 서울민사지방법원으로 환송한다."
+        ]
+    }
+}

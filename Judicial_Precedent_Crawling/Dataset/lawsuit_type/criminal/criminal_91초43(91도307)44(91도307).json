@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "위헌제청신청,판결정정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1991.4.29.자",
+        "caseNo": "91초43(91도307)44(91도307)",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "판결선고 전의 구금일수 중 본형 산입부분에 오류가 있다는 판결정정신청 사건의 재판에 전제가 됨을 이유로 한 형사소송법  소송촉진등에관한특례법 에 대한 위헌제청신청의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 이의 위헌제청신청은 부적법하므로 이를 각하하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건 판결정정신청을 기각하고 위헌제청신청을 각하한다."
+        ]
+    }
+}

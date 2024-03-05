@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "원인무효에인한부동산소유권이전등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.3.",
+        "caseNo": "4294민상1630",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사용목적 변경인정이 취소된 당시의 토지가 농경지가 아니었고 군이 점거 사용하고 있는 토지에 대한 분배의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이에 민사소송법 제400조 제89조 제95조에 의하여 관여 법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.5.23.",
+        "caseNo": "66다1025",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "위자료 청구권의 상속여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "정신적 손해에 대한 배상 청구권은 피해자가 이를 포기하거나 변제하였다고 볼 수 있는 특별한 사정이 없는 한 생전에 청구의 의사를 표시할 필요 없이 원칙적으로 상속되는 것이라고 해석함이 상당하다고 하는 것이 본원의 판례이므로 이와 반대의 견해로써 위자료 청구권은 일신 전속권인 것으로서 사망자가 생전에 같은 청구권을 포기한 사실이 없으므로서 만은 부족하고 생전에 이 청구권을 행사하려고 한 의사를 표시한 사실이 있어야 한다고 판시한 원심 판시이유는 정신적 손해에 대한 배상청구권의 발생에 관한 법리를 오해한 위법이 있다고 할 것이다.",
+            "논지는 이유있으므로 민사소송법 제406조 제1항의 규정을 적용하여 일치된 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중 원고들 패소부분을 파기한다."
+        ]
+    }
+}

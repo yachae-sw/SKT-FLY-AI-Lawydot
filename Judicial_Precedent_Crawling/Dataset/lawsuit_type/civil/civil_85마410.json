@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "등기공무원의결정에대한이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.10.4.자",
+        "caseNo": "85마410",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "등기의무자가 외국에 주소를 두고 있는 경우 부동산등기법 의2 소정 기간의 신장여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원결정 이유에 의하면 등기의무자가 외국에 주소를 두고 있는 경우라 할지라도 부동산등기법 제49조의 2에 규정된 2주일간의 기간이 신장된다고 볼 수 없어 이 사건 등기신청을 각하한 등기공무원의 결정을 정당한 것으로 받아들인 것인 바 기록과 소명자료를 살펴보면 위 원결정은 정당하고 거기에 소론 지적과 같은 심리미진 또는 위 부동산등기법 제49조의 2에 관한 해석의 잘못이 있다고 할 수 없으므로 논지는 이유없다.",
+            "이에 재항고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

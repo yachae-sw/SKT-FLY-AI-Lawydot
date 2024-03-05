@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가옥명도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.7.21.",
+        "caseNo": "4288민상132",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "행정소송 재판의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안하니 행정소송의 재판은 창설적 효력이 있는 것임으로 그 효력은 제3자에 대하여도 미치는 것이라고 아니할 수 없다 일건 기록에 의하면 본건 계쟁 부동산에 관하여 원고 주장의 임대차계약은 서울고등법원 1954년 행신 제54호 가처분 결정으로 그 본안소송인 동원 단기 4287년 행 제55호의 행정소송사건의 판결시까지 그 효력이 정지되였음을 긍인할 수 있음으로 원고는 우 신청사건의 당사자 아닌 피고에 대하여도 임차권자로서 본건 소송을 제기 또는 수행할 권한이 정지되었다고 아니할 수 그럼에도 불구하고 원심은 우 가처분결정의 효력에 대하여 전시 본안사건의 진행 정도도 확인하지 아니하고 그 대세적 효력을 인정하지 아니한 것은 전시법리를 오해한 것이라 할 것이다 논지이유 있다.",
+            "그러므로 본건을 경히 심리판단하게 하기 위하여 민사소송법 제407조 제1항에 의거하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

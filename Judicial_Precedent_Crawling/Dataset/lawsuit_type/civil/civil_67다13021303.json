@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.9.19.",
+        "caseNo": "67다13021303",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "철도 건널목의 자동 경보기가 고장이난 경우 이에 대치하는 보안시설을 갖추어야 할 업무상 주의의무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 상고는 이유 없다 하여 기각하기로 하고 상고 소송비용은 패소자의 부담으로 하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

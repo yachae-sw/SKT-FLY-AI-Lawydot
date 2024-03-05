@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "자동차감수보존명령신청기각결정에대한즉시항고사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1971.6.25.자",
+        "caseNo": "71라3",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "자동차의 강제집행에 관한 사항이 집행법원의 전속관할에 속하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원심결정을 취소하고 이 사건을 집행법원인 전주지방법원 군산지원에 이송한다."
+        ]
+    }
+}

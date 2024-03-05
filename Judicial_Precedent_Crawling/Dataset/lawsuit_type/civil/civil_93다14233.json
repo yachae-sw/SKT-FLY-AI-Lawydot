@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부당이득금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1993.6.8.",
+        "caseNo": "93다14233",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가집행선고로 인한 지급물로 금원을 지급한 것을 임의변제로 보아 제1심판결을 취소하고 원고의 청구를 기각한 판결에 대한 피고의 상고이익 유무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 직권으로 살피건대 상소인은 자기에게 불이익한 재판에 대하여서만 상소를 제기할 수 있는 것이고 재판이 상소인에게 불이익한 것인지의 여부는 재판의 주문을 표준으로 하여 결정되는 것인바 이 사건 원심판결은 원고 승소의 제1심판결을 취소하고 원고의 청구를 기각한 판결이므로 비록 주문에 이른 이유판단이 위법하다 하더라도 결과적으로 승소한 피고로서는 이에 대하여 상고를 제기할 이익이 없는 것이다.",
+            "그러므로 피고의 상고는 부적법하므로 이를 각하하고 상고비용은 패소자의 부담으로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 각하한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "집행방법에대한이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.5.28.자",
+        "caseNo": "84마202",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "건물에 관한 화해조서 성립 후 건물의 공유자로 된 자에 의한 화해조서의 집행력의 저지가능 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 이런 취지에서 한 원심결정은 정당하며 소론이 들고 있는 공유에 관한 당원판결은 이 사건에 적절한 것이 되지 못하므로 판례상반이란 소론은 그리고 공유자로서 사용수익권이 있다느니 채권액에 비하여 과대한 가치가 있는 건물명도집행은 부당하다는 점은 소송촉진등에관한특례법 제13조 제11조에 규정된 어느 불복사유에도 해당되지 아니하여 적법한 재항고이유라 할 수 없다.",
+            "그러므로 재항고는 이유없어 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

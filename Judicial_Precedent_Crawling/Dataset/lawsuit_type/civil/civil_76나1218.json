@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1977.6.8.",
+        "caseNo": "76나1218",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가집행선고부 제1심 판결에 기한 강제집행이 진행되는 도중에 원심판결 취소의 항소심판결이 선고되어 그 가집행의 선고가 실효된 경우 그 뒤에 있는 경락허가결정의 유효여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고의 위 주장과 같은 사유로 위 경락허가결정이 무효임을 전제로 한 이건 청구는 이유가 없어 기각할 것이므로 원심판결은 정당하다고 따라서 민사소송법 제384조  제90조  제89조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

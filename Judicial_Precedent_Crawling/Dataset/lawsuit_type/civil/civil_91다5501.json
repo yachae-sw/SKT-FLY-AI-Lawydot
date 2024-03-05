@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "체불임금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1992.7.14.",
+        "caseNo": "91다5501",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "미혼자 등 가족이 없는 근로자에게도 일률적으로 부양가족이 있는 근로자가 지급받는 가족수당의 절반을 지급한 경우 그것이 통상임금의 범위에 속하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "또한 피고는 상고이유로서 원심이 근무시간을 계산하면서 휴식시간을 제외하지 아니함으로써 근로기준법 제42조를 위반하였다는 점도 주장하고 있으나 이는 단순한 법리오해의 법령위반을 주장함에 지나지 아니하므로 소액사건심판법 제3조에 따른 적법한 상고이유가 될 수 논지는 모두 이유 없다.",
+            "그러므로 상고를 기각하고 상고비용은 패소자의 부담으로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.12.11.",
+        "caseNo": "90다카27853",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "제소전 화해의 신청인이 피신청인의 위임을 받아 피신청인의 소송대리인을 선임한 행위의 효력 유무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 피신청인의 소송대리인으로 변호사 윤홍만을 선임하게 된 경위사실을 인정함에 있어 거친 증거의 취사과정을 기록에 비추어 살펴보아도 거기에 소론과 같은 심리미진의 잘못이 있음을 찾아볼 수 없다.",
+            "원심이 확정한 바와 같이 신청인이 피신청인의 소송대리인을 선임한 것이 피신청인의 위임에 의하여 이루어진 것이라면 그것은 유효한 것이고 쌍방대리의 원칙에 따라 무효한 행위였다고 할 수는 없을 것이다.",
+            "원심판결에 변호사법 제24조에 관한 법리오해가 있다는 상고논지는 독자적인 견해를 내세워 원심판결을 공격하는데 지나지 아니하므로 받아들일 수 없는 것이다.",
+            "그러므로 상고를 기각하고 상고비용은 패소자의 부담으로 하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

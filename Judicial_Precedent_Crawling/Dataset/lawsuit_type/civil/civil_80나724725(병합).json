@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기건물명도청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1980.10.30.",
+        "caseNo": "80나724725(병합)",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "당사자의 지위가 뒤바뀐 두 사건을 병합한 예",
+            "회사소유 건물을 그 대표이사 개인명의로 소유권보존등기한 경우의 등기의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 소외 3이 위 소외 회사로부터 그 소유의 이사건 부동산을 취득하였다는 등의 특별한 사정이 엿보이지 아니하는 이 사건에서 위 인정과 같은 경위로 경료된 이사건 부동산에 관한 소외 3명의의 소유권보존등기 및 이에 터잡은 피고 명의의 위 소유권이전등기는 모두 그 원인이 없는 무효의 등기라 할 것이니 위 소외 회사를 대위하여 피고에게 그 등기의 말소를 구하는 원고의 이사건 청구는 이유있어 이를 인용하고 피고 명의의 위 등기가 유효함을 앞세운 피고의 이사건 부동산명도청구는 이유없어 이를 기각할 것이다.",
+            "따라서 원판결은 어느 것이나 이와 결론을 달리하여 부당하다고 인정되므로 이를 모두 취소하고 소송비용은 패소자인 피고의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 모두 취소한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "건물철거",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.12.28.",
+        "caseNo": "71다2124",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "관습상의 지상권에 관한 법리를 오해하였다고 판단된 사례."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심은 그 판시에서 피고 소유의 건물의 존립을 목적으로 하는 대지사용을 그 대지 소유자인 원고 측에서 승낙하였다면 피고는 그 건물이 노후되어 멸실될 때까지는 그 건물을 위하여 그 대지를 사용할 수 있는 관습상의 지상권이 설정되었다고 볼 것이라는 취지로 판시하고 그러나 위와 같은 사실이 있다고 하여 관습상의 지상권이 발생된다고 볼만한 근거는 없는 것이라 할 것이므로 필경 원심은 관습상의 지상권에 관한 법리를 오해하였다 할 논지는 이미 이점에서 이유있다 할 것이요 따라서 나머지의 상고논지에 관한 판단을 생략하고 원심판결 중 원고의 패소부분을 파기하여 이 부분을 원심인 서울고등법원으로 환송하기로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결 중 원고들의 패소부분을 파기하고 이 부분을 서울고등법원에 환송한다."
+        ]
+    }
+}

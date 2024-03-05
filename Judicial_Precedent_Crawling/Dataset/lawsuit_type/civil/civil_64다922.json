@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1964.12.8.",
+        "caseNo": "64다922",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소심이 제1심 판결을 취소하고 사건을 제1심으로 환송하는 판결에 대한 상소의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 각하 한다."
+        ]
+    }
+}

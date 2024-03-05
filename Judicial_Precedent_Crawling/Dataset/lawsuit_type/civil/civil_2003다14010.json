@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "채무부존재확인·손해배상(기)",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2003.6.10.",
+        "caseNo": "2003다14010",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상고심에서 피상고인이 민사소송법  의 규정에 의한 가집행의 원상회복과 손해배상을 구하는 신청을 할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "제1심에서 가집행선고가 붙은 패소의 이행판결을 선고받고 항소한 당사자는 항소심에서 민사소송법 제215조 제2항의 재판을 구하는 신청을 하지 아니하고 제1심의 본안판결을 바꾸는 판결을 선고받아 상대방이 상고한 경우에는 상고심에서 위와 같은 신청을 하지 따라서 원고가 이 법원에서 제기한 민사소송법 제215조 제2항의 재판을 구하는 이 사건 신청은 부적법하다.",
+            "그러므로 상고를 기각하고 상고비용은 패소한 피고가 부담하며 민사소송법 제215조 제2항에 따른 신청을 각하한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 상고비용은 피고가 민사소송법 제215조 제2항에 따른 신청을 각하한다."
+        ]
+    }
+}

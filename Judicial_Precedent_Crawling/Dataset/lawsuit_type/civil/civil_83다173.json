@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "물품대금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.5.24.",
+        "caseNo": "83다173",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소액사건에서 상고허가 신청서의 취급"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 이 사건은 소액사건심판법 소정의 소액사건이므로 원심판결에 동법 제3조 각호의 1에 해당하는 사유가 있는 경우에 한하여 이를 이유로 상고할 수 있는 것인바 논지는 원심판결에는 채증법칙에 위반하여 사실을 오인한 잘못과 심리미진의 잘못이 있다는 것에 지나지 못하여 적법한 상고이유에 해당하지 아니한다.",
+            "그러므로 상고를 기각하고 상고 소송비용은 패소자의 부담으로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

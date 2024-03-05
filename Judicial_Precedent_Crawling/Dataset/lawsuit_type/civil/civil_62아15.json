@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "정조대금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.11.29.",
+        "caseNo": "62아15",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "농어촌 고리채 정리법에 의한 시읍 면 위원회의 최종적 판정은 행정처분이라고는 할 수 없다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 특별 상고를 기각하고 소송비용은 패소자의 부담으로 하기로 하여 관여한 법관의 일치된 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별 상고를 기각 한다."
+        ]
+    }
+}

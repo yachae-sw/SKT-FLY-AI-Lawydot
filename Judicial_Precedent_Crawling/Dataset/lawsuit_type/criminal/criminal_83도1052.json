@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "교통사고처리특례법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.9.13.",
+        "caseNo": "83도1052",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피해자의 오빠의 처벌불원 의사표시와 교통사고처리특례법  의 적용여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 인용한 제1심판결의 거시증거들을 기록과 대조하여 살펴보건대 피고인에 대한 판시범죄사실을 인정한 원심의 조치에 수긍이 가고 거기에 소론과 같은 채증법칙 위배로 인한 사실오인이나 업무상과실에 관한 법리오해의 위법이 없고 또한 기록상 피해자 이진희의 대리행위라고 인정할 수 없는 이 건에 있어서 그 오빠인 이용훈이 제1심 법정에서 피고인의 처벌을 불원하는 의사표시를 하였다는 사실만으로는 교통사고처리특례법 제3조 제2항의 규정에 위반한 위법 판결이라고 할 수 없으므로 논지는 모두 이유없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

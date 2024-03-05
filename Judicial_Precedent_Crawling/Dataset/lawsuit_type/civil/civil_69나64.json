@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "보상금청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1969.4.23.",
+        "caseNo": "69나64",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "징발보상청구가 민사소송 사항인지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "결국 원판결은 부당하므로 민사소송법 386조에 의하여 이를 취소하기로 하고 같은법 388조에 따라 이 사건을 서울민사지방법원에 환송하기로 하여 주문과 같이 판결한다.",
+            "별지 목록 생략"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

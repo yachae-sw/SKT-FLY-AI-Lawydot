@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가옥명도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.4.18.",
+        "caseNo": "4294민상13671368",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "귀속재산처리법  의 주식만이 귀속된 국내법인의 재산을 그 법인의 해산없이 처분한 경우의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 민사소송법 제460조 제95조 제89조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

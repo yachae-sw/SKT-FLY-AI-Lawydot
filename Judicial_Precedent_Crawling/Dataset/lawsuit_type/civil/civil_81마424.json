@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "경락허가결정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.1.19.자",
+        "caseNo": "81마424",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "집달관 직무대행에 의한 경매 부동산의 감정평가의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "집달관은 민사소송법 및 집달관법이 정하는 바에 따라 강제집행법원의 명에 의하여 경매목적물의 감정평가를 할 수 있고 소론 감정평가에 관한 법률 및 동법시행령의 제 규정은 법원에 계류중인 쟁송 또는 경매부동산의 감정평가는 반드시 감정회사나 감정업자만이 하여야 한다는 취의가 아니라 할 것이므로 같은 견해 아래 이 사건 경매부동산의 감정평가를 감정업자 아닌 집달관 직무대행으로 하여금 평가하여 진행한 이 사건 경락을 허가한 결정을 지지한 원결정은 정당하게 시인되며 이와 같은 해석이 경매 부동산소유자 또는 채무자의 재산권을 침해하는 것이라고는 볼 수 없으므로 이를 재산권보장에 관한 헌법 제20조에 위반한다는 논지는 독단적 주장이어서 채용할 수 없다.",
+            "따라서 재항고 이유없으므로 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

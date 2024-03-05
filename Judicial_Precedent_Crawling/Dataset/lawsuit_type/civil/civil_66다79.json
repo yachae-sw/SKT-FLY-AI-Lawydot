@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산공유확인등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.3.29.",
+        "caseNo": "66다79",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채증에 있어서 경험칙에 위배하고 석명의무를 다하지 아니하고 사실을 인정한 위법이 있는 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 이점에 관한 상고논지는 이유 있음에 돌아가므로 나머지의 상고이유에 대한 판단은 할필요없이 원판결을 파기하여 원심으로 하여금 다시 심리재판하게 하기 위하여 관여법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

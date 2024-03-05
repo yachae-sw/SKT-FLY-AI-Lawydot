@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "식품위생법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1989.7.11.",
+        "caseNo": "88도2312",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "콩나물이 식품위생법상의 '식품'인지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "식품위생법 제2조 제1호에는 식품이라 함은 의약으로서 섭취하는 것을 제외한 모든 음식물을 말한다고 규정하고 있으므로 위 식품에는 자연식품이나 가공 및 조리된 식품이 모두 포함된다 고 할 것이다.",
+            "그러므로 콩나물은 위 식품에 해당하고 또 기록에 의하면 이 사건 콩나물에서 검출된 농약성분 “톱신”은 장기간 섭취하면 발암을 촉진하고 돌연변이를 유발하는 등 만성중독현상을 일으키게 되어 인체에 유해함을 알 수 있으므로 상고 논지 모두 이유없다.",
+            "따라서 상고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

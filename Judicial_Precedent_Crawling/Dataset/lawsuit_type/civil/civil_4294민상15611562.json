@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "전부금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.10.",
+        "caseNo": "4294민상15611562",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채권 압류 및 전부명령에 있어 제3채무자 및 그 대표자의 표시와 그에 대한 송달을 잘못한 경우와 압류 및 전부명령의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 민사소송법 제406조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 한다."
+        ]
+    }
+}

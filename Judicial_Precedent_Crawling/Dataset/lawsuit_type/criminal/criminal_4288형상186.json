@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "업무상과실치사",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.8.12.",
+        "caseNo": "4288형상186",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형사소송법 와 판결주문",
+            "형사소송법부칙 와 신구법의 적용관계"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "법률에 비추건대 피고인의 판시 소위는 형법 제268조에 해당하므로 그 소정형중 금고형을 선택하고 피고인은 20세 미만의 소년이므로 소령령 제1조 제8조 제1항에 의하여 우 형기 범위내에서 피고인을 단기 1년 장기 2년의 금고에 처하고 형사소송법 제57조에 의하여 주문게기의 각 미결구금일수를 본형에 각산입하기로 하고 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

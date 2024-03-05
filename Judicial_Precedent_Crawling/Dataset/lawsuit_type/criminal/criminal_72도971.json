@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "장물취득",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1972.6.13.",
+        "caseNo": "72도971",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "장물을 팔아서 얻은 돈은 장물이 아니다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 장물을 팔아서 얻은 돈에는 이미 장물성을 찾아볼 수 없다 하겠다.",
+            "그러므로 원심이 공소외인들이 피고인을 대접하느라고 쓴 돈 설시 액수가 장물을 팔아서 얻은 돈인 줄 피고인이 알았다고 하더라도 장물취득죄가 되지 아니한다는 취지로 한 원판결 판단은 옳다.",
+            "논지는 독자적 견해일 따름 당원이 취하지 아니한다.",
+            "상고 논지 이유없이 법관전원의 일치로 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "전세보증금반환청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1986.7.1.",
+        "caseNo": "85나1059",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "신의칙위반과 임대차계약의 해제"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고는 원고에게 위 임대차게약의 해제에 따른 원상회복으로서 피고가 수령한 위 계약금과 잔금 일부 합계 금 21000000원 및 이에 대한 이 사건 소장부본송달 익일임이 기록상 명백한 1985.2.22.부터 완제일까지 소송촉진등에관한특례법 소정의 연 2할 5푼의 비율에 의한 지연손해금을 지급할 의무가 있다 할 것이므로 원고의 이 사건 청구는 이유있어 이를 인용할 것인바 이와 결론을 달리 한 원판결은 부당하여 이를 취소하고 소송비용의 부담에 관하여는 민사소송법 제96조  제95조  제89조를 가집행의 선고에 관하여는 소송촉진등에관한특례법 제6조를 각 적용하여 주문과 같이 판결한다.",
+            "판사 고왕석은 해외연수로 인하여 서명날인불능"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "저당권설정등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.8.19.자",
+        "caseNo": "83사12",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상고허가신청기각결정에 대한 이유불설시와 판단유탈 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 이 사건 준재심신청은 이유없다 하여 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "준재심신청을 기각한다."
+        ]
+    }
+}

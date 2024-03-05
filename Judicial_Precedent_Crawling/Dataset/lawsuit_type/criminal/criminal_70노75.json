@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭행치사피고사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1970.4.16.",
+        "caseNo": "70노75",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "고혈압 환자를 폭행하여 뇌내출혈로 사망하게 한 경우와 인과관계"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고인등의 항소는 모두 그 이유없으므로 형사소송법 제364조 제4항에 의하여 각 기각하고 이 판결선고전의 당심구금일수산입에 관하여는 형법 제57조를 적용하여 이에 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인등의 항소를 모두 기각한다."
+        ]
+    }
+}

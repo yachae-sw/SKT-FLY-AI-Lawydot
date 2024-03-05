@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사해행위취소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.31.",
+        "caseNo": "4294민상1495",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "심리미진의 위법이 있다고 인정된 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "살피건대 기록에 의하면 원고는 피고들과 소외인간의 본건 매매는 통모에 의한 허위의 의사표시이고 동시에 사해 행위라고 주장하고 있음이 명백한 바 원심은 의당 그 취지를 더 석명하여 위 매매가 가장이니 무효이고 따라서 원고가 소외인을 대 위하여 본건 말소 등기 청구를 한다는 것인가 아닌가를 밝힌 후 이점에 대한 심판을 하였어야 할 것임에도 불구하고 사해행위의 취소만 구한 것으로 속단하고 가장 매매 여부에 관한 심판을 다하지 아니하였음은 위법하다고 아니 할 수 없고 논지는 이유 있다할 이에 그 밖의 상고이유에 대한 설명을 생략하고 민사소송법 제406조 제1항에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 한다."
+        ]
+    }
+}

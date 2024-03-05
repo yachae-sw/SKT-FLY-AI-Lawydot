@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "치료비등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.7.12.",
+        "caseNo": "66다975",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "기관사의 업무상 주의의무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "철도궤도를 달리는 여객열차를 소정한 시간에 따라 운행하여야할 직무상의무가 있는 기관사라 할지라도 그 열차 운행에 수반하는 사고를 미연에 방지 할 업무상의 주의 의무가 없는 것이라고는 할수 없는 만큼 원판결이 인용한 제1심 판결 이유가 국가공무원인 기관사 소외인이 운전하던 열차에 의한 본건사고에 관하여 소외인에게 그 판시와 같은 업무상 주의의무가 있었고 동인 이 그 의무를 그 판시와 같이 해태하였던 것이라고 단정하였음은 정당하다 할 것이고 그와 같이 단정한 판시부분을 기록과 대조 검토하여 보아도 그 판시에 관한 증거 채택이나 사실인정이 논리법칙이나 경험법칙을 위배하였다거나 법리를 오해한 잘못이 있다고는 의심되지 않는 바이니 본건 사고가 불가항력으로 인한 것이라 하여 위 판시를 나무라는 본 논지는 이유없다 할것이므로 관여법관 전원의 일치한 의견으로 민사소송법 제400조 제95조 제89조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

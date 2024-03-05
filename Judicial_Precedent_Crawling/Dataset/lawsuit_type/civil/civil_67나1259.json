@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "건물소유권이전등기청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1967.11.24.",
+        "caseNo": "67나1259",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "재판상 이혼의 효력발생 시기"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 피고가 망 소외 1의 재산상속인임을 전제로 한 원고의 이사건 청구는 나머지 점에 관하여 판단할 것도 없이 그 이유 없다하여 이를 기각할 것인바 이와 결론을 달리한 원판결은 부당하고 따라서 피고의 항소는 그 이유 있으므로 민사소송법 제386조에 따라 원판결을 취소하기로 하며 소송비용의 부담에 관하여는 같은법 제96조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

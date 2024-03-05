@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가옥명도등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.12.28.",
+        "caseNo": "82사20",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확정판결에 판단유탈이 있음을 이유로 한 재심의 소의 제기기간의 기산점"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원고는 서울민사지방법원 81사22 사건의 판결을 1982.9.29 송달받아 재심사유를 알게 되었다고 주장하나 위 당원의 확정판결에 대한 판단유탈이 있다면 그 판결정본의 송달을 받았을 때에 동 재심사유를 알았다고 할 것임은 앞에서 본 바와 같으므로 논지 이유없다.",
+            "위에 본 재심 소제기기간 도과의 흠결은 보정할 성질의 것이 아니므로 본건 재심소를 각하하고 재심소송비용은 패소자의 부담으로 하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재심의 소를 각하한다."
+        ]
+    }
+}

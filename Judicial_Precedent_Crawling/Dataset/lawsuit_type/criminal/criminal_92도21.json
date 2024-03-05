@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "학원의설립운영에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1992.3.31.",
+        "caseNo": "92도21",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "당국에 등록하지 아니 한 채 교습시설을 갖추고 다수인에게 정치학 등을 교습한 행위가 학원의설립운영에관한법률  에 해당한다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심인용의 제1심 판결이 든 증거 에 의하면 피고인이 ○○○ 정치학교를 당국에 등록하지 아니하고 운영하였고 위 학교는 40평 규모의 사무실에서 교습시설을 갖추고 수강생 80명내지 130명을 대상으로 1990.2.경부터 1991.1.경까지 정치학 등을 교습한 사실을 인정할 수 있으므로 피고인의 위 행위는 위 법 제5조 제1항에 해당한다 할 것이다.",
+            "같은 취지의 원심판결은 정당하고 거기에 지적하는 바와 같은 법리의 오해나 채증법칙 위배 심리미진의 위법이 없다.",
+            "그러므로 상고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

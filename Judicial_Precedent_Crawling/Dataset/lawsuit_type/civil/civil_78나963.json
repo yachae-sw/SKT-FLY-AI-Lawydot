@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "지불보증금청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1979.8.30.",
+        "caseNo": "78나963",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "재판장의 항소장 각하명령에 대한 불복방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고의 이 건에 관한 변론기일지정 신청을 각하한다."
+        ]
+    }
+}

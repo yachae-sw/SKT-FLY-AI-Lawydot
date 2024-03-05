@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "마약법위반",
+        "courtNm": "수원지법",
+        "judmnAdjuDe": "1993.4.27.",
+        "caseNo": "93고단902",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "마약법 의 2  위반행위에 한외마약을 구입하고 그 '구입' 내용을 기재하지 아니한 행위가 포함되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고인들에 대한 이 사건 공소사실은 형사소송법 제325조 전단의 피고사건이 범죄로 되지 아니하는 때에 해당하므로 피고인들에 대하여 각 무죄를 선고하고 형법 제58조 제2항에 의하여 위 판결의 요지는 공시하기로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인들은 각 무죄."
+        ]
+    }
+}

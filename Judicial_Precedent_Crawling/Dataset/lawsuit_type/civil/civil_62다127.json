@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "약속어음금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.10.",
+        "caseNo": "62다127",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "군 농업협동조합이 농업협동조합 중앙회가 아닌자로 부터의 자금차입을 위하여 한 약속어음 발행의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 민사소송법 제406조의 규정에 의하여 관여한 대법원판사의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 한다."
+        ]
+    }
+}

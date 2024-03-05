@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소등청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1975.7.11.",
+        "caseNo": "74나1615",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소송대리권의 증명을 위한 공증인의 인증있는 위임장의 제출명령에 응하지 않은 경우의 소송의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고소송대리인으로서 본건 소송을 수행하고 있는 소외 2는 그 대리권을 인정할만한 인증있는 위임장을 제출하지 못함으로써 이는 결국 서면에 의한 소송대리권의 존재가 증명되지 아니함에 귀착된다 할 것이므로 원고소송대리인으로서의 소외 2의 소송행위는 무권대리행위로서 무효라 할 것인바 이와 결론을 달리한 원판결은 부당하므로 취소를 면치못하고 소송비용의 부담에 관하여는 민사소송법 제96조  제99조  제98조를 각 적용하여 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

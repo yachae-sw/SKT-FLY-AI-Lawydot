@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가처분결정에대한이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1963.2.7.",
+        "caseNo": "62다820",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송법  의 임시의 지위을 정하기 위한 가처분의 성질과 그 가처분신청의 성질과 그 가처분신청에 있어서의 당사자 적격의 법리를 오해한 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 민사소송법 제406조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고"
+        ]
+    }
+}

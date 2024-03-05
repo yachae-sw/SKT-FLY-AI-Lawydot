@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "전부금청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1985.3.22.",
+        "caseNo": "84나836",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "전부명령의 효력발생전 피전부채권의 지급을 위해 발행된 어음이 전부명령의 효력발생후 지급된 경우 위 전부명령의 효력."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고들에 대하여 위 각 전부금의 지급을 구하는 원고의 이 사건 청구는 모두 이유없어 이를 기각할 것인바 원판결은 이와 결론을 달리하여 부당하므로 이를 취소하여 원고의 청구를 기각하고 소송비용의 부담에 관하여는 민사소송법 제96조 제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

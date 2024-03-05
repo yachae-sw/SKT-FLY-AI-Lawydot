@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강도강간피고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.6.28.",
+        "caseNo": "4288형상4",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사실인정과 증거의 취사"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 본건 공소사실 중 강간의 점은 원심이 당시의 경위 및 현장상황 등 제반사정을 고찰하여 공소사실에 부합하는 증거자료인 서선이의 경찰 및 검찰에서의 증언을 취신하지 않았음을 간취할 수 있고 강도의 점은 제1심증인 공소외 10 공소외 3 공소외 4 공소외 5 공소외 6의 증언을 종합하여 이를 인정하지 않았음이 원판시에 의하여 명백한 바 여사한 원심조치는 기 직권범위 내에 속한 자유심증에 의한 증거취사와 사실인정임으로 이를 비의하는 소론은 독자적 견해에 불과하여 이유없다고 인정하여 형사소송법부칙 제1조 동법 제448조에 의하여 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 상고를 기각한다"
+        ]
+    }
+}

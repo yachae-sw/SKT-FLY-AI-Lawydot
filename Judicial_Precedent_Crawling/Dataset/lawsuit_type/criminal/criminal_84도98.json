@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.3.27.",
+        "caseNo": "84도98",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "검사의 심문에 대하여 \" 예\" 라고만 대답한 자백의 신빙성"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결 이유에 의하면 원심은 피고인은 원심법정에서 검사의 심문에 대하여 \" 예\" 라고만 대답하여 이 부분 범죄사실을 자백하고 있는 듯하나 경찰 검찰에서는 그 범행을 부인하고 있고 검사가 작성한 상피의자 공소외 1 공소외 2에 대한 피의자신문조서의 기재도 피의자의 위 변소내용에 부합하고 있는 점에 비추어 피고인의 위 자백은 신빙성이 없을 뿐만 아니라 이를 보강할 아무런 증거가 없다는 이유로 무죄를 선고하였는바 기록에 의하여 살피건대 원심의 그와 같은 조치에 수긍이 가며 거기에 소론과 같은 채증법칙 위배로 인한 사실오인의 위법이 없으므로 논지 이유없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

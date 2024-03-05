@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대금청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1961.5.9.",
+        "caseNo": "4292민공684",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "추가적 소의 변경으로 인하여 청구의 기초에 변경이 있는 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고가 피고에 대하여 금100만환 및 이에 대한 단기 4291.3.12.부터 위 완제에 이르기까지 민사법소정의 연 5분의 비율에 의한 지연손해금의 지불을 구하는 부분은 정당하고 이외의 청구는 그 이유없으므로 기각할 것인바 이와 동 취지인 원판관은 타당하고 따라서 본건 공소는 이유없으니 민사소송법 제384조에 의하여 이를 기각하고 공소비용의 부담에 관하여 동법 제95조 제90조 제89조를 가집행선고에 관하여 동법 제199조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 공소를 기각한다."
+        ]
+    }
+}

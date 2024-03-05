@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "집행목적물에대한제3자이의청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1974.2.13.",
+        "caseNo": "73나427",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가압류집행이 본압류로 이행되어 강제집행이 종료된 후의 집행 목적물에 대한 제3자이의"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "판사 윤경현은 전출로 인하여 서명날인에 불능임"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

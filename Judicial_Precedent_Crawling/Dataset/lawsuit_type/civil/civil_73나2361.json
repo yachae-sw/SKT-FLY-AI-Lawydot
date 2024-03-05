@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1974.6.27.",
+        "caseNo": "73나2361",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "갱내 전차운전자의 과실을 부정한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이건 사고는 달리는 전차에서 부득이 하차하려면 운전자에게 미리 하차하겠다는 뜻을 알려 완전정차케 한후 하차하여야 할 주의의무를 태만히 한 원고 1의 과실에 기인된 것이지 소외 2의 과실에 기인된 것은 아니라고 할 것이므로 소외 2의 직무수행중의 과실로 인하여 이건 사고가 발생하였음을 전제로 한 원고들 소송대리인의 본소청구는 나머지 주장사실에 관하여서는 알아볼 필요도 없이 그 이유없어 이를 기각할 것인바 이와 결론을 같이한 원판결은 정당하고 따라서 이에 대한 원고들의 항소는 이유없으므로 이를 기각하기로 하며 항소비용은 패소자인 원고들의 부담으로 하여서 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고들의 항소를 모두 기각한다."
+        ]
+    }
+}

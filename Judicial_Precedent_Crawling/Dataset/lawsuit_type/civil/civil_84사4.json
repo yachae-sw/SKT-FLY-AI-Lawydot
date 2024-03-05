@@ -1,0 +1,47 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.4.16.",
+        "caseNo": "84사4",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소심 판결의 사실인정에 자료가 된 문서 기타 물건의 위조와 변조를 이유로 한 재심의 소의 관할법원",
+            "항소심에서 본안판결을 한 사건에 관하여 상고심법원에 제기된 재심의 소의 처리방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건을 서울고등법원에 이송한다."
+        ]
+    }
+}

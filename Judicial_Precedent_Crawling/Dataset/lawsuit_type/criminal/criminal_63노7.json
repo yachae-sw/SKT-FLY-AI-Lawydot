@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "존속폭행치상피고사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1963.6.13.",
+        "caseNo": "63노7",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "폭행의 개념과 위법성"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고인의 전단 인정행위가 폭행에 해당하느냐의 여부를 검토하기로 한다.",
+            "무릇 폭행이라 함은 유형력의 행사를 말하는 것이므로 피고인의 본건 행위 역시 유형력의 행사라고 아니할 수는 없으나 본건과 같은 공소외 4의 심한 폭행에 대하여는 뿌리치는 정도의 행위까지는 위법하다고 할 수는 없다.",
+            "따라서 본건은 죄로 되지 아니하는 행위로서 형사소송법 제325조에 의하여 무죄를 선고할 것인 바 이와 결과를 같이하는 원심판결은 정당하고 본건 공소는 이유없다.",
+            "이에 형사소송법 제364조 제3항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 공소를 기각한다."
+        ]
+    }
+}

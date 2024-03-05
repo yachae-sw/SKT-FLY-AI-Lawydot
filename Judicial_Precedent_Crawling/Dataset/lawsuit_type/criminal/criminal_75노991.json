@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "살인피고사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1976.5.4.",
+        "caseNo": "75노991",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인에게 공소장부본의 송달없이 진행된 공판절차의 적법여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 형사소송법 제364조 제6항에 의하여 원심판결을 파기하고 다시 판결한다.",
+            "당원이 인정하는 범죄사실과 증거요지는 원심의 그것과 같으므로 이를 인용한다.",
+            "법률에 비추건대 피고인의 판시소위는 형법 제250조 제1항에 해당하는 바 소정형중 유기징역형을 선택하여 그 형기범위안에서 피고인을 징역 15년에 처하고 형법 제57조에 의하여 원심판결선고전의 구금일수중 70일을 위 형에 산입한다.",
+            "이에 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "법률사무취급단속법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1974.10.8.",
+        "caseNo": "74도1798",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "강제집행면탈죄의 성립요건"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "강제집행면탈죄가 성립되려면 행위자의 주관적인 본 강제집행면탈 의식으로는 면탈의 의도가 있어야 할 뿐만 아니라 객관적으로 강제집행을 면탈할 상태하라야 할 것인바 원판결에 의하여 확정된 사실에 의하면 피고인이 공소장기재와 같은 채무를 부담하고 있기는 하였으나 이행기가 도과되어 채권자들로부터 채무변제의 독촉을 받고 있는 상태는 아니었으며 채권자들 또한 피고인 1을 상대로 법적절차를 취하기 위한 준비를 하고 있었던 것도 아니어서 현실적으로 강제집행을 받을 위험이 있는 객관적 상태에 있지 아니 하였다는 것이므로 이러한 경우에는 객관적으로 강제 집행을 면탈할 상태가 아니어서 강제집행면탈죄가 성립되지 않는다는 원판결 판단에 위법이 있을 수 논지는 이유없다.",
+            "따라서 형사소송법 제390조에 의하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

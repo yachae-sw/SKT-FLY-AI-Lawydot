@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "의료법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1976.11.23.",
+        "caseNo": "75도2066",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "복학이란 간판의 뜻"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결 이유에 의하면 원심은 피고인이 침술사로서 그 간판에 “복학”이라고 표시한 것은 복학이 소아에게 흔히 발생하는 일종의 질병의 명칭이므로 일반적으로 침술의 진료과목을 표시한 것이라고는 볼 수 없고 특정질병에 관하여 특별한 기능 내지는 진료방법을 보유하고 있음을 대중에게 광고한 행위라고 판시하고 있는바 이와 같은 원심의 판단은 정당하고 거기에 어떤 법리오해의 위법사유 있음을 엿볼 수 논지 이유없다.",
+            "이에 이 상고는 기각하기로 하고 형사소송법 제390조에 의하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

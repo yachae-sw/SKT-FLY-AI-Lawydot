@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1967.1.24.",
+        "caseNo": "66나310",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "하천관리청이 하천법 소정의 비상재해시의 토지사용권에 기하여 하천제방축조 조치를 한 경우에 토지댓가 상당의 손해배상청구가 민사소송의 대상이 아니라고 한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이것은 비상시에 하천법이 사인의 손실을 미리 예정하고 규정한 하천법 제35조 소정의 토지사용권 행사로 인한 손실이라 할 것이고 특히 이와 같은 사실에 대하여 동법 제62조에 보상절차를 규정하고 있는 제도상의 특질을 고려하면 이는 적법한 공법상의 권리관계에 속하고 또 그로 인하여 발생한 손실보상관계라고 인정되고 앞서 배척한 증거외에 특별히 위 피고등의 처분이 무효라거나 고의 과실로 야기된 것이라는 입증이 없는 이상 민사소송으로 구제를 받을 수는 없는 것이다",
+            "따라서 이와 다른 견해에서 본안판결을 한 원판결은 취소를 면할 수 없고 원고의 항소는 이유 없어 기각하고 소송비용은 패소자가 부담해야 할 것이기에 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다"
+        ]
+    }
+}

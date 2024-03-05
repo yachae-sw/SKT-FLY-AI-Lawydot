@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.5.27.",
+        "caseNo": "80도981",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소심에서 사건의 병합과 불이익변경금지의 원칙과의 관계"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심과 원심이 인용한 제1심 판결을 기록에 의하여 살펴보니 피고인에 대한 그 판시와 같은 범죄사실은 수긍이 가고 거기에 달리 소론과 같은 채증법칙을 어겨 사실을 그릇 인정한 잘못이 있음을 찾아볼 수 없을 뿐만 아니라이 사건에 있어서와 같이 징역 단기 10월 장기 1년의 형의 선고를 받은 판결에 대하여는 양형부당의 주장은 형사소송법상 적법한 상고이유가 될 수 없는 것이고 또한 기록에 의하면 이 사건은 항소심에서 두개의 사건이 병합심판되어 경합범으로 처단되었음이 분명하니 제1심의 각 형량보다 중한 형이 선고되었다고 하여 위법이라고는 할 수 없다.",
+            "논지는 모두 이유없다.",
+            "따라서 이 상고를 기각하기로 하고 형법 제57조에 의하여 상고 후의 미결구금일수 중 40일을 본형에 산입하기로 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

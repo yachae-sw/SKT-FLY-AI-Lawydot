@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "건물수거및토지인도청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1966.6.3.",
+        "caseNo": "65나799",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "건물의 철거와 권리남용여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고는 원고에게 위 각 건물을 수거하고 위 토지를 인도 할 의무가 있다고 할 것인 바 원심판결은 이와 그 취지를 같이하여 정당하고 따라서 피고의 항소는 이유없으므로 민사소송법 제384조에 의하여 이를 기각하고 소송비용의 부담에 관하여서 동법 제95조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 항소를 기각한다."
+        ]
+    }
+}

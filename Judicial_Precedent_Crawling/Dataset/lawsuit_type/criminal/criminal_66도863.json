@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "위증",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.9.13.",
+        "caseNo": "66도863",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "증언의 허위진술이 판결의 결과에 영향을 미쳤는지의 여부와 위증죄의 성립과의 관계"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 상고이유는 채용할수 없다하여 관여법관 전원의 일치된 의견으로서 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

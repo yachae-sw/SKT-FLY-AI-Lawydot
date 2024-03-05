@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상습특수절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1974.3.26.",
+        "caseNo": "74도400",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상습특수절도죄의 포괄적일죄로서 확정판결을 받은 경우 위 범행이전에 범한 별개의 상습특수절도의 공소사실에 위 판결의 기판력이 미치는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인이 1972.7.26 선고받은 확정판결에서는 1972.4.5부터 1972.4.17까지의 사이에 9회에 걸쳐서 저지른 특수절도의 범죄사실이 포괄적으로 하나의 상습특수절도죄로서 처벌되고 있는데 이 사건 공소사실은 1972년 1월 중순경에 피고인이 저지른 상습특수절도의 사실이 공소사실로 그렇다면 이 사건 공소사실은 위의 확정판결에 의하여 포괄적으로 이미 판결을 받은 것으로 보는 것이 상당하다.",
+            "이러한 취지로 판시한 원심판단은 정당하고 여기에 법률해석을 잘못한 위법사유가 없다. 그렇다면 이 상고는 그 이유없는 것이 되므로 형사소송법 제390조에 의하여 기각하기로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각한다."
+        ]
+    }
+}

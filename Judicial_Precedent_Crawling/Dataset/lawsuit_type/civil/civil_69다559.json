@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "출입금지가처분이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.6.24.",
+        "caseNo": "69다559",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "공동 광업권의 지분이전등록은 광업법상 당연무효이다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "공동광업권자의 일원으로부터 그의 지분을 적법히 양수하였을 경우라 할지라도 그 지분권에 관하여 종전의 공동광업권자 전원으로부터 새로히 공동광업자가 될 전원에 대한 공동광업권 자체의 이전등록을 경료하기 전에는 그 양수지분권에 기한권리는 행사할 수 없다는 것이 당원의 견해  이니 만큼 그와 같은 견해 하에 본건 광업권의 등록원부상에 지분이전등록이 되어 있음을 이유로 하는 피신청인 1의 권리주장을 배척한 원판결의 조치를 정당하였다고 할 것인바 소론은 위와 반대의 견해로써 위와같은 원판시 내용을 논난하는 것이니 그 논지를 받아 드일 수 없어 관여법관 전원의 일치한 의견에 따라 민사소송법 제400조 제384조 제95조 제89조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

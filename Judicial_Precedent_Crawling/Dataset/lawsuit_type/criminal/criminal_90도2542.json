@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "변호사법위반,사문서위조",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1991.1.29.",
+        "caseNo": "90도2542",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "허무인 명의의 사문서를 위조한 것이 사문서위조죄를 구성하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결이유에 의하면 원심은 이 사건 공소사실 중 피고인에 대한 판시 사문서위조 및 변호사법위반의 점에 대하여는 그 증명이 없음을 이유로 피고인에게 무죄의 선고를 한 제1심 판결을 유지하였는 바 기록에 비추어 원심의 판단은 정당하고 거기에 지적하는 바와 같은 법리의 오해나 채증법칙을 어긴 위법이 없다.",
+            "사문서의 작성명의인이 허무인인 경우에는 사문서위조죄를 구성하지 아니하는 것이므로 같은 취지의 원심판단은 정당하다.",
+            "그러므로 상고를 기각하기로 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1975.5.7.",
+        "caseNo": "74나2541",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "신원보증서의 유용과 그에 기한 신원보증계약의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고가 원고시에 대하여 1973.6.체결한 소외 1에 관한 신원보증계약의 효력이 존속함을 전제로 한 원고의 이건 청구는 이유없으므로 이를 기각할 것인바 이와 결론을 달리한 원판결은 부당하므로 이를 취소하고 소송비용의 부담에 관하여는 민사소송법 96조  89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

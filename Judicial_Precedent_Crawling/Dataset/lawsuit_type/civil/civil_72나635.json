@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사해행위취소등청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1973.5.23.",
+        "caseNo": "72나635",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "존재하지 아니하는 물건을 대상으로 하는 사행행위취소 소송의 적법 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고로서는 나라가 한 공매처분에 대하여 특단의 사정이 없는 한 가처분으로써 우선권을 주장할 수는 없으므로 이미 공매된 물건은 현존치 않으며 원심에서 가처분하여 확보된 물건도 그것이 상소심에서 취소 확정되어 타에 처분된 이상은 그 목적물들은 소송상 하나도 존재하지 않는 것이라 할 것이다.",
+            "이리하여 원고의 이 사건 청구는 현재 존재하지 않는 물건을 대상으로 하는 불법한 청구로서 본안에 들어갈 필요없이 각하함이 상당할 것인데 이와 취지를 달리한 원판결은 부당하고 이에 대한 피고의 항소는 이유있으므로 민사소송법 386조에 의하여 원판결을 취소하고 소송비용의 부담에 관하여는 같은법 89조  96조에 의하여 주문과 같이 판결한다.",
+            "별지 목록 각 생략"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

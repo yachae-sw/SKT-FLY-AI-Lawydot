@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부당이득금반환",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.2.18.",
+        "caseNo": "68다2431",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무효인 법인세법시행규칙   에 의한 소득세부과 처분은 무효이고 납부한 그 세금은 부당이득이 된다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 법인세법 시행규칙 12조2항3호 는 구법인세법이나 같은 법 시행령에 아무런 근거없이 제정된 것이므로 이는 조세법률주의에 위배되어 무효라함은 대법원판결이 이미 이를 밝힌 바 있으며 아직 이를 변경할 필요가 없음으로 원심이 이와같은 무효의 규칙에 의하여 피고가 원고에게 원판시 갑종근로소득세를 부과한 처분은 무효이고 피고는 결국 원고가 납부한 갑종 근로 소득세 1677128원은 아무런 법률상의 원인없이 이득을 얻고 이로 인하여 원고는 위 금원 상당의 손해를 보았다고 판단 한 것은 정당하다고 논지 이유없다.",
+            "이리하여 상고를 이유없다하여 기각하기로 하고 상고 소송비용은 패소자의 부담으로 하고 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

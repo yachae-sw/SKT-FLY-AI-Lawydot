@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "약속어음금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.7.19.",
+        "caseNo": "62다181",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "약속어음과 교환하지 아니하고 한 그 어음 채무 변제의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이상 설명 하는 바에 의하여 원판결을 파기하기로 하고 나머지 상고이유에 대한 판단을 생략 하고 원심으로 하여금 다시 심리 재판하게 하기 위하여 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

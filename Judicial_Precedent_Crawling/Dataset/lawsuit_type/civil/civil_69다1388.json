@@ -1,0 +1,52 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.2.23.",
+        "caseNo": "69다1388",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "불법행위로 사망한 미성년자의 일실이익을 산정함에 있어서 망인의 성년에 이르기까지의 생활비는 일실이익에서 공제할 것이 아니다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "미성년자가 성년이 되어 수입이 가능할때 까지의 생활비는 그 친권자나 부양 의무자의",
+            "부담에 속하는 것이므로 본건에 있어 망 소외인의 성년에 이르기까지의 생활비를 동인의 일",
+            "실이익에서 공제하지 않았다 하여 아무런 위법이 없고 본건은 사고당시 2세인 소외인을",
+            "업고 도로 좌칙을 보행중인 원고 1을 운전병의 과실로 충격하여 발생한 사고로서 논지와 같은 친권자의 감호의무 태만을 주장할 여지없는 사안이므로 상고논지는 이유없다.",
+            "그러므로 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

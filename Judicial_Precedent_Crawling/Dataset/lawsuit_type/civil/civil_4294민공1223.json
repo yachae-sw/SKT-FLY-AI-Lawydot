@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1962.4.25.",
+        "caseNo": "4294민공1223",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "불법행위를 한 학생을 학교법인의 피용자로 볼 수 있을 것인지의 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "다음 원고들은 가령 위 주장이 이유없다고 하더라도 위 행위는 피고 경영의 학교대지를 확장하기 위한 학교업무에 수반되는 행위이므로 피고는 그 사용자로서 원고들의 손해를 배상할 책임이 있는 것이라고 주장하나 학생들은 육영사업을 목적으로 하는 피고 재단의 피용자가 아니므로 그들이 감행한 위 불법행위에 대하여는 피고에게 책임이 없다고 할 것이다.",
+            "그렇다면 피고에게 위의 불법행위에 대한 손해배상을 구하는 원고들의 본소청구는 나머지 원고들 주장에 대한 판단의 필요없이 실당이므로 이를 이유 없다고 하여 기각한 원심판결은 정당하며 원고들의 이 공소는 이유 없으므로 민사소송법 제384조에 의하여 이를 기각하고 소송비용의 부담에 관하여 동법 제95조  제89조  제93조를 각 적용하여 이에 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고들의 이 공소를 기각한다."
+        ]
+    }
+}

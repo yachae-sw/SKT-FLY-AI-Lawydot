@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수리공사금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1963.2.14.",
+        "caseNo": "62다892",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "토지개량조합이 도지사의 인가 없이 한 수리공사 계약의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 그점에 관한 논지는 이유가 있으므로 그 밖의 논지에 대한 판단은 생략하고 민사소송법 제406조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원 판결을 파기하고"
+        ]
+    }
+}

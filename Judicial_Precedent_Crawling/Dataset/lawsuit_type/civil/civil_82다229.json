@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대여금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.2.28.",
+        "caseNo": "82다229",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소액사건심판법   소정의 \" 대법원판례에 상반하는 판단\" 의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 이 사건은 소액사건심판법 제 2 조 소정의 소액사건인바 같은법 제 3 조 제 2 호의 대법원판례에 상반되는 판단을 한 때라 함은 구체적인 당해 사건에 적용할 법령의 해석에 관하여 대법원이 내린 판단과 상반되는 해석을 한 경우를 말하는 것으로서 논지는 원심판결에 이자제한법 소정의 제한이율을 초과한 금액의 약정이자 충당에 관한 법리오해의 위법이 있어 소론 대법원판례에 상반되는 판단을 하였다는 것이나 원심판결에 소론과 같은 위법이 있다 하여도 소론 대법원판례가 선언한 법령해석에 반하는 판단이라기보다도 단순한 법리오해의 법령위반에 지나지 아니하므로 이는 적법한 상고이유가 될 수 없다.",
+            "그러므로 상고를 기각하고 상고 소송비용은 패소자의 부담으로 하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

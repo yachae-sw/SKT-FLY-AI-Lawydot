@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "위헌제청신청",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.8.28.자",
+        "caseNo": "90초77",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "판결의 전제가 된 특정 법률이나 법률조항이 위헌이거나 위헌이라고 해석되는 이유에 관한 사항이 포함되어 있지 아니한 위헌제청신청의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "논지는 원심판결의 재판과정에 있어서 신청인의 증거신청권을 박탈하였고 신청인의 변론이 이유없이 제재를 당하였으며 각종 조서의 내용이 사실과 다르게 신청인에게 불리한 내용으로 기재되어 있으며 신청인의 출석없이 재판이 진행되는 등 방어권이 박탈되었으므로 원심판결은 위헌이라고 하나 소론의 사유는 원심판결이 위법하다는 취지에 귀착될 뿐이고 원심판결의 전제가 된 특정법률이나 법률의 조항이 위헌이거나 위헌이라고 해석되는 이유에 관한 사항이 전혀 포함되어 있지 아니하므로 이 사건 신청은 부적합함에 돌아간다.",
+            "그러므로 이 사건 위헌제청신청을 각하하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "위헌제청신청을 각하한다."
+        ]
+    }
+}

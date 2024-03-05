@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "추심금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1988.12.13.",
+        "caseNo": "88다카3465",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "금전채권에 대한 압류 및 추심명령의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "금전채권에 대하여 압류 및 추심명령이 있었다고 하더라도 이는 강제집행절차에서 압류채권자에게 채무자의 제3채무자에 대한 채권을 추심할 권능만을 부여한 것으로서 강제집행절차상의 환가처분의 실현행위에 지나지 아니한 것이며 이로 인하여 채무자가 제3채무자에 대하여 가지는 채권이 압류채권자에게 이전되거나 귀속되는 것은 아니라 할 것이다.",
+            "그러므로 이와 같은 추심권능은 그 자체로서는 독립적으로 처분하여 환가할 수 있는 것이 아니어서 압류할 수 없는 성질의 것이라 할 것이고 따라서 이에 대하여 원심이 인정한 바와 같은 압류 및 추심명령이 있었다고 하여도 무효라고 보아야 할 것이므로 이와 같은 취지의 원심판단은 정당하고 논지는 이유없다.",
+            "그러므로 상고를 기각하고 상고비용은 패소자의 부담으로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

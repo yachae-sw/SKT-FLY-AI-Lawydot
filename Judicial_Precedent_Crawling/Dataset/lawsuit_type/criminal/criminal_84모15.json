@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "증거보전청구기각에관한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.3.29.자",
+        "caseNo": "84모15",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "재심청구사건에서 증거보전절차의 허부",
+            "증거보전청구 기각결정에 대한 즉시항고의 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원래 증거보전이란 장차공판에 있어 사용하여야 할 증거가 멸실되거나 또는 사용하기 곤난한 사정이 있을 경우에 당사자의 청구에 의하여 공판전에 미리 그 증거를 수집 보전하여 두는 제도로서 제1심 제1회 공판기일전에 한하여 허용되는 것이다. 그러므로 재심청구를 한 사건에 이런 증거보전절차는 허용되지 아니하는 것으로 그리고 증거보전청구를 기각하는 결정에 대하여는 즉시항고로써 불복할 수 없다 고 할 것이니 이런 견해에서 즉시항고를 기각한 원심의 결정은 정당하고 거기에 형사소송법 제415조에 규정된 바와 같은 명령 또는 규칙의 위반이 있다고도 할 수 없으니 재항고는 이유없다.",
+            "위와 같은 이유로 재항고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "임산물단속에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.3.18.",
+        "caseNo": "67도1282",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "목할저는 임산물이 아니다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "임산물 단속에 관한 법률 제1조 제2항에 의하면 본법에서 임산물이라 함은 산림에서 생산되는  목재 목탄  생지 주근 수지 수피 토석  기타 각령에 정하는 산물이라고 규정하고 있으며 동법률 시행령 제1조 제2항 제3호에 의한 임산물은 갈재 제조용 생갈 장작 산림 안에서 굴취한 수목이라고 규정하고 있는 바 피고인이 매수하였다는 목할저를 논지에서 말하는 생지 또는 이에 준하는 것으로 볼 수 없을 뿐 아니라 위 임산물 단속에 관한 법률 제1조 제2항 각호의 어느것에도 해당하지 아니하며 따라서 목할저의 거래를 하였다하여 같은 법 제2조의 임산물을 거래하였다고 볼 수 없음으로본건 목활저가 위 법률에서 말하는 임산물에 해당한다는 검사의 상고논지는 이유없다.",
+            "그러므로 형사소송법 제390조에 의하여 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "서자확인청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1958.10.8.",
+        "caseNo": "4290민공390",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "호적부상 서자가 친생자로 등재되어 있는 경우 또 다른 서자의 서자확인청구의 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "다음 본안에 관하여 안컨대 공문서이므로 그 진정성립이 인정되는 갑 제1호증의 기재내용에 원심증인 소외 5 6의 각 증언 및 당사자간 변론의 전취지를 종합하면 원고는 부 망 소외 1과 기 첩인 소외 3간에 4249.7.출생한 서자 남이고 피고 1은 우 망 부와 첩인 망 소외 2간에 4258.8.피고 2는 동 망인과 망 소외 2간에 4270.2.각 출생한 서자 남인바 망 소외 1이 자기와 그 정처인 소외 4간에 피고들이 출생한 것 같이 신고하였으므로 호적부상에도 그와 같이 등재되어 있는 사실을 인정할 수 있다.",
+            "그렇다면 원고의 본소청구는 이유있으므로 이를 인용하여야 할 것인바 이와 결론을 달리 하는 원판결은 부당하고 본건 공소는 이유가 있다.",
+            "따라서 민사소송법 제386조  제96조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

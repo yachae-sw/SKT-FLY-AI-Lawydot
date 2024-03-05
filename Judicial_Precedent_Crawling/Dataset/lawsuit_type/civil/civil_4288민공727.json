@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지인도청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1956.3.23.",
+        "caseNo": "4288민공727",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상환완료전의 분배농지 경작권포기의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 피고에 대한 별지목록기재 토지의 분배결정은 적법하고 농지개혁법 제24조 소정의 해당사유가 그러므로 전기 원고 소외 3간의 별지목록기재 토지매매는 농지개혁법 제27조에 위배되어 따라서 별지목록기재 토지의 소유권이 원고에게 있음을 전제로 하는 원고의 본소 청구는 실당하므로 기각할 것인 바 이와 동취지의 원판결은 상당하고 따라서 본건 제소는 이유 없으므로 민사소송법 제394조  제95조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 공소는 이를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상해치사피고사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1965.9.21.",
+        "caseNo": "64노123",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상당 인과관계",
+            "불고불리의 원칙"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "법률에 비추건대 피고인의 판시 소위는 형법 제260조 제1항에 해당하는 바 위 소정형중 징역형을 선택한 형기범위 내에서 피고인을 징역 8월에 처하고 같은법 제37조에 의하여 원심판결선고전의 구금일수중 118일을 위 본형에 산입하기로 하고 피고인은 초범으로서 위에서 설시한 바와 같이 본건 범해의 동기와 기타 일건기록에 나타난 제반사정을 종합하며는 피고인에게 형의 집행을 유예함이 상당하다고 인정되므로 형법 제62조  형사소송법 제321조를 적용하여 본 재판확정일부터 2년간 그 형의 집행을 유예하기로 한다.",
+            "이상의 이유로서 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기한다."
+        ]
+    }
+}

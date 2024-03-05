@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.4.28.자",
+        "caseNo": "70마272",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경매목적물중 토지에 대하여 집달리가 조사한 공과금을 기재한 경매기일공고는 부적법하다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민사소송법 제602조 2항 3항에 의하면 경매목적물중 토지에 대한 공과금만은 집달리가 조사할 수 없이 되어 있으므로 집달리가 경매대상 토지에 대하여 조사한 공과금을 경매기일 공고에 기재하였으면 그 공고는 민사소송법618조의 소정요건을 구비한 적법한 것이라 할 수 없다고 함이 당원의 견해이고  위의 민사소송법 602조 2항 3항과 618조는 경매법 24조 4항과 31조 2항에서 각각 준용하고 있으므로 본건 경매법원이 경매목적물중 대지에 대하여 집달리가 조사한 공과금1200원을 기재하여 경매기일 공고를 한 것은 부적법한 것임에도 불구하고 원심은 이를 간과한 위법이 있다 할 것이니 논지는 이유있다.",
+            "그러므로 관여법관 일치의 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고 이 사건을 서울민사지방법원 합의부로 환송한다."
+        ]
+    }
+}

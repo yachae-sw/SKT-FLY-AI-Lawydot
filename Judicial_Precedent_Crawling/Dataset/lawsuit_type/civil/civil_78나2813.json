@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권확인청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1979.1.17.",
+        "caseNo": "78나2813",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확정판결의 집행으로서 소유권이전등기가 말소되었으나 재심 판결에 의하여 위 확정 판결이 취소 확정된 경우 회복등기절차를 거치지 하니하였어도 그 소유권이 보유되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고의 이사건 청구는 그 이유있으므로 이를 인용할 것인 바 이와 결론을 같이 한 원심판결은 정당하고 피고들의 항고는 이유없으므로 기각하며 항소비용은 패소한 피고들의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고들의 항소를 기각한다."
+        ]
+    }
+}

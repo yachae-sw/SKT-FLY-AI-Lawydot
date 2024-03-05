@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.9.20.",
+        "caseNo": "62다343",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "신민법 시행전의 출가로 인한 상속과 민법부칙  "
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "논지는 이유 있으므로 원판결을 파기하고 원심으로 하여금 다시 심판케 하기 위하여 사건을 서울고등법원에 환송하기로 하여 관여한 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

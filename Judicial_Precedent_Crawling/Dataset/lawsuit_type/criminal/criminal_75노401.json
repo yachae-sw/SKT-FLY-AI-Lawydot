@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강간·강간치상·폭력행위등처벌에관한법률위반피고사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1976.3.24.",
+        "caseNo": "75노401",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "고소인의 어머니가 미성년자로써 심신미약자인 고소인의 동의를 얻어 한 고소취소의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "다음 검사의 항소이유 제2점의 요지는 피고인에 대하여 징역 2년 6월에 4년간 집행유예의 선고를 한 것은 그 형이 너무 가벼워서 부당하다는 취지이므로 살피건대 일건기록에 의하여 인정되는 피고인의 연령 성행 지능과 환경 이사건 범행의 동기 수단과 결과 범행후의 정황등 제반 양형의 조건들을 참작하여 보면 원심의 형은 타당하고 달리 이를 너무 가벼워서 부당하다고 인정할 수 없으니 논지는 이유없다.",
+            "따라서 검사의 항소는 이유없으므로 형사소송법 제364조 4항에 의하여 이를 기각하고 이에 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "검사의 항소를 기각한다."
+        ]
+    }
+}

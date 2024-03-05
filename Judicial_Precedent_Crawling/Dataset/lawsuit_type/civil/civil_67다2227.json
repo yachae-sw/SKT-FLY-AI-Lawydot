@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.1.31.",
+        "caseNo": "67다2227",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채무의 이행을 담보하기 위한 것이 아니고 그 채무에 갈음하여 완전히 그 권리를 상대방에게 이전한 경우와 민법  와의 관계"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 상고이유는 어느것이나 채용하기 어렵다하여 관여법관전원의 일치된 의견으로서 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

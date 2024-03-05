@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.2.9.",
+        "caseNo": "70다2866",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "노동능력을 완전히 상실한 자와하여 반드시 보통인의 평균여명 이전에 사망한다고는 볼 수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "노동능력을 완전히 상실한 자라 하여 반드시 보통인의 평균여명 이전에 사망하더라고는 볼 수 없으므로 이 사건에서 특히 전문가의 감정을 하지 아니한 채 원고 1이 55세를 넘어서 그 평균여명인 65세까지 살 수 있을 것을 전제로 하여 그 개호비를 인용한 것은 원심판결에는 이점에 관하여 이유모순이나 심리를 다하지 아니한 위법사유가 그렇다면 이 상고는 그 이유없으므로 기각하고 상고비용은 패소자의 부담으로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각한다."
+        ]
+    }
+}

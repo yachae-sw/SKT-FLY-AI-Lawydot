@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산인도명령",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.8.12.자",
+        "caseNo": "85그87",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부동산인도명령신청을 인용하는 결정에 대한 불복방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그리고 항고장이나 그 이유서 기재내용으로 보아이 사건을 위 결정에 대한 즉시항고를 한다는 취지로 해석되는 바이니 그 항고에 관한 관할법원은 당원이 아니라 서울민사지방법원 합의부라 할 것이므로 민사소송법 제32조에 의하여 이 사건을 위 법원에 이송하기로 한다.",
+            "여기에는 관여 법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건을 서울민사지방법원 합의부에 이송한다."
+        ]
+    }
+}

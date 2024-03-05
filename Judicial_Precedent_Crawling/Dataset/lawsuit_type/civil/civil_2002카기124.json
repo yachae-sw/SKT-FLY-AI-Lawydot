@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "집행문부여에대한이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2002.8.21.자",
+        "caseNo": "2002카기124",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채무자의 승계인에 대한 승계집행문 부여에 관한 이의신청의 적격자"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 신청인들은 판결에 표시된 원래의 채무자에 불과하고 이 사건 승계집행문은 신청인들의 승계인인 신청외인에 대하여 부여되었음이 분명하므로 이 사건 집행문 부여에 대한 이의신청은 신청적격 없는 자가 제기한 것으로서 부적법하다.",
+            "그러므로 이 사건 신청을 각하하기로 하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건 신청을 각하한다."
+        ]
+    }
+}

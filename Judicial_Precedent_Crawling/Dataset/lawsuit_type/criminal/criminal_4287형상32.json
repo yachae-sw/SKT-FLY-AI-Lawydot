@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "업무상횡령",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.2.22.",
+        "caseNo": "4287형상32",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "신구법 비조와 의률"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨데 원심은 원심이 인정한 판시 업무상 횡령사실에 대하여 구 형법 제253조를 적용치 않고 동 제252조 제1항을 적용하였음은 부당할 뿐 아니라 형법 제1조 동 부칙 제2조에 의하여 신구형의 경중을 비교함에 있어서 선택형이 있는 신법이 경함에도 불구하고 징역형만 있는 구법이 경하다하여 행위시법인 구법을 적용한 원판결은 법의 해석을 그릇한 위법이 있고 이는 판결에 미치는 영향이 있음으로 타점에 대한 판단을 생략하고 원판결을 파기한 후 다시 심리키 위하여 본건을 원심법원에 환송함이 가하다 인정하는 바 상고논지는 결국 따라서 형사소송법 부칙 제1조 및 구 형사소송법 제447조 동 제448조의 2를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고 본건을 광주고등법원에 환송한다."
+        ]
+    }
+}

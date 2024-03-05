@@ -1,0 +1,47 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대금청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1959.3.11.",
+        "caseNo": "4291민공428",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "과수원의 매매에 농지개혁법 소정의 소재지관서의 증명을 요하는지 여부",
+            "소재지관서의 증명을 받지 아니한 농지매매의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "본건 공소를 기각한다."
+        ]
+    }
+}

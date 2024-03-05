@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "재산상속회복",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.5.12.",
+        "caseNo": "70다370",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고의 자백이 진실에 반하고 착오에 기인된 사실을 인정한데 채증법칙위배 없을 뿐더러 그 진술이 자백이라 할 수도 없다.",
+            "부동산명의신탁계약 해제의 의사표시가 있었어도 신탁자는 그 소유권회복을 위한 이전등기청구권이 있을 따름이고 그 소유권이 신탁자에게 당연히 귀속되는 것은 아니다.",
+            "결국 피고 앞으로 다시 그 등기가 되돌아올 바에야 원고들 앞으로 일단 옮겨갔다가 다시 오게 하는 무용의 절차는 법률상의 이익이 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각 한다."
+        ]
+    }
+}

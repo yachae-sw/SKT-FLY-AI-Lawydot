@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "등기공무원결정의이의신청기각취소에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.4.24.자",
+        "caseNo": "65마1163",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "구민법 시행당시 이성양자가 신청한 상속등기의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 원결정을 파기하고 항고는 이유 없으므로 이를 기각하기로 하여 관여법관 전원의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고 항고를 기각한다."
+        ]
+    }
+}

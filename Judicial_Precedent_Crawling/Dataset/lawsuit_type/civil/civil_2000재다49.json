@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2000.9.8.",
+        "caseNo": "2000재다49",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "판결법원 구성의 위법을 이유로 한 재심의 소의 제기기간의 기산일"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원고들은 재심대상판결이 종전 대법원 판결에서의 의견을 변경하는 것임에도 대법관 전원의 3분의 2에 미달하는 대법관만으로 구성된 부에서 심판하였다고 하여 민사소송법 제422조 제1항 제1호의 사유를 들어 재심청구를 하고 그런데 기록에 의하면 재심대상판결은 원고들의 소송대리인에게 송달되고 이 사건 재심소장은 그 날로부터 위의 불변기간을 도과하였음이 명백한 대법원에 접수되었음을 알 수 있는바 그렇다면 달리 특별한 사정이 있다고 볼 자료가 없는 이 사건에서 그 불변기간이 도과한 후에 제기된 이 사건 재심의 소는 부적법하여 각하를 면할 수 없다고 할 것이다.",
+            "그러므로 이 사건 재심의 소를 각하하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건 재심의 소를 재심소송비용은 원고들의 부담으로 한다."
+        ]
+    }
+}

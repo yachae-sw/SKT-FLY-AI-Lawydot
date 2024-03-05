@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "재심청구기각결정에대한즉시항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1977.7.4.자",
+        "caseNo": "77모28",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "의견진술기회 부여하지 아니하고 한 결정은 위법이다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "재심의 청구에 대하여 결정을 함에는 재심을 청구한 자와 상대방의 의견을 들어야 하므로 이 경우에 법원으로서는 적어도 재심을 청구한 자와 상대방에게 의견을 진술할 기회는 부여하여야 할 것인 바 일건 기록에 의하면 원심은 재항고인 의 재심청구에 대하여 기각결정을 함에 있어서 상대방인 검사의 의견은 들었으나 재심을 청구한 자의 의견을 들었거나 또는 그 의견을 진술할 기회를 주지 아니하였음이 명백하므로 원심의 위 조치는 형사소송법 제432조의 절차를 위반한 위법이 있다고 할 그러니 이를 지적하는 재항고 논지는 이유있어 원결정은 이 점에서 파기를 면하지 못할 것이다.",
+            "그러므로 다른 논점을 판단할 필요없이 원 결정을 파기하고 사건을 원심법원에 환송하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고 사건을 서울고등법원에 환송한다."
+        ]
+    }
+}

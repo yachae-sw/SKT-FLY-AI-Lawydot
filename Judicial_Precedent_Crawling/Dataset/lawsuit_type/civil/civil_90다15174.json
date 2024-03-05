@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "건물명도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1991.2.12.",
+        "caseNo": "90다15174",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "건축주가 타인 명의의 건축허가로 건축을 한 경우의 준공된 건물의 소유권의 귀속"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그리고 건축주가 타인명의 건축허가로 건축을 한 경우에도 준공된 건물의 소유권은 건축주가 원시 취득한다는 것이 당원의 판례이므로 원심이 소외 안순기가 이 건 건물을 신축하여 그 소유권을 원시취득하였다고 판시한 것을 법리오해라고 주장하는 논지도 받아들일 수 상고논지는 모두 받아들일 수 없는 것이다.",
+            "그러므로 상고를 기각하고 상고비용은 패소자에게 부담시키기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

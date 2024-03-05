@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "간통",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2007.1.25.",
+        "caseNo": "2006도7939",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "협의이혼신고 후 이혼소송을 취하한 경우에 간통죄의 고소취소로 간주되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심은 공소외인의 남편인 고소인이 원심법원에서 협의이혼의사 확인을 받은 다음 같은 날 14:55경 이혼신고를 하고 16:45경 원심법원에 이혼소송을 취하한다는 내용의 소취하서를 제출한 사실을 인정한 다음 이혼소송이 취하되기 이전에 이미 협의이혼의 효력이 발생하였으므로 이 사건 간통고소는 여전히 유효하게 존속하고 있다고 판단하였는바 이러한 원심의 판단은 앞서 본 법리에 따른 것으로서 옳고 거기에 상고이유의 주장과 같은 간통고소의 효력에 관한 법리오해의 위법이 있다고 할 수 없다.",
+            "그러므로 상고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

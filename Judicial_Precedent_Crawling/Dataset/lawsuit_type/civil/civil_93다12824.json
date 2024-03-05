@@ -1,0 +1,52 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1993.5.11.",
+        "caseNo": "93다12824",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소유권이전등기청구권의 소멸시효기간이 지난 후 등기의무자가 소유권이전등기를 해 주기로 약정한 경우 시효이익의 포기로 볼 것인지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "소유권이전등기청구권의 소멸시효기간이 지난 후에 등기의무자가 소유권이전등기를 해 주기로 약정한 바 있다면 다른 특단의 사정이 없는 한 이는 시효이익을 포기한 것으로 보아야 할 것이다.",
+            "이 사건에서 원심이 갑 제2호증에 의하여 피고가 시효이익을 포기하였다고 판단하였음은 기록에 비추어 옳은 것으로 수긍이 된다.",
+            "취소권행사의 제척기간에 관한 민법 제146조는 이 사건에 적용될 규정이 아니다.",
+            "원심판결에 소론과 같은 법리오해가 있을 수 논지는 이유 없다.",
+            "그러므로 상고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

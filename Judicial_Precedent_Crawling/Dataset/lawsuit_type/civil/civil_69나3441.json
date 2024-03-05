@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가옥명도청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1970.11.25.",
+        "caseNo": "69나3441",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "변론기일 변경신청과 쌍방불출석"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이에 주문과 같이 소송 종료를 선언하고 기일지정신청 이후의 소송비용은 패소자의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 소송은 1970.8.항소취하 간주로 종료되다."
+        ]
+    }
+}

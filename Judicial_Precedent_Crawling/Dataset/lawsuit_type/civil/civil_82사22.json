@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지인도등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.2.23.자",
+        "caseNo": "82사22",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상고허가신청기각 결정에 대한 이유불설시와 판단유탈 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 소송촉진등에관한특례법시행규칙 제9조 제2항의 규정이 모법인 위 특례법 제12조 제1항에 위반된 규정이라고 볼 수 없고 또 상고허가 여부의 재판이 판결사항이라고도 볼 수 없으며 따라서 상고허가신청을 기각하는 결정에 이유를 붙이지 아니하였다고 하여 결정에 영향을 미칠 중요사항에 관하여 판단을 유탈한 것이라고 볼 수 없다 함이 당원의 판례이므로 이와 반대의 견해에 입각한 논지는 채용할 수 없다.",
+            "그러므로 준재심신청은 이유없으므로 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "준재심신청을 기각한다."
+        ]
+    }
+}

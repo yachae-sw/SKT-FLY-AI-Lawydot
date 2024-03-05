@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사기,변호사법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1991.7.26.",
+        "caseNo": "91도1196",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인의 항소로 항소심에서 제1심판결을 파기자판하는 경우 항소심판결 선고전의 미결구금일수를 항소심판결에 명시할 필요가 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결의 증거취사와 범죄사실의 인정은 옳고 여기에는 아무런 잘못이 없으며 또한 이 사건에 있어서와 같이 실형과 추징선고가 있었던 제1심 판결이 피고인의 항소로 원심에서 제1심 판결이 파기되고 벌금형과 추징선고가 있었던 이 사건에 있어서는 제1심판결 선고 이후 원심판결 선고 전의 미결구금일수는 집행단계에서 집행할 벌금형의 환형유치기간에 당연 통산됨이 형사소송법 제482조 제1 2항의 규정에 비추어 명백하므로 원심판결에 위와 같은 당연 통산관계를 명시할 필요가 없으니 결국 원심판결에는 소론이 지적하는 위법들이 없다.",
+            "논지는 이유없으므로 이 상고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

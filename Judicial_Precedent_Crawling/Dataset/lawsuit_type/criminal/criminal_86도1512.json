@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1986.9.23.",
+        "caseNo": "86도1512",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "별도사건으로 가정법원에서 심리중에 있는 피고인에 대한 형사처분의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "별도사건으로 가정법원의 심리중에 있는 피고인에 대하여 원심이 형사처분인 형벌을 선고하였다 하여 이를 소년법이나 형법에 위반된 처사라 할 수 없고 또 이 사건에서 피고인은 원심까지 불구속으로 재판을 받아왔음이 기록상 명백하므로 제1심 및 원심에 이르기까지 본형에 산입해 줄 미결구금이 있을 수 논지는 모두 이유없다.",
+            "이에 상고를 기각하고 소송촉진등에 관한 특례법 제24조 형법 제57조에 의하여 상고후의 미결구금일수중 일부를 본형에 산입하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

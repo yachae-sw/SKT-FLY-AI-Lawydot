@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강제집행에대한제3자이의청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1967.8.11.",
+        "caseNo": "67나116",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부등기 선박지분에 대한 강제집행 방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 소외 1은 본건 선박에 관하여 지분을 가질 뿐이므로 그 지분에 대한 강제집행만이 허용된다고 할 것이며 부등기 선박인 본건 산박의 지분에 대한 강제집행은 무체재산권에 대한 예에 의하여 집행해야 한다고 해석함이 타당하다.",
+            "따라서 본건 강제집행은 위법이며 공유자의 한사람으로서의 본소 청구는 결국 정당하므로 이를 인용할 것인바 이와 결론을 같이하는 제1심 판결은 정당하니 본건 항소는 이유없어 기각한다.",
+            "소송비용은 패소자 부담의 원칙에 따른다.",
+            "그러므로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

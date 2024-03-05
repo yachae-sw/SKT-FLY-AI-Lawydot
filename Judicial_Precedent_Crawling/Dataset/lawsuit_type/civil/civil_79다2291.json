@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "계금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.2.26.",
+        "caseNo": "79다2291",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "계의 탈퇴 및 불입금 반환청구가 정당하다고 인정된 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결이 설시증거에 의하여 피고가 계주가 되어 계 불입금의 수령 계금의 지급등 일체의 책임을 지기로 하여 조직한 설시 계의 설시하는 3구좌에 원 가입자인 소외인으로부터 피고의 승낙아래 양도받아 그 불입금으로 합계 설시액을 불입해 왔으나 피고가 태도를 돌변하여 원고의 계원 지위를 부정하면서 원고에게 계금을 지급하지 아니할 뜻을 명백히 함에 이르러 드디어 원고가 그 계에서 탈퇴하고 피고에게 위 불입금의 반환을 최고한 사실이 인정된다는 것이니 원고가 내인 불입금만을 돌려 달라는 취지의 청구를 인용 판단한 조치는 정당히 시인되며 거기에 논지가 여러모로 주장하는 위법사유가 있다고 말할 수 없고 논지가 지적하는 당원 판례는 이 사건에 적절한 것이 되지 못하며 계의 성질 여하를 따지지 아니하였다고 결론을 달리한다고 할 수 없다.",
+            "논지는 이유없어 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

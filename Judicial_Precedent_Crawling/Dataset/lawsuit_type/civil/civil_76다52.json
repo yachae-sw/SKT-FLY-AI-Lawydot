@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "전부금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1976.2.24.",
+        "caseNo": "76다52",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채권자가 전화가입계약의 해지권을 대위행사한 것은 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "전화가입계약의 해지권은 일신전속적인 권리가 아니라 할 것이므로 같은 취지로 판단하여",
+            "원고가 소외인의 전화가입 계약의 해지권을 채권자로서 대위행사한 행위를 적법하다고 인정한 원심의 조치에 소론의 위법사유가 있다 할 수 없으니 논지는 이유없어 관여 법관의",
+            "일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 상고비용은 피고의 부담으로 한다."
+        ]
+    }
+}

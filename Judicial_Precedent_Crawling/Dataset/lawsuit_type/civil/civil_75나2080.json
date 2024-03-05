@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "국유지연고우선순위확인청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1976.3.10.",
+        "caseNo": "75나2080",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확인의 소의 대상이 안된다고 한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 원고의 이 사건 소는 부적법하다 하겠으므로 이를 각하할 것인바 이와 결론을 같이하는 원판결은 정당하고 원고의 항소는 부당하므로 위 항소를 기각하며 항소비용은 패소한 원고의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고의 항소를 기각한다."
+        ]
+    }
+}

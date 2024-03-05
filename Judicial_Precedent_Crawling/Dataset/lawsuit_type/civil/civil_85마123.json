@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.4.2.자",
+        "caseNo": "85마123",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항고법원의 항고기각결정에 대하여 재항고를 할 수 있는 자"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이 사건 재항고는 재항고권 없는 자가 제기한 것이어서 부적법하다 할 것이므로 이를 각하하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 각하한다."
+        ]
+    }
+}

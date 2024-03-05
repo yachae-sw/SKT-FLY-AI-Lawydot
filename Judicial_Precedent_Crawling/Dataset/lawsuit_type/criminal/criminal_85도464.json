@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "절도미수",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.4.23.",
+        "caseNo": "85도464",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "절취의 목적으로 자동차내부를 손전등으로 비추어 본 것이 절도의 실행에 착수한 것인지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인이 노상에 세워놓은 자동차 안에 있는 물건을 훔칠 생각으로 자동차의 유리창을 통하여 그 내부를 손전등으로 비추어 본 것에 불과하다면 비록 유리창을 따기 위해 면장갑을 끼고 있었고 칼을 소지하고 있었다 하더라도 절도의 예비행위로 볼 수는 있겠으나 타인의 재물에 대한 지배를 침해하는데 밀접한 행위를 한 것이라고는 볼 수 없어 절취행위의 착수에 이른 것이었다고 볼 수 원심이 같은 취지에서 제1심판결을 유지한 조치는 정당하고 절도죄의 실행착수에 관한 법리오해가 있다 할 수 없으므로 논지 이유없다.",
+            "그러므로 상고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

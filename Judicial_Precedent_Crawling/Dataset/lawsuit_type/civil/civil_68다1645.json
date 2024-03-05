@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.9.30.",
+        "caseNo": "68다1645",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "군용차량에 편승하였던 피해자에게 과실이 있다고 할 수 없는 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결이 확정한 바와 같이 본건 사고당시 그 사고차량의 소속청인 육군제○군단 사령부가 상부의 지시에 따라 그 군단소속 차량의 운전병들에게 일과를 마친 후에는 군용차량에 군인가족은 물론 일반 민간인을 편승시켜도 무방하다는 취지를 지시한 사실이 있는 이상 설사 그 지시가 소론이 주장하는 바와같이 훈령에 위배되는 것이었다 할지라도 그것을 이유로 하여 위 지시사실을 알고 본건 사고차량에 편승하였던 민간인인 원고의 그 편승을 과실이었다 고는 할 수 없을 것인즉 그 편승이 과실이었음을 전제로 하는 피고의 주장을 배척한 원심의 조치를 논난하는 소론의 논지를 받아드릴 수 없어 관여법관 전원의 일치한 의견으로 민사소송법 제400조 제384조 제95조 제89조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

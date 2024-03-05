@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "문서부진정확인청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1974.1.25.",
+        "caseNo": "73나290",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "당사자 본인신문조서가 증서진부확인의 소의 대상이 되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 본건 소는 부적법한 소로서 그 흠결을 보정할 수 없는 경우에 해당하므로 이를 각하할 것인바 이와 결론을 같이하는 원판결은 정당하고 이에 대한 항소는 이유없으므로 기각하기로 하며 항소비용은 패소자인 원고의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

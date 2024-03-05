@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "형사보상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1974.5.25.자",
+        "caseNo": "73코3",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형사보상금 전부를 지급하지 아니함이 상당하다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이것은 형사보상법 제3조 제1호소정의 형법 제10조 제1항에 의하여 무죄판결을 받은 경우에 해당되고 일건기록에 나타난 제반사정을 참작하면 그 형사보상금 전부를 지급하지 아니함이 상당하다고 인정되므로 결국 이건 청구는 이유없다고 할 것이어서 형사보상법 제16조 제2항에 의하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이사건 청구를 기각한다."
+        ]
+    }
+}

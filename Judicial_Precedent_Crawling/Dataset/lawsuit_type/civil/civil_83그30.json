@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강제집행정지",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.9.10.자",
+        "caseNo": "83그30",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "강제집행정지신청 기각결정에 대한 불복항고의 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 사건 가집행선고가 붙은 판결에 관하여 행한 원심의 강제집행정지신청 기각결정에 대하여는 민사소송법 제474조 제473조의 규정에 의하여 불복할 수 없고  동법 제420조에 의하면 불복을 신청할 수 없는 결정에 대하여는 재판에 영향을 미친 헌법 또는 법률의 위반이 있음을 이유로 하는 때에 한하여 대법원에 특별항고를 할 수 있는 것인바 소론은 이 사건 원심결정 자체에 헌법 또는 법률의 위반이 있다는 것이 아니고 그 본안에 관하여 치료비채권을 제3자에게 양도하였다는 등의 사유를 들어 원심결정을 비난하는 것으로서 적법한 특별항고이유가 되지 아니한다.",
+            "그러므로 특별항고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.9.19.",
+        "caseNo": "67다1511",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "철도청 공무원이 화물을 인도함에 있어 수하인의 진정여부를 확인할 주의의무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결에 의하여 확정된 사실에 의하면 원고가 ○○○이란 명의로 운송을 위탁한 화물이 △△역에 도착하자 철도청 소속공무원인 소외 1은 수하인의 진정여부를 확인할 주의의무를 태만히 하고 만연히 수하인이 아닌 소외 2 주식회사의 직원인 소외 3에게 보증장을 받고 위의 화물을 인도하였다는 것이며 이러한 판단사실이 원판결이 든 증거에 의하여 수긍되는 이상 본건 사고에 대하여 피고에게 과실이 없었다고 할 수 없을 것이므로 이유설명이 불충분하던가 피고에게 과실없다는데 귀착되는 논지는 그 어느 것이나 채택할바 못되고 원고의 과실을 인정하지 아니한 취의인 원판결 판단에 무슨 위법이 있을 수 논지는 모두 이유 없다.",
+            "따라서 민사소송법 제400조 제395조 제384조에 의하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "살인및사체유기각피고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.6.10.",
+        "caseNo": "4288형상111",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "자백과 그 증거력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨데 피고인 등이 본건 살인행위를 경찰 및 검찰에서 자백한 부분이 있음은 소론과 같으나 원심이 우 자백을 취신치 않는 원유로 거시한 증거에 의하면 본건 압수물의 발견경위와 피의의 경로 및 기타 정황 등으로 미루어 전시 자백이 부자유에 기인한 진술이라고 인정한데 있음을 간취할 수 있는 바 동 조치에 경험칙 위반 기타 하등의 위법이 있음을 발견할 수 없다고 인정하므로 결국 논지는 원심의 전권에 속하는 취사와 사실인정을 비난하는 데 귀착하여 이유없다 그러므로 형사소송법부칙 제1조 법령 제181호 제4조 호에 의하여 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 상고를 기각 한다"
+        ]
+    }
+}

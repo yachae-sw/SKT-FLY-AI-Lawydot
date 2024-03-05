@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "병역법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1978.1.31.",
+        "caseNo": "77도3846",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "근무소집기일에 입영하지 아니한 정당한 사유가 있는 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심은 다음과 같이 판시하고 즉 피고인은 전 주거지인 서울 성동구 금호 3가동에서 전투중대 6소대 3분대에 편성되어 있던 자로서 당국의 1976년도 근무연습소집 방침상 전투중대 편성자는 근무연습대상에서 제외되었음을 알 수 있으므로 그렇다면 피고인 근무연습소집기일에 입영하지 아니한데 대하여 소위 정당한 이유가 있다고 할 것이고  따라서 피고인에 대한 본건 범죄는 죄가 되지 아니한다고 설시하고 이러한 원심판시는 정당하고 여기에는 병역법에 관한 법리를 오해한 위법사유가 없다.",
+            "그렇다면 이 상고는 그 이유없으므로 형사소송법 제390조에 의하여 기각하기로 이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각한다."
+        ]
+    }
+}

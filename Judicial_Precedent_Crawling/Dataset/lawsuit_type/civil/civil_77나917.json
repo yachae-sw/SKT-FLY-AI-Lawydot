@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1979.2.23.",
+        "caseNo": "77나917",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "교사의 학생에 대한 폭행이 교육업무상 정당한 행위로서 위법성이 조각된다고 인정된 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 위 소외인들의 행위가 불법행위임을 전제로 그 사용자인 피고에 대하여 그 배상책임을 묻는 원고들의 이사건 청구는 받아들일 수 없어 기각할 것인 바 원판결은 이와 결론을 같이 하여 정당하므로 원고들의 항소를 모두 기각하고 소송비용의 부담에 관하여는 민사소송법 제89조  제93조  제95조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 모두 기각한다."
+        ]
+    }
+}

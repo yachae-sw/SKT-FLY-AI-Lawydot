@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "저수지신설지원부담금청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1974.3.15.",
+        "caseNo": "73나306",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "당사자표시정정이 당사자변경으로 인한 소변경에 해당한다고 판시한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이에 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "제1심 판결을 취소한다."
+        ]
+    }
+}

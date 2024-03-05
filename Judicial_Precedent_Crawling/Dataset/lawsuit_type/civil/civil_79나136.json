@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "비주주확인청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1979.11.8.",
+        "caseNo": "79나136",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확인의 이익이 없다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "먼저 직권으로 살피건대 이건 확인의 소가 적법하려면 피고회사와의 사이에 원고의 기존권리 또는 법률적 지위에 현존하는 불안이 있고 그 불안을 제거하기 위하여는 이건 소를 제기하는 이외는 보다 유효적절한 방법이 없는 경우에 한한다고 할 것인바 위와 같은 경우 원고는 국가에 대한 소로서 피고회사의 주주임을 전제로 한 조세부과처분의 무효확인을 구하면 되는 것이고 피고회사에 대한 소로서 비주주확인을 구하는 것은 확인의 이익이 없다고 할 것이다.",
+            "그러므로 원고의 이건 청구는 본안에 대하여 더 나아가 판단할 필요도 없이 불법적하여 이를 각하할 것이다.",
+            "따라서 이와 결론을 같이 하는 원심판결은 정당하므로 원고의 항소를 기각하고 소송비용의 부담에 관하여는 민사소송법 제95조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

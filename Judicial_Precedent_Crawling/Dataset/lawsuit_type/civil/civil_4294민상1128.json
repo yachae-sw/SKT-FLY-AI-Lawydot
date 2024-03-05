@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지건물소유권이전등기등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.17.",
+        "caseNo": "4294민상1128",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부동산에 관한 환매특약에 있어 매도인이 대금변제기 이후의 이자만을 지급하고 변제기까지 환매권을 행사못한 경우의 특약의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 민사소송법 제406조를 적용하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 한다."
+        ]
+    }
+}

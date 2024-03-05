@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사문서위조·사문서위조행사·공정증서원본불실기재·공정증서원본불실기재행사·사기·위증교사",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.6.28.",
+        "caseNo": "81도3011",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사판결에서의 사실확정과 관련된 형사재판에서의 사실인정에 대한 구속력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "형사재판에서 관련된 민사사건의 판결에서 인정된 사실은 유력한 인정자료가 된다고 할지라도 반드시 그 판결의 확정사실에 구속을 받는 것은 아니어서 형사법원은 증거에 의하여 민사판결에서 확정한 사실과 다른 사실을 인정할 수 있는 것이라고 할 것인바 원심판결이 들고 있는 증거들을 기록에 대조하여 검토하여 보면 원심이 피고인에 대한 판시 각 범죄사실을 인정한 조치는 수긍할 수 있고 거기에 채증법칙 위배의 위법사유가 있다 할 수 없어 논지는 이유없다.",
+            "그러므로 피고인의 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

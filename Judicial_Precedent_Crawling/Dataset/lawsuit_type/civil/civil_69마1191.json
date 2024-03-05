@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "이송신청각하결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.1.21.자",
+        "caseNo": "69마1191",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "당사자에게 관할위반을 이유로 하는 이송신청권이 없으므로 이 신청이 있어도 재판을 요하지 않으며 이 신청을 거부하는 재판이 있어도 항고할 수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 민사소송법 제413조 제2항에 의하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 모두 각하한다."
+        ]
+    }
+}

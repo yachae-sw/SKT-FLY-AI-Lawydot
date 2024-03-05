@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구재심사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1980.5.29.",
+        "caseNo": "80사3",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송법    소정의 “전에 선고한 확정판결”의 뜻"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이사건 소는 재심사유가 없는 경우에 해당한다고 할 것이므로 이를 각하하고 소송비용은 원고의 부담으로 할 것이므로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "소를 각하한다."
+        ]
+    }
+}

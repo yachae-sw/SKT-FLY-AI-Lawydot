@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "결의무효확인등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1963.3.21.",
+        "caseNo": "62다821",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확인의 이익과 당사자 적격의 법리를 오해한 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 민사소송법 제406조에 의하여 관여법관 전원의 일치한 의견으로 주문과같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고"
+        ]
+    }
+}

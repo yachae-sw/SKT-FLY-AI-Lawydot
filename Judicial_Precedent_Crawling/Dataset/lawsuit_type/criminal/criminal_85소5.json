@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "재심청구,사기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.10.10.",
+        "caseNo": "85소5",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "구체적인 재심청구사유를 주장함이 없이 막연히 공소제기가 허위이며 증거서류가 날조되었다는 주장의 재심청구사유 해당여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그런데 본건 재심청구이유에 의하면 구체적으로 위 재심청구사유를 주장함이 없이 막연하게 공소제기가 허위이며 증거서류가 날조되었으니 재판을 잘못하였다고 말하고 있으니 이런 점은 재심청구사유가 되지 못함이 분명하므로 재심청구는 이유 없다.",
+            "그러므로 재심청구를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재심청구를 기각한다."
+        ]
+    }
+}

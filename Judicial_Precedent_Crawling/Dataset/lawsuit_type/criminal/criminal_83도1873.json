@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.1.24.",
+        "caseNo": "83도1873",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "먼저 칼로 찔리자 이에 대항하여 가해한 행위와 정당방위"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 인용한 제1심판결의 거시증거들을 기록과 대조하여 살펴보면 피고인에 대한 판시범죄사실을 인정한 원심의 조치에 수긍이 가며 거기에 소론과 같은 채증법칙 위배로 인한 사실오인이나 심리미진 그리고 폭력행위등처벌에관한 법률 제3조 제1항에 관한 법리오해의 위법이 없으며 설사 피해자 원심 상피고인이 칼을 들고 피고인을 찌르자 그 칼을 뺏어 그 칼로 반격을 가한 결과 동녀에게 공소장기재 상해를 입게 하였다 하더라도 그와 같은 사실만으로는 피고인에 대한 현재의 부당한 침해를 방위하기 위한 행위로서 상당한 이유가 있는 경우에 해당한다 할 수 없으니 원심판결에 정당방위에 관한 법리오해의 위법이 있다 할 수 없으므로 논지 모두 이유없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

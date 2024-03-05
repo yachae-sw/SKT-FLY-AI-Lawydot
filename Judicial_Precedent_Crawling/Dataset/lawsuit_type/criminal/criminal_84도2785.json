@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "유기장업법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.2.8.",
+        "caseNo": "84도2785",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "남편의 유기장 영업을 보조해온 처를 남편과 별도로 유기장영업 위반죄로 처벌할 수 있는지 여부."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결이 유지한 제1심판결 이유에 의하면 그 거시증거를 들어 피고인은 그의 남편 공소외인의 유기장영업을 틈틈이 보조해온 것은 분명하다하고 영업보조자에 불과한 피고인을 그 주된 영업자인 남편인 위 공소외인이 이 사건과 동일한 행위로 유죄로 처벌된 이상 이와 별도로 영업범인 이 사건 유기장업법위반죄로 처벌할 수 없다 하여 무죄를 선고한 것인바 기록을 증거와 대조하여 살펴보면 제1심의 증거조사 과정이나 그 취사선택조처에는 아무런 위법이 없고 원심이 이를 긍인한 조처 또한 정당하므로 검사주장과 같은 심리미진 내지 채증법칙 위배로 사실을 오인한 위법이나 형법상의 공범이론에 관한 법리오해의 위법이 없어 논지는 이유없다.",
+            "따라서 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

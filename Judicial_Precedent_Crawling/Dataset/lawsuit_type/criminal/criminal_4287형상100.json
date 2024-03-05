@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "건조물침입절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.3.4.",
+        "caseNo": "4287형상100",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사실오인과 의률착오"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "직권으로 조사컨대 원심판시사실은 업무상 횡령에 해당함으로 행위시법에 의하면 구형법 제253조에 재판시법에 의하면 형법 제356조에 각 해당함에도 불구하고 이를 건조물 침입 절도로 오인하여 당해법조를 적용하였음은 사실오인 의율착오가 있고 이는 판결에 영향을 미칠 것임으로 원판결을 파기하고 다시 심리키 위하여 본건을 원심법원에 환송함이 가하다 인정하고 형사소송법부칙 제1조 구 형사소송법 제447조 동 제448조의2에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고 본건을 광주고등법원에 환송한다."
+        ]
+    }
+}

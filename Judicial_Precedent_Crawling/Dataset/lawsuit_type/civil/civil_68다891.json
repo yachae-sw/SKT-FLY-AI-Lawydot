@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.10.22.",
+        "caseNo": "68다891",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "비자경 농지로서 정부에 매수된 농지가 분배되기 전에 도시계획법 의 시설대상이 된 경우 위 농지매수의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 상고는 이유없다하여 기각하기로 하고 상고 소송비용은 패소자의 부담으로 하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

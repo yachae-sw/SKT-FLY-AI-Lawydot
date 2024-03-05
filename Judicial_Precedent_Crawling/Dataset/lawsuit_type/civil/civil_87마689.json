@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.8.29.자",
+        "caseNo": "87마689",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "재항고 이유로서 다른 서면기재 내용의 원용가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "재항고이유는 재항고장이나 재항고이유서에 직접 기재하는 방법으로 표현하여야 하고 다른 서면의 기재내용을 원용할 수 없다 할 것이므로 이 사건에서 재항고인이 재항고이유는 항고이유를 원용한다 라고 하고 있음은 적법한 재항고이유의 기재로 볼 수 없어 재항고이유가 될 수 없다.",
+            "이에 재항고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

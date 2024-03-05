@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "특수절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1986.7.8.",
+        "caseNo": "86도621",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소심에서의 공소장변경 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "현행법상 형사항소심의 구조가 오로지 사후심으로서의 성격만을 가지고 있는 것은 아니고 항소심에서도 공소장의 변경을 할 수 있다는 것이 당원의 판례이므로 견해를 달리하여 원심이 검사의 공소장변경을 허가한 조처가 법률위반이라고 탓하는 논지는 이유없다.",
+            "원심이든 증거에 의하면 피고인의 판시 범죄사실을 넉넉히 인정할 수 있고 소론이 지적하는 증인들의 진술을 유죄의 증거로 채택한 점에도 채증법칙위반이나 심리미진의 위법이 있음을 찾아볼 수 없으니 그 사실인정과 채증의 내용을 탓하는 논지도 이유없다.",
+            "그러므로 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

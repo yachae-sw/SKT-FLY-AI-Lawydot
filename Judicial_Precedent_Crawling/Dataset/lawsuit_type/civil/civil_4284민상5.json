@@ -1,0 +1,52 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대지건물소유권이전",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1951.12.27.",
+        "caseNo": "4284민상5",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "증거판단 유탈과 이유불비",
+            "제1심판결에 관여한 판사의 제2심 판결관여와 법령위반"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "안컨대 원고가 원심에서 증인 소외 2 및 소외 3의 증언을 원용함은 원판결의 적기한 바로서 동인등의 증언내용에 의하매 원심이 이를 채용하면 원고주장사실을 긍정할 자료됨을 불구하고 원판결은 이를 판단함이 없이 만연히 원고주장을 배척함은 증거판단을 유탈한 위법있음으로 논지이유 있다.",
+            "동 제2점은 원심판결에 판사 지익삼이 관여하였는데 동 판사는 제1심 판결에 관여하였음으로 법률상 당연히 원판결에 관여할 수 없음을 불구하고 차에 관여한 것은 법률에 위반된 것으로 사료함이라 운하다.",
+            "안컨대 판사 지익삼은 본건에서 불복된 제1심 판결에 관여하였음을 불구하고 다시 원판결에 관여한 위법이 있음으로 논지 이유있다.",
+            "자에 민사소송법 제407조 제95조 제89조에 의하여 주문과 같이 판결함."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파훼함."
+        ]
+    }
+}

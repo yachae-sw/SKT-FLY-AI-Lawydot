@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "주식회사해산명령기각결정에대한재항고허가",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.2.25.자",
+        "caseNo": "82마카1",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "회사 해산 명령사건의 항고심 재판에 대하여 소송촉진등에 관한 특례법에 의한 재항고 허가신청의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그런데 상법 제176조의 규정에 따른 본건 회사 해산명령사건은 상사 비송사건임이 분명하며이런 비송사건의 재판에 대한 항고에 관하여 민사소송법의 항고 규정이 준용된다 하여 그것이 민사소송사건으로 탈바꿈을 할리 만무하다고 하겠다.",
+            "그렇다면 민사소송이 아닌 비송사건의 재항고는 위 특례법에 의하여 제한되었다고 볼 수 없고 따라서 허가에 의한 재항고란 있을 이유나 필요가 없다고할 것이 명백하며 본건에 준용되는 민사소송법에 허가에 의한 재항고 제도는 규정된바 없으므로 본건 재항고 허가신청은 부적법하고 또 이 흠결은 보정될 성질의 것이 아니니 각하를 면할 수 없다(신청인들은 따로 재항고를 제",
+            "기하고 있.",
+            "그러므로 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 허가신청을 각하 한다."
+        ]
+    }
+}

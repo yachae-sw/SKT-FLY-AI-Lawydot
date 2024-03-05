@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1967.10.27.",
+        "caseNo": "67나2477",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피교육병이 강수욕 중 경련으로 사망한 경우와 인솔자의 무과실"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 강수욕중 전신경련을 일으켜 사망한다는 것은 인솔자인 소외 1이 예견할 수 없는 특별사정이라 할 것으로서 피해자의 전신경련에 의한 사망과 위 인솔자인 육군 중위 소외 1이 지켜야 할 주의의무를 태만한 것과의 사이에는 특별한 사정이 없는 한 상당 인과관계가 있는 것이라고 보기 어렵다 할 것이고 따라서 상당인과관계가 있음을 전제로 한 원고의 이사건 청구는 그 주장자체에 있어 나머지 점에 관한 판단을 거칠 것도 없이 그 이유 없다 하여 이를 기각할 것인바 이와 결론을 달리한 원판결은 부당하고 따라서 피고의 항소는 그 이유 있으므로 민사소송법 제386조에 따라 이를 기각하기로 하고 소송비용의 부담에 관하여는 같은 법 제96조  제95조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중 피고 패소부분을 취소한다."
+        ]
+    }
+}

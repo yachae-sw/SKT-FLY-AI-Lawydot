@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "정조지급",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1948.8.26.",
+        "caseNo": "4281민상86",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "불특정대체물인 정조의 지급청구에는 현물존재의 사실을 필요로 할가."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "안컨대 본건 소송이 목적물을 특정치 아니한 대체물인 정조의 지급을 청구함에 재함은 원판결 사실적기에 의하여 명백한 바로서 구히 원고의 청구가 그 이유 있을진대 원심은 다만 종류로서인 정조의 지급을 피고에게 명함이 가함에 불구하고 원판결이유에서 만연히 피고가 소작료로서 수봉한 정조를 이의방매하여 현물이 존재치 아니하다 인정설시하여 원고의 청구를 배척함은 심리부진 및 이유불비의 위법 있으매 논지 이유있다.",
+            "자에 기외 상고이유에 대한 설명을 생략하고 민사소송법 제407조 제1항에 의하여 주문과 여히 판결함."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파훼함."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "항소기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.12.27.자",
+        "caseNo": "90모69",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소심에서 피고인의 귀책사유 없이 소송기록접수통지서에 관한 부적법한 공시송달이 이루어지고 소정 기간 내에 항소이유서 제출이 없다는 이유로 항소기각 결정이 되었으나 그후 상소권회복결정이 된 경우 위 항소기각 결정의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이와 같이 원심이 재항고인에 대하여 공시송달의 요건이 갖추어지지 아니하였는데도 소송기록접수 통지서를 공시송달의 방법으로 송달하고 이어서 소정의 기간 내에 항소이유서를 제출하지 아니하였음을 이유로 항소기각 결정을 하였으며 이것이 재항고인이 책임질 수 없는 사유로 인한 것이라면 이는 재항고인에게 항소이유서를 제출할 기회를 주지 아니한 것이 되어 위법하다고 아니할 수 없다.",
+            "그러므로 원심결정을 파기하고 사건을 원심법원에 환송하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심결정을 파기하고 사건을 서울형사지방법원 합의부에 환송한다."
+        ]
+    }
+}

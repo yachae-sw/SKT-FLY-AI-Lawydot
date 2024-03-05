@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강도살인미수",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.9.16.",
+        "caseNo": "69도1250",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인이 소년이라 하더라도 법정형이 사형 또는 무기징역이라면 소년법 에 해당 하는 경우가 아니므로 제1심 판결이 소정형중 무기징역형을 선택하고 미수 감경을 하여 징역7년의 정기형을 선고한 것은 정당하다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "논지는 받아들일 것이 되지 못한다.",
+            "그러므로 관여법관의 일치된 의견으로 상고를 기각하기로 하고 형법 제57조에 의하여 상고이후의 구금일수중 70일을 본형에 산입하기로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

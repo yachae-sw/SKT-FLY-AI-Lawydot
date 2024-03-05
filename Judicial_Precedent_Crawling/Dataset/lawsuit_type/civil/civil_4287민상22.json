@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "건물철거",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1954.12.4.",
+        "caseNo": "4287민상22",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "행정처분의 부당성주장과 민사소송관계"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "안컨대 피고등은 제반사정을 진술하고 관재당국이 피고에게 불하한 것이 부당하다고 주장하나 이는 소청 또는 행정소송에서 심리될 사항에 속하고 민사소송에서 논의할 바가 본소에 있어서는 피고등이 본건 대지 점거할 정당한 권원 있음이 입증되지 아니하는 한 그 항변을 채용할 여지가 없을 따라서 본건상고는 이유없다고 인정하여 기각하고 소송비용에 관하여는 민사소송법 제89조 동법 제95조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건상고를 기각한다."
+        ]
+    }
+}

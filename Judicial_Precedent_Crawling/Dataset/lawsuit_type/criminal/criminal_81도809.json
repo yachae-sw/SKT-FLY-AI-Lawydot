@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상습존속폭행ㆍ상습폭행",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1981.4.28.",
+        "caseNo": "81도809",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "유죄판결이유에 범죄될 사실을 명시하지 아니한 예"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "유죄판결의 이유에는 범죄될 사실 증거의 요지와 법령의 적용을 명시하여야 하는 바 원심이 인용한 제1심 판결이유 기재 범죄사실은 피고인이 상습으로 1975.9경부터 1980.7.29까지의 기간 중 피고인이 교도소에서 복역한 기간을 공제한 나머지 기간동안에 매달 2 3회가량 자기 모와 여동생에게 폭행을 가하였다는 것으로서 피고인이 교도소에서 복역한 기간이 얼마인지 또 입소날짜와 출소날짜가 언제인지 도시 알 수 없으니 위 범죄사실의 기재는 유죄판결 이유에 범죄될 사실을 명시하였다고 볼 수없음이 명백하고 따라서 범죄될 사실의 명시가 없는 원심판결은 그 점에 있어서 위법을 범하였다고 할 것이다.",
+            "그러므로 원심판결을 파기환송하기로 하고 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기하여 사건을 수원지방법원 합의부로 환송한다."
+        ]
+    }
+}

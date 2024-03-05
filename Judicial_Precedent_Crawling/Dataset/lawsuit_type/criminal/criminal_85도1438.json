@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "무역거래법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.9.10.",
+        "caseNo": "85도1438",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "회사의 청산정리만을 위하여 그 대표이사직에 취임한 자에 대한 대응수출불이행죄의 성부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 제 1 심판결 거시의 여러증거를 모아보면 원심판시 사실을 인정하기에 넉넉하고 이에 소론과 같은 위법이 있다고 할 수 없다.",
+            "상고논지는 피고인은 도산상태에 있는 이 사건 공소외 주식회사의 청산정리를 위하여 그 대표이사직에 취임하였을 뿐 대응수출을 이행할 처지에 있지 아니하였다고 함에 있으나 설사 이와 같은 피고인의 변소가 진실이라고 하더라도 이는 피고인의 무역거래법상의 대응수출불이행을 정당화하여 그 위법성을 조각할 사유가 될 수 없으므로 논지는 이유가 없다.",
+            "그러므로 상고를 기각하기로 관여 법관의 의견이 일치하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

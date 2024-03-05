@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수의사법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.12.26.",
+        "caseNo": "84도2459",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가축원이라는 명칭이 수의사법상의 동물병원과 유사한 명칭인지 여부",
+            ""
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인이 각종 개의 매매 교미 교환업에 종사하면서 사용하였다는 ○○가축원이라는 상호가 수의사법상의 동물병원과 유사한 명칭이라고는 볼 수 없다 할 것이므로 같은 취지에서 피고인에게 무죄를 선고한 제1심판결을 유지한 원심의 조처는 정당하고 거기에 소론과 같은 채증법칙 위배의 위법이 있다고 할 수 논지는 결국 다른 견해에서 원심판결을 탓하는 것이니 받아들일 수 없다.",
+            "이에 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

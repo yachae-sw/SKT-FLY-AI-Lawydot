@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.9.6.",
+        "caseNo": "66다1190",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "원고의 청구에 대하여 권리보호요건의 유무를 가리지 않는 위법이 있는 예"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "본원의 촉탁에 의하여 송부된 서울민사지방법원 65가873 손해배상 등 청구사건기록에 의하면 원고들은 이사건과 동일한 청구원인으로 피고를 상대로 하여 손해배상 등을 청구하여 서울고등법원 65나1540 사건으로 1965.중 확정된 사실이 분명하니 1966.5.변론 종결한 원심으로서는 기히 확정된 원고들의 위에서 설시한 판결의 내용에 따라 권리 보호요건의 유무등을 판단하였어야 하였는데 이에 이르지 아니한 원판결은 위법임을 면하지 못한다할 것이다.",
+            "논지는 이유없으므로 민사소송법 제406조 제1항의 규정을 적용하여 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결 중 피고패소부분을 파기한다."
+        ]
+    }
+}

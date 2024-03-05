@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "보증채무금청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1970.11.19.",
+        "caseNo": "70나1546",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "회사의 사환이 경리담당 직원으로부터 수표추심의 심부름을 받고 돈을 찾아 횡령하였을 경우에 사환의 신원보증인의 책임"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 원고의 이건 청구는 부당하므로 피고의 나머지 주장은 더 나아가 가릴 필요없이 실당하므로 이를 기각할 것인 바 이와 결론을 달리하는 원판결의 피고 패소부분은 부당하여이에 대한 피고의 항소가 이유있으므로 이를 받아들여 원판결의 피고 패소부분을 취소하고 그 부분에 관한 원고의 청구를 기각하고 소송비용의 부담에 관하여는 민사소송법 제95조  제89조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결의 피고 패소부분을 취소하고 그 부분에 관한 원고의 청구를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.11.29.",
+        "caseNo": "66다1795",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "국가배상법 에 규정한 \"타인\"에 해당 된다고 보아야 할 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원고 또한 공무집행중에 본건 사고가 있었다하여도 원고의 공무집행은 본건 불법행위에 가담하는 행위가 아니었음이 원판결판단취의인 이상 원고 또한 국가배상법 제2조 소정 타인에 해당된다는 원판결에 위법이 있을 수 없다.",
+            "논지는 이유없다.",
+            "따라서 민사소송법 제400조 제395조 제384조에 의하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

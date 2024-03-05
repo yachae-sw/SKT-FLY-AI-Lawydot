@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "판결경정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.9.15.",
+        "caseNo": "87그30",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "대법원의 결정에 대한 항고 특별항고의 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 대법원의 결정에 대하여는 항고나 특별항고를 할 수 없는 것이므로 이 사건 항고는 부적법하여 받아줄 길이 없다.",
+            "그러므로 항고이유를 따져볼 것 없이 이를 각하하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건 항고를 각하한다."
+        ]
+    }
+}

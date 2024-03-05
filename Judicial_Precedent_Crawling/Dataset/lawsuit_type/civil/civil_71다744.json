@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "과오납금환부",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.5.24.",
+        "caseNo": "71다744",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "위 갑종근로소득세 부과처분은 무효인만큼 그 부과처분의 무효여부가 민사소송법상 선결문제로 된 때에는 민사법원에서 판단할 수 있다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "위에서 본바와 같이 피고의 원고에 대한 위 갑종근로 소득세의 부과처분은 무효인만큼 이 부과처분의 무효여부가 민사소송법상 선결문제로 된 때에는 민사법원에서 판단할 수 있다 할 것이고 비록 원고가 과오납금환부라는 명칭으로 본건 청구에 이르렀다 하더라도 그 내용에 있어서 위에서 말한 부당이득금을 청구하는 취지임이 명백하다 하여 민사소송으로 취급한 원심조처는 정당하다 할 것인즉 관할위배의 위법이 있다는 소론의 논지 또한 이유없다 할 것이다.",
+            "그러므로 상고를 이유없다하여 기각하기로 하고 상고 소송비용은 패소자 부담으로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

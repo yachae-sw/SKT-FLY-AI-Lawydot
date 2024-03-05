@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부정수표단속법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1988.12.6.",
+        "caseNo": "88도1406",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부도이후에 수표금액의 입금과 발행인의 형사책임"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 원심판결에 소론과 같은 채증법칙위반 심리미진 법리오해의 위법이 있다고 할 수 없다.",
+            "이에 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

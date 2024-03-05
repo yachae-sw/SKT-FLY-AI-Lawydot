@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "재판집행에대한이의신청사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1981.2.17.자",
+        "caseNo": "81초5",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "재판집행의 이의신청이 이유있다고 인정한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 신청인에 대한 확정된 판결의 선고내용은 징역 단기 1년 장기 1년 6월임이 명백하고 따라서 같은 판결의 집행에 관하여 대검찰청 검사 공소외인이 징역 단기 1년 6월 장기 2년의 형인 것으로 집행 지휘한 처분은 부당하여 취소를 면치 못한다 할 것이므로 형사소송법 제489조 제491조에 의하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "대검찰청 검사 공소외인이 신청인에 대한 대구고등법원 80노749 폭력행위등처벌에 관한 법률위반사건에 있어서 당원이 선고한 징역 단기 1년 장기 1년 6월의 판결집행에 관하여 징역 단기 1년 6월 장기 2년의 형으로 집행지휘한 처분은 이를 취소한다."
+        ]
+    }
+}

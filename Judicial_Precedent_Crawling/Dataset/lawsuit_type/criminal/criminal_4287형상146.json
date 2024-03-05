@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수뢰",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1954.5.13.",
+        "caseNo": "4287형상146",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인의 공판에서의 자백과 그 증명력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안하니 제1심 공판조서중 피고인의 공술기재에 의하면 피고인은 원심 공동피고인 1로부터 수수한 소론 금 5만 환에 관하여 피고인의 직무에 관하여 수수한 것임을 자인하고 있음에 불구하고 원심이 이에 대하여 하등의 설명을 가함이 없이 막연히 전시금원을 피고인의 직무와 관계없이 사적으로 수수된 것이라고 인정하여 무죄를 선고하였음은 채증법칙의 위반이 있다 할것이므로 논지는 이유있다.",
+            "자에 형사소송법부칙 제1조 구 형사소송법 제447조 동 제448조의 2에 의하여 원판결을 파기하여 원심에 환송하기로 하는 바이다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다"
+        ]
+    }
+}

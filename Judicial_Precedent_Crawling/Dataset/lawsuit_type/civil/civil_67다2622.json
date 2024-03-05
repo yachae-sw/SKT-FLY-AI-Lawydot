@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "임야인도등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.4.30.",
+        "caseNo": "67다2622",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "종중에 대표자가 계속하여 선임되어 있지않고 필요할 때 마다 이를 선정한 경우의 당사자 능력."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 종중이라함은 공동선조의 분묘의 수호 제사 및 종중원 상호간의 친목을 목적으로하는 종족의 집단으로서 그 대표자는 종중의 규약이 있으면 그에 따라 선임하고 그것이 없는때 에는 관습에 의하여 선임하는것으로서 당사자 능력이 있다 할것이고 그 대표자가 계속하여 선임되어 있지 않았다하여 당사자 능력이 없다할 수 없음에도 불구하고 원심이 위에서 본 바와같이 판단하였음은 잘못이라 아니 할 수 없고 이는 판결의 결과에 영향을 미쳤다할것이므로 논지는 이유있고 원판결은 나머지 상고이유에 대한 판단을 기다릴것없이 파기를 면치 못할것이다.",
+            "그러므로 사건을 원심인 춘천지방법원 합의부로 환송하기로 하여 관여법관 전원의 일치한 의견으로 주문과같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고"
+        ]
+    }
+}

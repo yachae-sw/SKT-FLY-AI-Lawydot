@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권확인등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1992.2.14.",
+        "caseNo": "91다29347",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무허가건물에 관하여 무허가건물대장상의 명의변경을 구하는 소의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "무허가건물대장은 무허가건물의 정비에 관한 행정상의 사무처리의 편의를 위하여 작성 비치된 대장으로서 그 대장에의 기재에 의하여 무허가건물에 관한 권리의 변동이 초래되거나 공시되는 효과가 생기는 것이라 할 수 없다.",
+            "원심이 같은 취지에서 이 사건 무허가건물에 관하여 그 무허가건물대장상의 명의변경을 구하는 원고의 소를 그 이익이 없다하여 각하한 조치는 원심판결에 소론과 같은 법리오해의 위법이 있다고 할 수 논지는 이유 없다.",
+            "이에 상고를 기각하고 상고비용은 패소자의 부담으로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

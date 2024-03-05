@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "간통",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.12.14.",
+        "caseNo": "82도2074",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "공소제기 전에 피고인만이 고소인을 상대로 이혼심판청구를 한 경우 공소 제기 효력유무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 제1심 판결이유에 의하면 이 사건 고소 당시에는 피고인 1이 고소인을 상대로 이혼심판청구를 제기하고 있었을 뿐이고 고소인 공소외인은 이 사건 공소가 제기된 후인 1982.4.2에 비로소 피고인 1을 상대로 이혼심판청구를 제기한 사실이 인정되므로 위 고소인 공소외인의 고소는 이 사건 공소제기 당시까지 그 유효요건을 갖추지 못하고 있음이 명백하여 따라서 이 사건은 공소제기의 절차가 법률의 규정에 위반하여 무효인 때에 해당하므로 형사소송법 제327조 제2호에 의하여 피고인들에 대한 이 사건 공소를 각 기각한 조치는 정당하고 거기에 간통죄의 고소의 유효요건에 관한 법리를 오해하여 판결에 영향이 미친 잘못이 있다 할 수 없어 논지는 이유없다.",
+            "그러므로 검사의 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 각 기각한다."
+        ]
+    }
+}

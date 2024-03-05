@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1975.11.5.",
+        "caseNo": "75나194",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "선고없는 판결의 효력",
+            "선고조서없이 판결정본이 당사자에게 송달되어 항소된 경우의 항소심의 조치"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 현실적관찰에 있어서 이미 판결원본이 작성되어 기록에 편철되고 당사자에게 송달되었으며 또 패소당사자로부터 불복항소가 있어 사건이 항소심에 계속중에 있어 공연하게 판결의 결과가 발표된 이상 오늘에 와서 원심으로 하여금 다시 유효한 선고를 함으로써 그 흠결을 보정할 기회를 상실하였다 할 것이므로 이 형식상의 판결을 취소한 후 원심으로 하여금 다시 유효한 소송절차에 의거한 판결을 하게 할 필요와 실익이 있다고 할 것이다.",
+            "따라서 원심의 위와 같은 판결선고절차에 관한 위법도 민사소송법 제387조의 이른바 판결의 절차가 법률에 위배한 경우에 해당한다고 할 것인즉 원판결을 취소하고 이 사건을 원심법원에 환송하기로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "제1심판결을 취소한다."
+        ]
+    }
+}

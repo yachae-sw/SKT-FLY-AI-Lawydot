@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부당이득금등청구사건",
+        "courtNm": "서울민사지법",
+        "judmnAdjuDe": "1987.5.1.",
+        "caseNo": "87나59",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소송고지와 참가적 효력",
+            "부당제소로서 불법행위를 구성하는 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고는 원고에게 위 돈 1600000원 상당의 손해금 및 이에 대하여 원고가 청구하는 바에 따라 이 사건 소장부본의 송달 다음날임이 기록상 명백한 1986.8.1.부터 완제일까지 소송촉진등에관한특례법 소정의 연 2할 5푼의 비율에 의한 지연손해금을 배상할 의무가 있다 할 것이므로 그 의무의 이행을 구하는 원고의 이 사건 청구는 정당하여 이를 인용할 것인 바 이와 결론을 같이 한 원판결은 정당하므로 이에 대한 피고의 항소를 기각하기로 하고 소송비용은 패소자인 피고의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

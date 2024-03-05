@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1973.7.26.",
+        "caseNo": "73나509",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "종중원의 종중재산에 대한 관리방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고들의 이사건 청구는 이유없이 기각할 것인 바 이와 결론을 같이하는 원판결은 정당하고 원고들의 항소는 부당하여 기각하며 소송비용은 패소자의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권확인",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.5.8.",
+        "caseNo": "90다1465",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소송촉진등에관한특례법  에 기한 상고가 인정되지 않는 경우 같은 법  에 의한 상고허가신청으로 전환처리할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "소송촉진등에 관한특례법 제11조에 의하여 상고는 위 제11조 제1항에 해당하는 사유가 있음을 이유로 하는 때에 한하여 이를 할 수 있는 것인바 원심판결에 소론과 같은 심리미진 채증법칙위반 법리오해 등의 위법이 있다는 사유는 위 제11조 제1항의 어느 것에도 해당하지 아니하므로 적법한 상고이유가 되지 못한다.",
+            "또한 위 특례법이 적용되는 민사상고 사건에서 같은 법 제11조 제1항 각호의 사유가 인정되지 않는 경우 그 상고를 같은 법 제12조 제1항에 의한 상고허가신청으로 전환처리함은 허용되지 않으므로 소론 상고이유를 상고허가신청이유로 보아 처리하여 달라는 원고의 주장은 이유없다.",
+            "그러므로 이 사건 상고를 기각하고 상고비용은 패소자의 부담으로 하기로하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

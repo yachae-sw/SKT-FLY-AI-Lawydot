@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "압수물가환부결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.2.5.자",
+        "caseNo": "80모3",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인에 대한 통지없이 한 가환부결정은 위법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "도리켜 본건에 관하여 살피건대 신청인의 본건 압수물가환부신청에 대하여 원심은 검사에게는 그에 대한 의견요청을 하였으나 피고인에 대하여는 통지를 하여 의견진술의 기회를 준 흔적을 찾아볼 수 없다.",
+            "그렇다면 원심이 피고인에게 의견을 진술할 기회를 부여하지 아니한 채 가환부결정을 하였음은 위 법조에 위배하여 위법하다 아니할 수 없고 이의 위법은 재판의 결과에 영향을 미쳤다 할 것이니 논지 이유있어 원심결정을 파기하고 사건을 원심에 환송하기로 한다.",
+            "여기에는 관여법관의 의견이 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심결정을 파기하고 사건을 부산지방법원 합의부에 환송한다."
+        ]
+    }
+}

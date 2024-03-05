@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상소권회복청구기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.12.29.자",
+        "caseNo": "67모45",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상소권 회복청구사건에 관하여 형사소송법  에 의하여 구속영장을 발부한 경우 동 사건의 허 부 결정을 함에 있어서 동 영장집행으로 인한 미결 구금일수를 산입하지 아니한 위법이 있는 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "본건은 본원이 재판하기 충분하여 이를 직접 재판하는바 일건기록에 의하면 재항고인 1967.7.20 원심에서 항소기각의 판결을 받고 그 다음날 상소권 포기서를 원심에 제출하였음이 명백하고 재항고인이 책임질 수 없는 사유로 인하여 상소 제기 기간 내에 상소를 하지 못한 것이라 인정할 수 없는 바이므로 본건 상소권 회복청구를 허가할 수 없다.",
+            "따라서 형사소송법 제396조 제347조 형법 제57조에 의하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 취소한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지인도청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1980.3.14.",
+        "caseNo": "79나107",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소유권이전등기가 경유되어 있으나 사회적 타당성이 결여되어 무효라고 볼 수 있는 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고는 이건 토지가 이미 오래전부터 피고소유로 귀속되었거나 아니면 피고소유로 귀속될 운명에 있는 토지인데 이러한 사정을 잘 알면서 그 매매행위를 꺼리는 전소유자들이나 그 상속인들을 유혹하여 그들의 배임적인 매도행위에 적극 가담하여 이를 매수 하였으니 이 매매행위는 일반사회 정의관념에 위배된 반사회적인 법률행위로서 사회적 타당성이 결여되어 무효라 할 것이어서 원고에게 적법한 소유권이 있다는 전제하에 구하는 원고의 이건 청구는 더 나아가 판단할 것 없이 그 이유없으므로 이를 기각할 것인즉 원판결은 이와 일부 그 결론을 달리하여 부당하므로 피고의 항소를 받아들여 피고 패소부분을 취소하고 원고의 항소를 기각하며 소송비용의 부담에 관하여는 민사소송법 제96조 제95조 제89조 제92조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중 피고 패소부분을 취소한다."
+        ]
+    }
+}

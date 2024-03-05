@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.10.16.자",
+        "caseNo": "70마603",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "금융기관의 연체대출금에 관한 경매절차에 있어서 법정공탁없이 항고한 자가 법원의 공탁명령에 불응하였음을 이유로 그 항고장을 각하한 조처는 정당하다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "금융기관의 연체대출금에 관한 특별조치법에서 연체대출금이라 함은 같은법 제2조 제2호에 의하여 금융기관에서 취급한 여신거래에 있어서 약정된 기일에 변제되지 아니한 원금 이자 및 이에 관련된 채무총액을 말하는 것으로 기록에 의하면 근저당권설정계약에 의하여 본건 경매가 진행중인 사실을 알 수 있고 원심이 위 법 제5조의 2에 의하여 담보로서 공탁을 명하였으나 이에 불응하여 공탁을 하지 아니하였다는 이유로 본건 항고장을 각하한 원심의 조처는 정당하고 원결정에는 법리오해 심리미진 판단유탈의 위법은 없으므로 논지는 이유없다.",
+            "그러므로 재항고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소장각하명령에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.12.30.자",
+        "caseNo": "65마198",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "작위나 부작위 명령을 구하는 소송에 있어서의 소가는 그 작위나 부작위의 명령을 받으므로서 원고가 받는 이익을 표준으로하여 산정할 것이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 이 재항고는 그 이유없다 할 것이므로 관여법관 전원 일치한 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

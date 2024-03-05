@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부당이득금반환",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.6.21.",
+        "caseNo": "62다188",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "증거로 제출한 서증을 전부 인용하면서 그 서증에 표시된 수리비 전액의 일부에 대하여서만 상계항변을 받아들인 것이 부당하다고 인정된 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 개정된 민사소송법 제406조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고"
+        ]
+    }
+}

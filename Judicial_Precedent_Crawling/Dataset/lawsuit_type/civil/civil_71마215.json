@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산최저경매가격저감결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.7.19.자",
+        "caseNo": "71마215",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "최저경매가격의 저감결정에 대해서는 불복할 수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이에 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심결정을 파기하고 사건을 부산지방법원 합의부로 환송한다."
+        ]
+    }
+}

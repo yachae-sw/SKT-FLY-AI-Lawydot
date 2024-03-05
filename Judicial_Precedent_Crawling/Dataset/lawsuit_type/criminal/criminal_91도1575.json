@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "공중위생법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1991.10.22.",
+        "caseNo": "91도1575",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "종전의 구 유기장법에 의하여 허가받은 '아케이드 이큅프먼트' 영업에 공중위생법이 적용되는지 여부 및 위 기구가 같은 법 소정의 유기시설에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이에 상고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

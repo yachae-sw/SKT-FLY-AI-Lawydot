@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.9.20.자",
+        "caseNo": "66마503",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송법  1항의 \"14일이후\"의 뜻"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "경매법 제33조 제2항에 의하여 준용된 민사소송법 제619조 제1항에 \"경매기일은 공고일부터 14일 이후로 정한다\"라고 규정하였으므로 공고일부터 14일째되는 날을 포함하여 그 이후에 경매기일을 지정하여 실시하여도 위법이 아니라고 함이 본원의 판례이므로 본건에 있어서 1966.1.4.자 경매기일공고에 있어서 경매기일을 1966.1.18.로 정하였다하여도 위법이라 할 수 없으므로 이와 반대된 논지는 이유없다.",
+            "그러므로 관여법관 전원의 일치된 의견으로서 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

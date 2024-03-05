@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대부금청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1963.4.24.",
+        "caseNo": "62나1227",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "회사의 출장소장 개인이 출장소장 명의로 발행한 수표를 교부하고 금전을 차용한 경우 표현대리의 성립여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "끝으로 피고는 원고들은 위 출장소장 소외 1과 공모하여 위 회사의 금원을 편취하려고 한 공동불법행위자라고 항쟁하나 이에 대한 아무런 증명이 없으니 배척을 면치 못할 연즉 원고들의 본건 청구는 나머지 점에 관한 판단은 할 것도 없이 정당함을 알 수 있으니 이를 인용할 것인 바 원판결은 이와 결론을 같이 하므로 정당하고 반면에 본건 공소는 이유없으므로 민사소송법 제384조  제96조  제89조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 공소를 기각한다."
+        ]
+    }
+}

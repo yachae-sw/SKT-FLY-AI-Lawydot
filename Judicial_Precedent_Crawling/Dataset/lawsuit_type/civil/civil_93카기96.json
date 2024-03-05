@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "위헌제청신청",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1993.12.28.자",
+        "caseNo": "93카기96",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "인지첩부및공탁제공에관한특례법 의 위헌 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 이건 신청을 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "위헌제청신청을 기각한다."
+        ]
+    }
+}

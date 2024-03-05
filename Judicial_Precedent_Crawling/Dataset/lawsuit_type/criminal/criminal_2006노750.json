@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강제추행",
+        "courtNm": "창원지법",
+        "judmnAdjuDe": "2007.6.14.",
+        "caseNo": "2006노750",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인이 교통사고로 인한 1급의 뇌병변 장애인으로서 간질 뇌진탕 후 증후군 등으로 치료를 받고 있는 심신장애의 의심이 있는 사람임에도 변호인 없이 피고인신문과 증거조사절차를 진행한 끝에 범죄사실을 인정하고 피고인에게 형을 선고한 원심의 조치를 위법하다고 한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인에 대한 공소사실은 원심법원이 인정한 제1항 기재 범죄사실과 같은바 공소사실을 인정할 증거능력 있는 증거가 전혀 없으므로 형사소송법 제325조에 따라 무죄를 선고한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기한다."
+        ]
+    }
+}

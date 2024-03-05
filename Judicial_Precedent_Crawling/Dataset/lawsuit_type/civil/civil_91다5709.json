@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1991.4.23.",
+        "caseNo": "91다5709",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "임야소유권이전등기등에관한특별조치법에 의하여 경료된 소유권보존등기의 등기명의인이 그 임야를 취득한 일이 없으면서 보증서의 발급을 요청하였다가 거절당한 사실 등이 인정될 수 있다면 그 등기의 추정력이 번복됨에도 이와 달리 그 추정력이 번복되지 않았다고 본 원심판결에 증거를 잘못 판단하였거나 위 법에 의한 등기의 효력에 관한 법리오해의 위법이 있다 하여 파기한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 원심판결을 파기하고 사건을 다시 심리판단하게 하기 위하여 원심법원에 환송하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기하고 사건을 서울민사지방법원 합의부에 환송한다."
+        ]
+    }
+}

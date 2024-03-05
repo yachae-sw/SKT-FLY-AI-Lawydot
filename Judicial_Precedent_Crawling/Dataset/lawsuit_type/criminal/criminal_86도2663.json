@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "집회및시위에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1988.2.9.",
+        "caseNo": "86도2663",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "집회및시위에관한법률   에 해당하는 집회 및 시위의 판단기준"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "집회및시위에관한법률은 민주사회에서 평화적인 집회나 시위를 보호함은 물론 나아가 공공의 안녕질서를 유지함에 그 근본정신이 있다 할 것이고 공공의 안녕질서를 파괴하고 사회적 혼란을 야기시킬 정도의 우려가 있으면 현저히 사회적 불안을 야기시킬 우려가 있는 집회 또는 시위에 해당되고이는 집회 시위의 장소 목적 태양 내용 등 모든 정황을 종합하여 판단하여야 할 것인바 이 판단기준에 비추어 보더라도 원심이 피고인을 위 법 제3조제2항 제1항 제4호 소정의 집회 시위의 예비죄로 처단하였음은 정당하고거기에 소론과 같은 법리오해의 위법이 있다 할 수 없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

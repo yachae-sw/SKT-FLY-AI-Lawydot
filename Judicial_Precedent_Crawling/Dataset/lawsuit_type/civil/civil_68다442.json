@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "약속어음금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.7.23.",
+        "caseNo": "68다442",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "주식회사의 기관인 상무이사가 동 회사의 사용인을 겸임할 수 있는지의 여부.",
+            "경리사무에 관한 포괄적 대리권을 가진 사용인을 겸한 상무이사가 개인적으로 쓰기 위하여 동 회사 대표이사의 동장을 위조하여 발행한 약속어음의 효력."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 상고는 이유없다하여 기각하기로 하고 상고소송비용은 패소자의 부담으로 하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "해난심판개시결정의이의신청기각결정에대한특별항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.2.28.자",
+        "caseNo": "70그1",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "지방해난심판위원회의 해난심판 개시결정에 대한 이의신청을 기각한 중앙해난심판위원회의 결정은 민사소송법  소정의 특별항고를 할 수 있는 결정이 아니다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 소론 지방해난심판위원회의 해난심판개시 결정에 대한 특별항고인의 이의신청을 기각한 중앙해난심판위원회의 결정의 적법여부의 점은 중앙해난심판위원회의 재결에 대한 소송이 대법원에 계속된 때에 이를 다툴 수 있는 것이므로 이 결정은 민사소송법 제420조에서 말하는 불복을 신청할 수 없는 결정이라고는 말할 수 없고 따라서 이에 대한 특별항고는 허용될 수 없다 할 것이니 이사건 특별항고를 부적법하다 하여 각하하기로 하고 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별항고를 각하한다."
+        ]
+    }
+}

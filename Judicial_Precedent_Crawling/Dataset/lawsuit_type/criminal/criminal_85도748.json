@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상습도박",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.6.11.",
+        "caseNo": "85도748",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "단시일내에 6회에 걸쳐 판돈 3000000원여가 오간 도박과 상습성 유무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록을 살피건대 원심인정의 도박사실을 수긍할 수 있고 그 과정에 거친 증거취사에 소론과 같은 잘못이 있다고 할 수 그리고 기록에 나타난 1회의 도금 및 승패금과 압수된 금원 등을 볼때 일시적인 오락으로 한 것으로는 볼 수 없고 단시일내에 전후 6회에 걸쳐 판돈 3000000원여가 오간점을 볼때 여기에는 상습성이 있다고 할 것이니 원심이 상습도박으로 인정한 조치는 정당하다고 시인되니 견해를 달리하는 소론은 이유없다.",
+            "그러므로 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

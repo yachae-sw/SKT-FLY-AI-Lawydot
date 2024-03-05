@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.12.26.",
+        "caseNo": "68다1870",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "군인연금법 에 의하여 이미 받은 유족연금은 위자료 중에서 공제하여야 한다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "군인연금법 26조에서 말하는 유족연금은 동법 1조와 군사원호보상법 7조 1조에서 밝히고 있는 바와 같이 군인이나 그 유족의 생활안정과 복리향상을 기하기 위해서 그 유족에게 지급되는 것이므로 이것을 군인의 사망으로 인해서 생기는 손해배상의 성질을 가진 것이라고는 할 수 없을 것이니 원심이 원고 1에 대한 본건 위자료 5만원 중에서 그가 이미 받은 유족연금 9600원을 공제한 조처는 정당하고 원판결에는 소론과 같이 법리를 오해한 위법이 없다.",
+            "동 2점을 보건대",
+            "유족연금은 앞으로도 계속하여 매월 1000원씩 정기적으로 지급된다 하여도 원심에서 그 공제주장을 한바 없으므로 상고심에서 이 새로운 사실을 주장하는 논지는 이유없다.",
+            "그러므로 상고를 기각하고 상고 비용은 패소자의 부담으로 하여 관여법관 일치의 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

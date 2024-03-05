@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "공사금청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1981.2.27.",
+        "caseNo": "80나617",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소송외에서의 소취하 합의의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원·피고간의 위 소취하의 합의에 위반하여 유지되는 원고의 이건 소는 결국 권리보호의 이익이 없는 부적법한 것이라고 할 것이므로 더 나아가 본안에 관하여 살펴볼 필요없이 이를 각하할 것인바 원판결도 이와 취지를 같이하여 정당하므로 원고의 이건 항소를 기각하고 소송비용은 패소자의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

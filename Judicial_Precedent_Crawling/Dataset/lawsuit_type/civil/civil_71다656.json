@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수표금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.5.24.",
+        "caseNo": "71다656",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "은행의 채무부담행위에 해당하는 보증행위는 은행본점 계리부장대리의 직무범위 내에 속하지 아니하고 또 외형상 직무와 관련된 행위라고도 볼 수 없다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 소론 갑 제4호증중     항의 각 기재를 검토할지라도 그것이 피고 상업은행본점 계리부장의 대외적 행위의 권한을 인정한 것으로는 볼 수 없고 그것은 다만 계리부장의 대내적 행위의 권한을 정한것에 지나지 아니하는 것으로 보아야할 것이니 원심이 피고은행의 채무부담 행위에 해당하는 보증행위는 계리부장 대리의 직무범위내에 속하지 아니하고 또 외형상 직무와 관련된 행위라고도 보여지지 아니한다고 판단한 것은 정당하고 원판결에는 소론과 같은 판단유탈의 위법이 있다고는 논지이유 없다.",
+            "이리하여 상고를 이유없다 하여 기각하기로 하고 상고소송비용의 부담에 관하여 민사소송법 제95조 제89조를 적용하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "업무상배임",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1965.10.15.",
+        "caseNo": "65도742",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "농업협동조합직원이 관하 각 리 동조합에 할당된 비료중 그 수요량을 넘는 비료를 포기",
+            "받아 대금을 납부하여 배급받은 경우와 업무상 배임죄"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각한다."
+        ]
+    }
+}

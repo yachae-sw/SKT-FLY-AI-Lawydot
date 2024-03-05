@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지소유권이전등기등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.10.",
+        "caseNo": "4294민상1522",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확정판결이나 화해조서가 강행법규에 위반한 경우의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 이점에 관한 논지는 이유가 있으므로 그 밖의 논지에 대한 판단은 생략하고 민사소송법 제406조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 하고"
+        ]
+    }
+}

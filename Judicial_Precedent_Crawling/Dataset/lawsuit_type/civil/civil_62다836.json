@@ -1,0 +1,47 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "주주총회결의무효확인재심",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1963.4.25.",
+        "caseNo": "62다836",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "주식회사의 이사 또는 감사의 해임 또는 선임결의의 무효확인소송에 있어서의 그 주주총회의 결의에 의하여 해임 또는 선임된 이사 또는 감사의 당사자 적격",
+            "소송제기당시 상대방이 교도소에 구속되어 있음을 알고 있음에도 불구하고 솟장에는 상대방의 주소를 기재하여 진행시킨 소송과 민사소송법   "
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고 사건을 대구고등법원에 환송 한다."
+        ]
+    }
+}

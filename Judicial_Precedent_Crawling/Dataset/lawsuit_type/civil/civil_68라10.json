@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "주주행사금지처분기각결정에대한항고사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1968.8.23.",
+        "caseNo": "68라10",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "주권발행전에 주식을 양도한 자도 회사에 대한 관계에 있어서는 주주의 지위를 보유한다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "소갑 제3호증에 의하면 피신청인은 그가 소유하고 있던 신청인 회사의 1000환권 주식 10000주 1000환권 신주식 20000주를 신청외 1에게 1963.9.양도한 사실은 인정되나 일건 기록에 의하면 이건 주식의 양도는 회사가 주권발행전에 이루어졌음이 명백하므로 주권발행전에 한 주식의 양도는 회사에 대하여 효력이 없다 할 것이니 피신청인은 주식의 양도에 불구하고 회사에 대한 관계에 있어서는 여전히 주주라 할 것이다.",
+            "따라서 항고인의 피신청인 주주가 아니라는 항고논지는 이유없고 원심이 피신청인은 주식자체를 양도하지 아니하였다고 인정하여 주주라고 설시하였음은 그 이유에 있어 부당하나 그 결론은 같으므로 결국 정당하다 할 것이니 항고를 기각하고 민사소송법 제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이건 항고를 기각한다"
+        ]
+    }
+}

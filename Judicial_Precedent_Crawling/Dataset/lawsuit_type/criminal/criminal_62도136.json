@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "무고등피고사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1962.7.27.",
+        "caseNo": "62도136",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "풍설로 알게 된 확신없는 사실의 신고와 무고죄의 성부",
+            "\"타인으로 하여금 형사처분이나 징계처분을 받게 할 목적\"의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "상고이유 제2점 요지는 원심판결 판시사실 제2의 ㉯에 있어서 피고인이 공소외 3에게 유리잔과 유리병을 던지고 오른편 주먹으로 그의 왼편 귀 뺨을 두번 때려서 1개월의 치료를 요구하는 왼귀의 고막파열상을 가하였다고 하나 피고인으로서는 그와 같은 상해를 가한 사실이 없으니 원심은 중대한 사실을 그릇인정한 위법이 있다고함에 있음으로 살피건데 원판결이 채택한 증거를 비추어서 자세히 살펴보면 이를 종합함으로써 피고인에 관한 폭행치상의 범죄사실을 넉넉히 인정할 수 있고 기록을 들춰봐도 원심판결에는 소론과 같은 위법이 있음을 발견할 수 없으니 이 점에 관한 논지 역채용할 수 없다.",
+            "따라서 형사소송법 부칙 제2항 개정전 형사소송법 제390조  형법 제57조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 상고를 기각한다."
+        ]
+    }
+}

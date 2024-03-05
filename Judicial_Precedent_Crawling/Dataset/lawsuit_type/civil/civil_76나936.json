@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1976.6.9.",
+        "caseNo": "76나936",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "배상심의회결정의 배상금을 수령한 후의 손해배상청구의 소의 적법여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고의 본건 소는 더 나아가 판단할 것없이 부적법하여 각하하기로 하고 이와 결론을 달리한 원판결은 부당하고 원판결 중 피고 의 패소부분에 대한 피고의 항소는 이유있으므로 그 부분에 대한 원판결을 취소하고 거기에 대한 본건 소를 각하하며 소송비용은 1 2심 모두 패소자인 원고의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중 피고의 패소부분을 취소하고 그 부분에 대한 본건소를 각하한다."
+        ]
+    }
+}

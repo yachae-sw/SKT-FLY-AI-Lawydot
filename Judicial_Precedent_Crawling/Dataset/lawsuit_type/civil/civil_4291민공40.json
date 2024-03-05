@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가처분결정에대한이의청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1958.6.16.",
+        "caseNo": "4291민공40",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "관재청장을 국가의 대표자로 한 판결의 효력",
+            "소유권이전등기절차이행을 명한 판결의 기판력에 소유권확인이 포함되어 있는지 여부",
+            "사실심 변론종결전의 사유로 확정판결의 효력을 다룰 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "본건 공소는 이를 기각한다."
+        ]
+    }
+}

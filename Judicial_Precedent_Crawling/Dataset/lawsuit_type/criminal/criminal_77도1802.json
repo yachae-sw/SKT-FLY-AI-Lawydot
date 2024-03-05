@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "특수절도미수",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1977.7.26.",
+        "caseNo": "77도1802",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "특수절도죄의 실행의 착수시기"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 상고를 기각하고 당심 구금일수의 1부를 통산하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 구금일수중 30일을 본형에 산입한다."
+        ]
+    }
+}

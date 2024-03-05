@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1967.4.26.",
+        "caseNo": "66나475",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "지방자치법 실시 이전의 동 소유의 재산에 대하여 동법 실시 이후에 동이 당사자 능력이 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 본건 소는 부적법하다 하여 각하 할 것인바 원심판결은 이와 취지를 달리하므로 이를 취소하고 소송비용의 부담에 관하여는 민사소송법 제96조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

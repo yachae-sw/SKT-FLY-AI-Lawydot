@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "물품반환",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.10.23.",
+        "caseNo": "67다1919",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "차고업자의 실화로 인하여 멸실된 임치물에 대한 배상책임과 실화책임에 관한법률에 의한 배상책임과의 관계"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그리고 실화책임에 관한 법률은 실화자에게 중대한 과실이 없는 한 불법행위상의 손해배상책임의 부담을 시키지 아니한다는데 불과하고 본건과 같이 창고업자가 실화로 인하여 임치물의 반환의무이행이 불능케된 경우의 책임까지 배척하는 것은 아니라 할 것이므로 소외인에게 중대한 과실이 없다고 하여서 원판결을 비난하는 논지는 이유없고 또 민법 제756조 제1항 단서의 규정은 불법행위에 관한 것이므로 채무불이행을 이유로 피고의 배상책임을 인정한 원판결을 위 조항을 들어 비난하는 논지 역시 이유 없다.",
+            "따라서 논지모두 이유없다.",
+            "이에 상고는 이유없으므로 기각하고 소송비용은 패소자의 부담으로 하여 관여법관의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

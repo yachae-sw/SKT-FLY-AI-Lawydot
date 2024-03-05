@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "경락허가결정에대한준재심청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1970.8.28.",
+        "caseNo": "69나2386",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경락허가결정에 대한 항고와 재항고가 각 기각되었던 경우 재심의 소의 관할법원"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "",
+            "이에 민사소송법 제431조  제425조  제389조에 의하여 원판결을 취소하여 그 관할 법원인 서울민사지방법원 합의부에 이송하기로 한다.",
+            "이에 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

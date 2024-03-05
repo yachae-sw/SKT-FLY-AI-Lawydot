@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지소유권이전등기등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.3.22.",
+        "caseNo": "4294민상833",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "호주 또는 가족이 사망하고 그 상속인이 없는 경우에 관습상의 유산의 귀속"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결에 의하면 원심은 「원고는 망 소외인과 호적을 달리하고 동일 가족이 아니므로 망 소외인의 유산을 상속할 권리가 없으며 또 상속인이 없을 때 근친자에게 피상속인의 권리가 귀속되는 것이 아니……」라 하며 원고의 본소청구를 배척하고 있다.",
+            "그러나 현행 민법이 시행되기 전의 우리나라 관습에 의하면 호주 또는 가족이 사망하고 그 상속인이 없는 경우에는 그 유산은 근친자에게 권리 귀속 하는 것이므로 원판결은 위의 관습법을 무시한 것이어서 위법 하다고 아니할 수 없고 논지는 이유있다 할 것이다.",
+            "이에 민사소송법 제406조 제1항에 의하여 관여 법관 전원의 일치한 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 한다."
+        ]
+    }
+}

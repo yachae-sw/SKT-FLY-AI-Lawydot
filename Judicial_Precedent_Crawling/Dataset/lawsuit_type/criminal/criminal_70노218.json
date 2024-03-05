@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강간치상피고사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1970.6.23.자",
+        "caseNo": "70노218",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인이 상소의 포기를 한 후에 원심의 변호인이 한 항소의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러하다면 변호인이 한 위 항소는 피고인이 상소의 포기를 한 후에 그의 명시한 의사에 반하여 한 것으로서 효력이 없는 부적법한 것이므로 형사소송법 제362조  제360조  제341조  제2항  제1항에 의하여 그 당부에 대한 판단을 하지 아니하고 이를 기각하고 형법 제57조에 의하여 이 재판 고지 전의 구금일수중 100을 제1심 판결 선고형에 산입하기로 하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인의 항소를 기각한다."
+        ]
+    }
+}

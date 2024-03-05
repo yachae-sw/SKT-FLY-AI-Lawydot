@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.7.28.",
+        "caseNo": "70다1023",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "역무원의 과실로 역구내에서 철도사고가 발생한 경우에 피해자가 무단출입자라 하여 그 역무원의 민사상책임이 면제된다 할 수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "철도법 78조에 의하면 역구내의 무단선로횡단행위와 같은 철도용지의 통행이 금지되어 있다하여도 이러한 규정은 그 무단출입자를 단속하기 위해서 만든 것이라 할 것이므로 그러한 규정이 있다하여 역무원의 과실로 역구내에서 철도사고가 발생한 경우에 피해자가 무단출입자라 하여 그 역무원의 민사상책임이 면제된다 할 수 없고 다못 그 과실이 참작사유가 된다할 것이니 이러한 전제 밑에서 나온 원판결에는 소론과 같이 심리를 다하지 않았다던가 법리를 오해한 위법이 있다 할 수 없다.",
+            "논지는 이유없으므로 본건 상고를 기각하고 상고 비용은 패소자의 부담으로 하여 관여법관 일치의 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

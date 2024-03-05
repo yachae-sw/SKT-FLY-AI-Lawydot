@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지소유권이전등기말소등기청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1966.6.10.",
+        "caseNo": "65나721",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소송절차의 추완 또는 기일지정신청의 요건"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이건 소송은 위와 같은 이유로 말미암아 종료한 것이므로 민사소송법 제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이건 소송은 1966.4.오전 10시 및 같은해 5.6.오전 10시의 각 변론기일에 당사자가 출석치 아니함으로써 항소가 취하된 것으로 간주되어 종료하였다."
+        ]
+    }
+}

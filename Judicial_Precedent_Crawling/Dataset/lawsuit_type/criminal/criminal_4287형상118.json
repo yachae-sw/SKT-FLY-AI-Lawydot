@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "농지개혁법위반,업무방해,상해",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.2.15.",
+        "caseNo": "4287형상118",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "농지의 경작과 분배대상"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨대 전기 상고취의 요지는 본건토지는 농지개혁전 당사자 합의하에 일시 경작케 한 것이고 정상적 소작이 아니기 때문에 분배의 대상이 아니라는 농지개혁법은 강제적 법규가 아니라는 각 증언 및 진단서는 그 내용이 허위이라는 것 등을 드러 원판결을 비의함에 있으나 농지를 타인에게 경작시킨 이상 그것이 일시적이라 할지라도 농지개혁법 실시당시의 경작자에게 농지가 분배됨은 동 법규해석상 당연하고 또 특별한 경우 이외에는 농지개혁전 당사자간에 여하한 합의가 있었다 하더라도 동 법규에 저촉되는 한 무효인 기타 원심이 증거로 한 조서가 허위진술 및 허위기재라는 소론은 일건기록상 이를 증빙할 만한 자료를 발견할 수 그러면 상고논지 모다 이유없고 본건 상고 이유없음으로 형사소송법 부칙 제1조 법령 제181호 제4조 바항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건상고를 기각한다."
+        ]
+    }
+}

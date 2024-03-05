@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "등록국채담보권등록말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.6.30.",
+        "caseNo": "70다881",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "변론재개신청의 채용여부는 당해법원의 재량에 속한다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "당사자로부터 종결된 변론의 재개를 신청하였다고 하여 법원은 반드시 이에 응하여 변론재개결정을 하여야 하는 것은 아니며 소송지의 신청이 있었다고 하여 종결된 변론을 재개하여야만 하는 것도 아니므로 피고의 소송고지를 하기 위한 변론재개신청을 허용하지 아니한 원심조처에 소송고지에 관한 법리를 오해한 위법이 있다고 할 수 원심이 변론을 재개하지 아니하고 판결을 선고한 것은 소송고지에 관한 법리를 오해하여 심리를 다하지 아니한 위법이 있다는 상고논지는 이유없다.",
+            "그러므로 관여법관의 일치된 의견으로 상고를 기각하기로 하고 상고 소송비용은 패소자의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "제3자이의청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1981.9.10.",
+        "caseNo": "80나4360",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가압류후 본압류가 이루어진때 가압류에 대한 제3자 이의의 소의 적법여부",
+            "은행으로부터 채권회수위임을 받은 성업공사의 압류신청에 의해 그 집행이 이루어진 경우 은행을 상대로 한 제3자 이의의 소의 허부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 청구취지기재의 가압류집행 및 본압류집행의 각 불허를 구하는 원고의 이 소송은 부적법하여 각하할 것인바 이와 결론을 달리하는 원판결은 부당하므로 취소하고 소송비용에 관하여는 민사소송법 제96조 제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

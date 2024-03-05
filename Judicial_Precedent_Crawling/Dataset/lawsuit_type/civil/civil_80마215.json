@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.8.7.자",
+        "caseNo": "80마215",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송법   소정의 최초에 경매하기 위하여 정한 최저 경매가격의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "경매법 제33조 제2항의 규정에 의하여 준용되는 민사소송법 제648조 제2항의 규정에 의하면 최초에 경매하기 위하여 정한 최저경매가격 기타 매각조건은 재경매 절차에도 적용한다고 규정하고 있고 여기서 최초에 경매하기 위하여 정한 최저 경매가격이라 함은 전 경락인에게 경매허가할 때에 정하여졌던 최저 경매가격을 말하는 것이라고 할 것이니  원심이 같은 취지에서 전 경락인에게 경매허가 하던 때에 정하였던 최저경매가격에 의하여 재경매를 실시한 원심의 조처는 정당하고 논지주장의 사유만으로서는 원결정에 소론과 같은 형평의 원칙위배 내지는 다른 위법사유 있다할 수 없다.",
+            "논지는 이유없다.",
+            "그러므로 재항고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

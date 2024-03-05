@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강제집행정지",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.1.26.자",
+        "caseNo": "83그53",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송법  에 의한 강제집행정지 결정이 소송촉진등에관한특례법  에 위배되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "소송촉진등에관한특례법 제6조 제1항에 의하면 재산권의 청구에 관한 판결에는 상당한 이유가 없는 한 당사자의 신청유무를 불문하고 가집행을 할 수 있음을 선고하여야 한다고 규정하고 있으나 이는 가집행선고에 관한 규정으로서 민사소송법 제474조 제473조에 의한 강제집행정지결정이 위 규정에 위배된 결정이라고 할 수는 없고 그외 이 사건 원심결정 자체에 헌법 또는 법률위반이 있다고는 인정되지 논지는 이유없다.",
+            "그러므로 특별항고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정하다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기무효확인등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.3.",
+        "caseNo": "4294민상1391",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "특정한 상대방이 있는 행정처분의 효력발생시기"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 특정한 상대방이 있는 행정처분은 그 상대자에게 고지되어야 효력을 발생한다고 해석하여야 할 것이고 소론 행정소송법 제5조 제2항 소원법 제3조에 「처분이 있는 날」이라 함은 상대방이 있는 행정처분에 있어서는 위와 같이 고지로써 효력을 발생한 날을 의미한다 할 것이고 또 고지의 방식은 반드시 송달에만 의하는 것이 아니고 경우에 따라서는 공고의 방식에 의할 수도 있는 문제이므로 논지는 독자적 견해에 불과하다 할 것이다",
+            "이에 민사소송법 제400조 제89조 제95조에 의하여 관여 법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

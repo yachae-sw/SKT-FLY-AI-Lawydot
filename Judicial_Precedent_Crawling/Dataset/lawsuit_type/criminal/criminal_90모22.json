@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "보석허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.4.18.자",
+        "caseNo": "90모22",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "집행유예기간 중에 있는 피고인에 대한 보석가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인이 집행유예의 기간중에 있어 집행유예의 결격자라고 하여 보석을 허가할 수 없는 것은 아니고 형사소송법 제95조는 그 제1 내지 5호이외의 경우에는 필요적으로 보석을 허가하여야 한다는 것이지 여기에 해당하는 경우에는 보석을 허가하지 아니할 것을 규정한 것이 아니다.",
+            "따라서 원심이 집행유예기간중에 있는 피고인의 보석을 허가한 것이 누범과 상습범에 대하여는 보석을 허가하지 아니할 수 있다는 형사소송법 제95조 제2호의 취지에 위배되어 위법이라고 주장하는 논지는 이유없다.",
+            "그러므로 재항고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

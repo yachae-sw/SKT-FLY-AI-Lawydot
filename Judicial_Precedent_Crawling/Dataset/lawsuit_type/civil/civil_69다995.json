@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "약속어음금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.12.9.",
+        "caseNo": "69다995",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "어음에 있어 배서의 연속이 끊긴 경우 그 중단된 부분에 관한 실질관계를 증명하면 어음상의 권리행사를 할 수 있다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 어음에 있어 배서의 연속이 끊긴 경우에 딴 방법으로 그 중단된 부분에 관한 실질적 관계가 있음을 증명한 소지인이 한 어음상의 권리행사는 적법하다고 보아 이 사건의 원고가 소지하는 약속어음에는 배서의 연속이 끊겼지만 원고가 그 부분에 판시와 같은 실질관계가 있다고 보인다고 해서 원고의 본건청구는 적법하다는 취지로 판단한 원심조치는 정당하고 원판결판단과 반대가 되는 견해밑에서 적법한 그 조치를 공격하는 논지는 이유가 없다.",
+            "그래서 관여법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

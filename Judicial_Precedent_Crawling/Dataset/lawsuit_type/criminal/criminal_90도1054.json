@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산중개업법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.11.13.",
+        "caseNo": "90도1054",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부동산중개업자가 소정의 수수료를 초과하여 사례금 명목으로 금원을 받은 행위의 부동산중개업법 위반 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 피고인이 소정의 수수료를 초과하여 사례금명목으로 금원을 교부받은 행위도 부동산 중개업법상 유죄라고 판단한 것은 옳고 여기에 잘못이 없다.",
+            "그리고 피고인에게 벌금형이 선고되고 있는 이 사건에 있어서는 그것이 과중부당하다는 사유는 적법한 상고이유가 되지 못한다.",
+            "논지는 이유없어 이 상고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

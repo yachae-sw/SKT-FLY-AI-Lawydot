@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "무고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.3.22.",
+        "caseNo": "82도560",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확신없는 허위사실의 신고와 무고죄의 성립"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "무고죄의 성립에는 타인으로 하여금 형사 또는 징계처분을 받게 할 목적으로 진실하다는 확신이 없는 사실을 신고함으로써 족하고 신고자가 그 신고사실이 허위라는 것을 확신함을 요하지 아니하는바 기록에 의하여 제1심 판결의용의 증거들을 검토하면 피고인은 공소외인이 위증하였다는 확신없이 동인이 위증하였다는 허위의 사실을 기재한 고소장을 공무소에 제출하였다는 취지의 동 판시 범죄사실을 수긍할 수 있고 그 증거취사에 소론과 같은 잘못이 있다 할 수 없을 뿐 아니라 거기에 무고죄에 관한 법리오해도 있다고 할 수 없으니 이를 유지한 원심판결의 판단은 정당하고 견해를 달리하는 소론은 채택할 바 못된다.",
+            "그러므로 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

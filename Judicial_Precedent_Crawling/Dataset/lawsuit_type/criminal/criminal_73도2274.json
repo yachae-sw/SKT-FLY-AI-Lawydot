@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "광업법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1973.10.10.",
+        "caseNo": "73도2274",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형을 정지하여 금지하고 있는 광업법  의 행위의 뜻"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "광업법 제78조가 형을 정하여 금지하고 있는 광업법 제42조 제2항의 행위는 광업권자가 주무부장관의 인가를 받은 시업안에 의하지 아니하고 하는 광업을 말하는 것이요 이 사건의 공소사실과 같이 광업권자인 피고인등이 주무부장관의 인가를 얻은 시업안에 따라서 시업을 개시하였다가 휴지신고를 하고 다시 사업개시의 신고를 도지사에게 하지 아니한채 광물을 채굴하였다하여 이 행위가 시업안에 따라서 시행된 것이라면 이것이 광업법 제78조 제42조 제2항이 처벌하려는 행위에 들어간다고는 말할 수 이러한 취지의 원심판결은 적법하고 여기에는 논지가 공격하는 바와같은 광업법 제42조 제2항의 법리를 오해한 위법사유가 그렇다면 이 상고는 그 이유없는 것이 되므로 형사소송법 제390조에 의하여 기각하기로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각한다."
+        ]
+    }
+}

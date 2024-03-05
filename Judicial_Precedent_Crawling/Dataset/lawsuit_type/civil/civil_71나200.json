@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가등기말소등청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1972.10.17.",
+        "caseNo": "71나200",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채권담보를 위한 등기의 말소를 피담보채권의 변제와 상환으로 구할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원고 소송대리인은 다시 예비적인 주장으로서 피고의 앞에 말한 약정위반으로 원고가 피몽한 손해금 즉 1969.당시 이건 싯가 금 22375000원에서 피고의 채권 원리금 545만원을 공제한 금 16925000원의 배상을 구하고 있으나 당원이 믿지 않는 앞에 본 증거를 제외하고서는 피고가 약정을 위배하여 이건 대지에 관한 본등기를 경유하였음을 전제로 하는 위 손해배상 청구 역시 부당하여 이를 받아들일 수 없다.",
+            "그렇다면 원고의 이건 본위적 청구 내지 예비적 청구는 모두 그 이유없어 이를 기각할 것인 바 이와 결론을 같이하는 원판결은 정당하고 원고의 항소는 이유없으므로 민사소송법 제384조  제89조  제94조  제95조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고의 항소를 기각한다."
+        ]
+    }
+}

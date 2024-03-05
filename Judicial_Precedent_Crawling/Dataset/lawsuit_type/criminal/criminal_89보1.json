@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수사기관처분에대한준항고",
+        "courtNm": "서울형사지법",
+        "judmnAdjuDe": "1989.7.15.자",
+        "caseNo": "89보1",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "국가안전기획부장이 국가안전법위반혐의로 구속된 피의자들에 대하여 변호인의 접견을 처분의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 국가안전기획부장이 준항고인에 대하여 한 위 변호인접견불허처분은 위법 부당하다고 할 것이므로 형사소송법 제417조 제419조 제414조 제2항에 의하여 이를 취소하기로 하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "국가안전기획부장이 1989.7.준항고인에 대하여 한 준항고인의 항고의 공소외 1 공소외 2에 대한 변호인접견불허처분은 이를 취소한다."
+        ]
+    }
+}

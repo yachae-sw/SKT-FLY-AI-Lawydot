@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기말소청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1972.12.14.",
+        "caseNo": "72나215",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "제소전 화해조서에 경료된 소유권이전등기의 원인무효를 주장하는 방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러하다면 피고 명의의 위 등기가 모두 원인이 결여된 무효의 등기임을 전제로 하여 각 그 말소를 구하는 원고들의 이건 청구는 이유없으므로이를 기각할 것인바 이와 결과를 같이 하는 제1심 판결은 정당하고 이에 대한 원고들의 항소는 부당하여 기각하고 항소비용은 패소자인 원고들의 부담으로 하여 주문과 같이 판결한다.",
+            "별지 목록 생략"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고들의 항소를 기각한다."
+        ]
+    }
+}

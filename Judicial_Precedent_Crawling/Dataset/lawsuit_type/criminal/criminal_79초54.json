@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "판결정정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1979.9.11.",
+        "caseNo": "79초54",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소심 판결의 정정을 신청할 수 있는지의 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "살피건대 형사소송법 제400조에 규정된 판결정정제도는 상고법원의 판결은 최종적 재판으로 선고와 동시에 확정되고 법률이 특별히 허용하는 재심 비상상고의 방법에 의하지 아니하고는 일반적으로 불복을 할 수 없기 때문에 상고법원의 판결내용에 오류가 있는 것을 발견한 때에 직권 또는 신청에 의하여 정정할 수 있도록 한 취지임이 분명하다.",
+            "그렇다면 본건 신청이 상고법원의 판결이 아닌 항소심인 원심판결의 정정을 구함은 부적법하다 아니할 수 없어 각하를 면할 수 없다 할 것이므로 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "신청을 각하한다."
+        ]
+    }
+}

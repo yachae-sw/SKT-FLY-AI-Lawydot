@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "근로기준법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.7.12.",
+        "caseNo": "83도1419",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "당사자가 신청한 증거에 대한 증거조사 요부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 제1심판결이 들고 있는 증거들을 기록에 대조하여 검토하여 보면 피고인에 대한 각 판시 범죄사실을 인정한 원심의 조치는 정당한 것으로 보여지고 당사자가 신청한 증거에 대하여 법원은 불필요하다고 인정할 때는 조사하지 않을 수 있는 것이므로 원심이 피고인이 제출한 상업일지와 금전출납부에 관하여 증거조사를 한 바 없다 하여 위법하다고 할 수는 논지는 이유없다.",
+            "그러므로 상고를 기각하기로 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

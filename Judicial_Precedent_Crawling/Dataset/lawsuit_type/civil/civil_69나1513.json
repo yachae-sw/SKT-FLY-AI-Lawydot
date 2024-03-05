@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1970.5.21.",
+        "caseNo": "69나1513",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "공무원이 그 직무를 집행함에 당하여 일으킨 사고가 아니라고 인정된 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 원고들의 이건 각 청구는 이유없어 실당하므로 이를 모두 기각할 것인 바 이와 결론을 달리 한 원판결의 피고 패소부분은 부당하여 이에 대한 피고의 항소는 이유있다 할 것이므로 이를 받아들여 원판결중 피고의 패소부분을 취소하고 그 부분에 관한 원고들의 청구를 각 기각하고 원고들의 각 항소는 모두 이유없음에 돌아가므로 각 기각하기로 하고 소송비용의 부담에 관하여는 민사소송법 제95조  제96조  제89조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결의 피고 패소부분을 취소하고 그 부분에 관한 원고들의 청구를 각 기각한다."
+        ]
+    }
+}

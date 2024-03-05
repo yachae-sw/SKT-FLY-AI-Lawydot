@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "무고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1963.5.9.",
+        "caseNo": "63도98",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무고죄에 있어서의 범의"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 형법상 무고죄는 허위사실의 신고가 그 성질상 타인으로 하여금 형사처분 또는 징계처분을 받게 할 결과발생에 대한 인식이 있으면 족한 것이고 위의 처분의 결과발생을 바란 사실을 필요로 하지 않는다 할 것이므로 원심조처에 아무런 위법이 없을 뿐 아니라 소론사유는 군법회의법 제432조 소정의 어느 사유에도 해당하지 아니하므로 적법한 상고이유가 되지 못한다 할 그러므로 상고를 기각하고 미결구금일수 산입에 관하여 형법 제57조를 적용하여 관여한 법관의 일치된 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

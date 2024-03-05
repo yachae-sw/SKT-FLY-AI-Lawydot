@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.10.5.자",
+        "caseNo": "69마634",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송법 에 의한 우편송달은 유치송달도 불가능한 경우에 한하여 할 것이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록 제265장과 제266장에 보면 이 사건 경매법원은 1969.5.20 10:00의 경매기일 통지서를 재항고인들에게 송달하는 방법으로서 등기우편으로 발송하는 방법에 의하고 그러나 민사소송법 제173조에 의한 우편 송달에 의하려면 그 전제로서 유치송달도 불가능한 경우에 한하는 기록에 의하면 이러한 전제 요건인 절차를 밟은 흔적이 보이지 그렇다면 이 사건 경매는 재항고인들에게 통지없이 경매절차를 진행한 셈이 이리하여 다른 상고논지에 관한 판단을 그만두고 원심결정을 파기하기로 이 사건은 당원이 직접 재판하는 것이 상당하다고 생각되므로 이 사건 경락허가결정을 취소하기로 이 결정에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심결정을 파기한다."
+        ]
+    }
+}

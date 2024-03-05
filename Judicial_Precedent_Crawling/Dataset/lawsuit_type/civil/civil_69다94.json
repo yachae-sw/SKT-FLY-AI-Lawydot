@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.12.26.",
+        "caseNo": "69다94",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "주월한국군인의 사망으로 인하여 지급되는 유족연금이나 재해급여금은 위자료의 성질을 띠고 있는 것이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심은 원고들이 수령한 본건 유족연금 9600원과 재해급여금 343200원은 모두 유족에 대한 위자료의 성질을 띠고 있는 것이라고 판시하고 있는바 주월한국군인의 사망으로 인하여 지급되는 유족연금이나 재해급여금은 파월군인의 보호와 그 희생에 대한 보상을 하고 그 유족의 생활안정과 복리 향상을 기하는데 그 목적이 있고 그 유족을 지급대상자로 삼고 있는 것이므로 이는 사망한 군인 자신의 소극적 손해를 전보하기 위해서 지급되는 것이라고는 할 수 없을 것이니 이를 위자료로 본 원심판단은 정당하고 원판결에는 소론과 같은 위법이 없으므로 이와 반대견지에서 이론을 전개하는 논지는 채용할 수 없다.",
+            "그러므로 상고를 기각하고 상고 비용은 패소자의 부담으로 하여 관여법관 일치의 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

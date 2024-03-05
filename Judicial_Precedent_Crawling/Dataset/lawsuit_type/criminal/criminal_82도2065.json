@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "직업안정법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.3.8.",
+        "caseNo": "82도2065",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "직업안정법   소정의 “모집”의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "직업안정법 제15조 제1항의 “모집”은 동법시행령 제2조 제4항이 규정하는 바와 같이 근로자를 고용하는 자가 직접 또는 간접으로 취업하고자 하는 자에게 피용자가 되도록 권유하는 것을 말한다 할 것이므로 원심이 본건 직업안정법위반의 공소사실에 대하여 그 판시와 같이 죄가 되지 아니하거나 범죄사실에 대한 증명이 없음을 이유로 무죄를 선고한 조처는 정당하고 거기에 직업안정법의 법리를 오해한 위법이 없으며 기록에 의하면 피고인이 상고인이 모집주체의 대리인 또는 사용인으로 내세우는 공소외 1 공소외 2의 공범으로 기소되어 있지 않는 본건에서는 검사의 공범관계에 대한 법리오해 주장은 채택될 수 없다.",
+            "결국 논지는 모두 이유없으므로 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

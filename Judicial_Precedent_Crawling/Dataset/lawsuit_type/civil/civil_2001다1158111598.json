@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소·토지인도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2001.5.8.",
+        "caseNo": "2001다1158111598",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송법    소정의 재심사유인 '증인의 허위진술 등이 판결의 증거로 된 때'의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 소외인의 허위진술은 재심대상판결의 주문에 영향을 미치지 아니하였으므로 소외인에 대해 위증죄가 확정되었다 하더라도 재심사유에 해당하지 아니한다고 한 원심의 판단은 결론에 있어 옳고 소외인의 허위진술이 재심대상판결의 증거로 되었음을 전제로 한 상고이유는 모두 받아들일 수 없다.",
+            "그러므로 상고를 모두 기각하고 상고비용은 패소자들의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 모두 상고비용은 원고들의 부담으로 한다."
+        ]
+    }
+}

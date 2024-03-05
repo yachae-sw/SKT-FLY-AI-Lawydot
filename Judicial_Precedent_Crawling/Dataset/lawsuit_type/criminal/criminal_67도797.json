@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "법률사무취급단속법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.8.22.",
+        "caseNo": "67도797",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경합범에 관한 법리오해"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 형법 제37조에 보면 판결이 확정된 죄와 그 판결 확정 전에 범한 죄를 경합범으로 본다고 따라서 위에서 본 사실에 의하면 피고인이 1964.10.31 선고받은 재판은 1964.11.8 확정되고 있으므로위에서 본의 범죄사실중 적어도 위의 판결이 확정되기 이전에 범한 부분에 관하여는 위의 판결이 확정된 죄와의 사이에서만 경합범의 관계가 발생한다 할 그러하거늘 원심이 이 부분의 죄도 위의 의 죄와의 사이에 경합범이 된다고 본 것은 경합범에 관한 법리를 오해하였다 할 그러므로 구태여 변호인의 상고이유서나 피고인이 소정기간이 지난 뒤에 제출한 추가 상고이유서에 기재된 사항을 판단하지 아니하고 형사소송법 제384조 단서의 규정에 의하여 원심판결을 파기하고 동법 제397조에 의하여 이 사건을 원심인 광주지방법원합의부로 환송하기로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고"
+        ]
+    }
+}

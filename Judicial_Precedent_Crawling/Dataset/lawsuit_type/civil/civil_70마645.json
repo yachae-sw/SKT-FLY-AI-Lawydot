@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.11.16.자",
+        "caseNo": "70마645",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경매를 신청한 금융기관이 아닌 재항고인에게 담보공탁을 명하고 또 그 보정기간내에 담보공탁이 없다는 이유로 항고를 각하하였음은 잘못이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원결정에 의하면 원심은 재항고인이 금융기관의 연체대출금에 관한 특별조치법 5조의 같은법 시행령 4조에 따른 공탁금 6915120원을 공탁하라는 원심의 보정명령을 받고도 그 기간내에 위 담보공탁을 하지 아니하였다는 이유로 항고를 각하하였는 바",
+            "기록을 살펴보아도 본건 부동산경매에 있어서 주식회사 한국은행은 등기부에 기입된 부동산상의 권리자로서 이해관계인이기는 하나 본건 경매를 신청한 금융기관이 아니므로 위 법조를 적용하여 재항고인에게 담보공탁을 명하고 또 그 보정기간내에 담보공탁이 없다는 이유로 항고를 각하하였음은 잘못이라 할 것이고 이점에 관한 논지는 이유있다.",
+            "그러므로 관여법관 전원의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기한다."
+        ]
+    }
+}

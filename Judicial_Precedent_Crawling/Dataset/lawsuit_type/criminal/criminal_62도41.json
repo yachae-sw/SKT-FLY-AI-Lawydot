@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "직무유기피고사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1962.5.2.",
+        "caseNo": "62도41",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부하직원의 공금횡령사실을 알고서도 이를 고발하지 않은 경우 직무유기죄의 성부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 이 사건을 다시 심리케 하기 위하여 개정 형사소송법 부칙 제2항 개정전 형사소송법 제391조  제397조에 따라 원판결을 파기하고 이 사건을 원심으로 환송하기로 하고 이에 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기한다."
+        ]
+    }
+}

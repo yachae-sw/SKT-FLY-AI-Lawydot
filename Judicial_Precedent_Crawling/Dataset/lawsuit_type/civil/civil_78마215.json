@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1978.8.30.자",
+        "caseNo": "78마215",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경락대금을 납입하지 아니한 전 경락인이 재경매신청을 한 경우 직권으로 경락을 불허하여야 하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그런데 민사소송법 제648조 제 5 항에 의하면 경락대금을 납입하지 아니한 전 경락인은 재경매에 참가 할 수 없도록 구성되어 있어 재경매에서 이러한 전경락인이 한 경매신청은 같은 법 제633조 제 2 호에 정한 이의사유에 해당한다고 할 법리이므로 원심으로서는 마땅히 같은 법 제635조 제 2 항에 의하여 직권을 부려서 흠이 있는 최고가 경매인에 대한 경락허가를 막았어야 옳았거늘 이를 흘려버린 원심의 조치는 위법하다고 아니할수 없어 일치한 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고 사건을 춘천지방법원 합의부에 환송한다."
+        ]
+    }
+}

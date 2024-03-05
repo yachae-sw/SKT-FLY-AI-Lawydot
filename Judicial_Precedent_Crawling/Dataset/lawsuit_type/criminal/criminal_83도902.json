@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "특정범죄가중처벌등에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.6.28.",
+        "caseNo": "83도902",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형사 상고심의 심판기준 시기"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 제1심판결 거시의 증거를 종합검토하면 원심이 피고인에 대한 판시 범죄사실을 인정한 조치는 정당하고 거기에 증거없이 사실을 인정한 위법이나 특정범죄가중처벌등에관한법률 제5조의 4의 법리를 오해한 위법이 있다 할 수 없고 또 상고심의 심판대상은 원심판결 당시를 기준으로 하여 그 당부를 심사하는데 있는 것이므로 원심판결 당시 피고인과 같이 미성년으로써 부정기형을 선고받은 자가 그후 상고심 계속중에 성년으로 되었다 하여 원심의 부정기형 선고가 위법이 될 수 없으므로 논지는 이유없다.",
+            "그러므로 피고인의 상고를 기각하기로 하고 상고이후의 구금일수중 55일을 그 본형에 산입하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

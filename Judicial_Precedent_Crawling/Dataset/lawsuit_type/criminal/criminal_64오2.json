@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "비상상고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1964.6.16.",
+        "caseNo": "64오2",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "적법한 증거조사의 절차를 거치지 않고 증거능력이 없는 증거를 판결이유에 거시한 위법이 있는 실례."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이는 원판결이 법령에 위반한 것이라 아니할 수 없고 이점을 지적하는 비상상고는 이유 있는 것이며 원판결 거시의 다른 증거자료를 종합함으로서도 피고인에 대한 범죄사실을 인정할 수 있으므로 위 적법한 증거조사 절차를 거치지않는 각 증거를 원판결이유에 거시한 부분만을 파기하기로 하여 관여법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중  검찰관 작성의 피고인에 대한 피의자 신문조서  검사작성의 공소외 1에 대한 진술조서  국립과학수사연구소감정인 공소외 2 작성의 감정서를 증거로 인용한 부분을 파기한다."
+        ]
+    }
+}

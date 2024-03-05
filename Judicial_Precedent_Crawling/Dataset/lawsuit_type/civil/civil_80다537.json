@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수표금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.5.13.",
+        "caseNo": "80다537",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "이득상환청구권이 선의취득의 대상이 되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 그 적시한 증거자료에 의하여 이건 수표 3매는 피고 보조참가인이 소지하고 있던 중 1978.8.22:10경 소외인 등으로부터 소매치기 당한 사실을 인정한 조치는 정당하고 동 수표 등은 위 소매치기 당할 당시에 이미 지급제시 기간이 경과되었음이 분명하므로 수표상의 권리가 소멸되고 이득상환청구권이 발생하여 있었으나 원고는 동 청구권을 적법한 절차에 의하여 양수한 것이 아님이 분명하고 또 이득상환청구권은 선의취득의 대상이 될 수 없다 할 것이니 이와 같은 취지로 판단하여 원고의 청구를 배척한 원심의 조치는 정당하여 논지는 그 이유없으므로 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

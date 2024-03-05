@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1962.5.10.",
+        "caseNo": "4293민공223",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "조선마사회령 에 의한 농림부장관의 인가를 받지 못한 토지에 대하여 인가신청의사표시에 갈음하는 판결을 구할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "다음 원고는 농림장관의 인가를 받지 못한 토지에 대하여는 인가신청을 받아 소유권이전등기절차 이행을 청구하는바 피고가 인가신청을 제출하여 불허된 사실은 위에서 인정한 것이므로 달리 별단의 사유가 없는 한 인가신청 의사표시에 가름하는 판결을 구할 수 없으므로 원고의 청구는 그 외에 다른 점에 대한 판단을 할 것 없이 따라서 원고의 청구는 위 인정 범위내에서 정당하다고 인정되므로 이를 인용할 것인 바 이와 결론을 달리한 원판결은 부당하여 위 취지와 같이 원판결을 변경하고 소송비용의 부담에 관하여는 민사소송법 제96조  동 제92조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 다음과 같이 변경한다."
+        ]
+    }
+}

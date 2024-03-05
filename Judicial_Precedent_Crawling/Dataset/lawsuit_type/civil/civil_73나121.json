@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1973.8.8.",
+        "caseNo": "73나121",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "파출소사환이 파출소 순경의 심부름을 하다가 과실로 제3자에게 입힌 손해와 그 파출소 순경의 책임"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이 사건에 있어서 피고와 소외인간에는 법적으로유효한 고용 기타의 계약관계는 물론 사실상의 지휘감독이 존재하지도 않을뿐 아니라 소외인은 피고의 선임에의하여 피고 개인의 심부름에 종사하지도 아니한 즉 피고가 단순히 동 파출소에 근무한다는 사실만으로는 피고에게 사용자의 책임을 지울 수는 없다 할 것이므로 원고들의 이사건청구는 나머지 주장에 대한 판단을 할 필요없이 이유없어 기각하여야 할 것인 바 이와 결론을 달리하는 원판결의 피고 패소부분은 부당하므로 이에 대한 피고의 항소는 이유있어 민사소송법 제386조에 의하여 이를 취소하고 소송비용의 부담에 관하여는 같은 법 제95조 제93조  제89조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결 중 피고의 패소부분을 취소한다."
+        ]
+    }
+}

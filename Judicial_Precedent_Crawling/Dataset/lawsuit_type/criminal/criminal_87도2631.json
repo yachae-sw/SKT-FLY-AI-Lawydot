@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "변호사법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1989.2.14.",
+        "caseNo": "87도2631",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "변호사의 자격이 있는 자가 구 변호사법  위반죄의 주체가 될 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 제1심판결의 채택증거에 의하면 피고인이 공소외 인과 공모하여 제1심판시와 같은 범죄사실을 저지른 것임을 넉넉히 인정할 수 있고 거기에 소론과 같은 심리미진이나 채증법칙을 어긴 위법이 있다 할 수 또 변호사법 제54조위반죄는 변호사의 자격이 있는 자라도 그 주체가 될 수 있는 것이므로 원심이 소송사건의 위임과 관련하여서가 아니라 공무원이 취급하는 사건 또는 사무에 관하여 청탁 또는 알선명목으로 금원을 교부받은 이상 위 변호사법의 적용대상이 된다 고 판단한 조치는 수긍이 가고 반대의 견지에서 원심판결에 구변호사법 제54조의 법리오해의 위법이 있다는 논지는 이유가 없는 것이다.",
+            "그러므로 상고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

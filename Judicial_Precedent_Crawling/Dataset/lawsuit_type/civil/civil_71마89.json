@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "보정명령에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.3.4.자",
+        "caseNo": "71마89",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소장보정명령 자체에 대하여는 즉시항고를 할 수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그리고 기록에 의하면 원심은 재항고인이 항소장에 법률의 규정에 의한 인지를 첨부하지 아니하여 자로 인지부족액 25078원의 보정을 명하고 이 보정명령은 같은달 재항고인에게 적법하게 송달되었음에도 불구하고 소정기일인 5일내에 보정을 하지 않었으므로 이를 이유로 하여 같은달 항소장을 각하하였음이 분명한바 원심조처는 정당하므로 재항고이유에 대한 설명을 가할 필요가 없이 이부분에 관한 재항고는 이유없다 하여 기각할것이다.",
+            "이상의 이유에 인하여 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원법원 고지 재판장의 보정명령에 대한 재항고를 각하한다."
+        ]
+    }
+}

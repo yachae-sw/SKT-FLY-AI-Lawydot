@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "방해물제거등가처분에대한특별항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.7.25.자",
+        "caseNo": "80그9",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가처분 결정은 특별항고의 대상이 될 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민사소송법 제420조 소정의 특별항고는 불복을 신청할 수 없는 결정에 대하여 제기할 수 있는 것인 바 본건 가처분을 명하는 결정에 대하여는 채무자는 민사소송법 제715조 제703조에 의하여 이의를 신청할 수 있게 되어 있으므로 가처분을 명하는 결정은 불복을 신청할 수 없는 결정에 해당하지 아니하여 특별항고의 대상이 되지 못한다 할 것이다 .",
+            "따라서 이건 특별항고는 부적법하다 하여 이를 각하하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별항고를 각하한다."
+        ]
+    }
+}

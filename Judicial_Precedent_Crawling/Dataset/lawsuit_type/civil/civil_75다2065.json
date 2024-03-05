@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산가압류집행취소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1976.1.27.",
+        "caseNo": "75다2065",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가압류가 본압류로 이행된 경우에 채무자는 가압류집행취소를 구할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결은 본건 부동산에 대한 가압류집행을 취소하였는 바 당사자간 성립에 다툼없는 소 갑 제1호증 및 소 을 제1호증의 각 기재에 의하면 본건 부동산에 대한 채권자 피신청인 채무자 신청인 제3취득자 신청외 윤재환으로 된 강제경매개시결정에 의하여 본건 압류는 본압류로 이행된 것으로 인정될 수 있어 채무자는 가압류집행취소를 구할 수 없는 법리임에도 불구하고 이의 취소청구를 인용한 원판결에는 가압류의 본압류로의 이행에 관한 법리를 오해한 위법이 있다 할 것으로서 논지는 결국 이유있음에 귀착되어 원판결은 파기를 면치 못할 것이다.",
+            "따라서 민사소송법 제406조에 의하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고 사건을 서울고등법원에 환송한다."
+        ]
+    }
+}

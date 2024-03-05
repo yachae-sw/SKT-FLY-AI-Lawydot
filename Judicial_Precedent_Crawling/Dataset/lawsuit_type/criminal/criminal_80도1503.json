@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "직업안정법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.1.12.",
+        "caseNo": "80도1503",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "직업안정법   소정의 '모집'의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "직업안정법 제15조 제 1 항의 \" 모집\" 은 같은법시행령 제 2 조 제 4 항이 규정하는 바와 같이 근로자를 고용하고자 하는 자가 직접 또는 간접으로 취업하고자 하는 자에게 피용자가 되도록 권유하는 것을 말한다 고 할 것이므로 원심이 피고인들에 대한 이 사건 직업안정법 위반의 공소사실에 대하여 그 판시와 같이 죄가 되지 아니하거나 범죄사실에 대한 증명이 없음을 이유로 무죄를 선고한 조치는 정당하고 위와는 달리 제15조 제 1 항의 모집은 같은 법 제 2 조 제 3 호의 모집과 달리 해석할 것이라는 전제에서 원심이 같은 법 제15조 제 1 항의 모집에 관한 법리를 오해한 위법이 있다는 소론은 받아들일 수 없다.",
+            "그러므로 이 상고는 이유없으므로 이를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 모두 기각한다."
+        ]
+    }
+}

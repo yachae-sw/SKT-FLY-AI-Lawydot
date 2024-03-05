@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1973.11.7.",
+        "caseNo": "73나273",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "판결원본에 의하지 아니한 판결선고하고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원판결의 선고절차에는 잘못이 있고 이는 민사소송법 제387조의 이른바 판결의절차가 법률에 위배한 때에 해당한다고 할 것인즉 원판결을 취소하고 다시 적법한 판결의선고절차를 밟게 하기 위하여 이 사건을 원심법원에 환송하기로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "제1심판결을 취소한다."
+        ]
+    }
+}

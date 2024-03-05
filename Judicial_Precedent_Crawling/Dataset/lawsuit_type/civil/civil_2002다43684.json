@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "청구이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2002.9.24.",
+        "caseNo": "2002다43684",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "임의경매에 있어서도 청구이의의 소를 제기할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 같은 취지에서 이 사건 각 토지에 관하여 피고를 근저당권자로 하여 마쳐진 근저당권에 따른 경매절차의 불허를 구하는 원고의 이 사건 소가 부적법하다고 판단한 것은 옳고 거기에 상고이유의 주장과 같은 법리오해나 판례위반 등의 잘못이 따라서 상고이유는 받아들일 수 없다.",
+            "그러므로 상고를 기각하고 소송비용의 부담을 정하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 상고비용은 원고의 부담으로 한다."
+        ]
+    }
+}

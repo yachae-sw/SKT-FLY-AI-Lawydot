@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "의료법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.10.8.",
+        "caseNo": "85도933",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "“○○○○○”이라는 간판을 걸고 신경통 고혈압환자에게 침을 놓은 행위가 의료행위인지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 1심 판결 채용증거에 의하면 피고인이 그 판시와 같이 “○○○○○”이라는 간판을 걸고 신경통 고혈압 환자들에게 침을 놓는등 의료행위를 한 사실을 인정할 수 있고 그 증거취사 과정을 기록에 의하여 살펴보아도 논지가 주장하는 것과 같은 채증법칙위반이나 기타 아무런 위법이 없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

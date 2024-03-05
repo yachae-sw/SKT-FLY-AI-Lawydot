@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1973.11.8.",
+        "caseNo": "73나289",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "자동차손해배상보장법 의 자기를 위하여 자동차를 운행하는 자에 해당되지 않는 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이 사건에 있어서 피고는 자동차손해배상보장법 제3조에서 말하는 자기를 위하여 자동차를 운행한 자에 해당되지 않으므로 이를 전제로 한 원고의 이건 청구는 더 나아가 판단할 필요없이 그 이유없으므로 기각하여야 할 것인바 이와 결론을 같이 한 원판결은 정당하므로 민사소송법 제384조 제95조 제89조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

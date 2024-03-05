@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "업무상과실치상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1977.6.28.",
+        "caseNo": "77도403",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "고속도로 주행차량 운전자의 주의의무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "도로교통법 제47조의 2 제2항 및 고속국도법 제9조 제1항에 규정한 바에 따르면 고속국도에서는 보행으로 통행횡단하거나 출입하는 것이 금지되어 있으므로 고속국도를 주행하는 차량의 운전자는 동 도로상에 보행자가 있을 것을 예상하여 감속 등 조치를 할 주의의무가 있다할 수 없고 도로 양측에 휴계소가 있다하여 이 이치를 달리할 바 아니므로 이런 견해 아래 경부고속도로 주행선상에서 보행하는 피해자 공소외인을 충격한 이건 사고에 있어 차량운전자로서의 피고인에게 과실이 없다하여 무죄를 선고한 제1심판결을 유지한 원심판결의 판단은 정당하고 반대의 견해로 피고인에게 과실이 있다는 소론의 논지 이유없다.",
+            "그러므로 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "공사금등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.11.25.",
+        "caseNo": "69다887",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채무불이행과 인과관계 있는 손해는 채무이행 있으므로 인하여 얻을 수 있는 이익금에서 반대급부채무를 면한 이익을 공제한 것이라 할 것이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 민사소송법 제406조에 의하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고 사건을 대구고등법원에 환송한다."
+        ]
+    }
+}

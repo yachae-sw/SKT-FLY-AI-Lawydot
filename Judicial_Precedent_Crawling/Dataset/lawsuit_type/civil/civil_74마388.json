@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1974.11.25.자",
+        "caseNo": "74마388",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "강제경매의 기초가 된 채무명의의 실효사실을 재항고심에세 주장할 수 있는가 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이건 재항고이유의 요지는 본건 경락허가결정은 가집행선고부 1심판결의 집행력 있는 판결정본에 기한 강제경매로 인한 것인 바 위 1심판결이 1974.6.28 항소심에서 취소되어 그 효력을 상실하였으니 이건 경락허가 결정은 취소되어야 한다는 취지인 바 기록에 의하니 본건 경락허가결정에 대한 항고심의 항고기각결정은 1974.7.20에 있었고 이 사건 강제경매의 채무명의인 가집행선고부 제1심판결은 1974.6.28에 항소심에서 원판결취소 원고청구기각의 판결이 선고됨으로써 그 효력을 상실하였으나 이 사유를 원심에서 주장한 흔적을 찾아 볼 수 없으니 적법한 재항고이유가 될 수 없으니 논지는 이유없어 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 모두 기각한다."
+        ]
+    }
+}

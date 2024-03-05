@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부당이득금청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1984.12.24.",
+        "caseNo": "84나2211",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "법인세에 있어서 자진신고납부의 성질",
+            "자진신고납부와 착오"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 원고의 이 사건 청구는 이유없어 기각할 것인바 원판결은 이와 그 이유는 달리하나 그 결론을 같이하여 결국 정당하고 원고의 항소는 이유없어 이를 기각하고 항소비용은 패소자인 원고의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고의 항소를 기각한다."
+        ]
+    }
+}

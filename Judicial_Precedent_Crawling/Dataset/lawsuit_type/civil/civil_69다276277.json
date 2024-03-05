@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기,토지인도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.4.22.",
+        "caseNo": "69다276277",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "농지개혁법  의 법리를 오해하므로 인하여 심리미진과 판단유탈의 위법을 범한 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 원판결의 위와같은 위법을 논난하는 소론의 논지를 이유있다 하여 관여법관 전원의 일치한 의견에 따라 민사소송법 제406조 제400조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 전부 파기하고 사건을 대구고등법원에 환송한다."
+        ]
+    }
+}

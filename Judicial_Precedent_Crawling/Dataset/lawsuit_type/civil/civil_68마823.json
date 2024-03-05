@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "등기공무원처분이의신청기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.8.23.자",
+        "caseNo": "68마823",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부동산등기법   이하의 경우를 등기공무원이 간과하고 등기를 완료한 경우에는 이해관계인은 이에 대한 이의를 할 수 있는지의 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "부동산등기법 제55조 제3호이하의 경우는 등기공무원이 이를 간과하고 등기신청을 접수하여 그 등기를 완료한 경우에는 이해관계인은 등기공무원의 처분에 대한 이의의 방법에 의하여 등기의 말소를 청구할 수 없다는 취지로 판단한 원결정은 정당하고 법리를 오해한 위법이 있다할수 없으므로 논지는 이유없다.",
+            "그러므로 각 재항고는 이유없다하여 기각하기로 하여 관여법관 전원의 일치한 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "각 재항고를 기각한다."
+        ]
+    }
+}

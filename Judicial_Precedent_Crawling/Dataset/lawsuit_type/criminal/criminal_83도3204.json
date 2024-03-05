@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "공갈",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.3.27.",
+        "caseNo": "83도3204",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "허용범위를 넘은 권리실행과 공갈죄의 성부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결이 든 증거에 의하면 피고인에 대한 그 판시와 같은 공갈미수의 범죄사실이 적법히 인정되고 설사 피고인이 정당한 권리를 가졌다 하더라도 그 권리실행의 수단 방법이 사회통념상 허용되는 범위를 넘은 경우에는 공갈죄의 성립을 방해하지 않는다 할 것이므로 피고인의 그 판시 소위를 공갈미수죄에 의율한 원심의 조처도 정당하며 거기에 소론과 같은 법리오해나 채증법칙 위배로 인한 사실오인의 위법이 있다고 할 수 논지는 원심판결을 바로 보지 아니하고 원심이 인정하지 아니한 사실을 전제로 하거나 독자적인 견해에서 이를 탓하는 것이니 어느것도 받아들일 수 없다.",
+            "이에 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

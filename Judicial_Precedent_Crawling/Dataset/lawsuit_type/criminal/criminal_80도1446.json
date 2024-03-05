@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "업무상과실치상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.8.12.",
+        "caseNo": "80도1446",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "업무상 과실치상죄에 있어서의 예견가능성"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "문제의 사고지점은 잠수교 노상으로서 자전차의 출입이 금지된 곳이고 제한속도는 70키로인데 피고인은 불과 40키로로 운행한 점 등 원심이 인정한 사실로 보아 거기에 자전차를 탄 피해자가 나타나리라고는 예견할 수 없다고 본 원심의 판단에 예견가능한 과실책임을 간과하고 운전자의 주의의무를 오해한 것이라 할 수 없다.",
+            "그외 논지 가운데서 단지 사실과 증거를 탓하는 부분은 원심의 전권행사를 탓하는 것으로 이유없고 판시이유에 어떤 모순이 있는 것으로도 여겨지지 아니한다.",
+            "이에 상고는 이유없으므로 이를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

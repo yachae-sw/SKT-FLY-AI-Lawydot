@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "위헌제청신청",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2003.5.20.자",
+        "caseNo": "2003초기165",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형사소송법 의4  본문의 규정이 위헌인지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 이 사건 위헌제청신청을 기각하기로 하여 관여 대법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "위헌제청신청을 기각한다."
+        ]
+    }
+}

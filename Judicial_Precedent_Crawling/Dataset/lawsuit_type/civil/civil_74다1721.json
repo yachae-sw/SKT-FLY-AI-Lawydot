@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대여금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1975.1.28.",
+        "caseNo": "74다1721",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "단독사건에서 미리 준비서면으로 준비하지 아니한 재정증인을 상대방 불출석으로 조사하여 증거로 채택할 수 있는가 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "소론 증거신청은 미리 준비서면에 기재하지도 아니하고 피고가 출석하지 아니한 채 원심의 1974.9.5자 변론에서 재정증인으로 신청한 것임에도 불구하고 원심은 당 변론에서 이를 조사하여 증거로 채택하였으나 본건은 단독사건이므로 민사소송법 제251조 단서와 같은법 제246조의 규정에 의하여 위 재정증인을 조사하여 증거로 채택하였음에 무슨 위법이 있을 수 없다 . 논지는 이유없다.",
+            "따라서 민사소송법 제400조 제395조 제384조에 의하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

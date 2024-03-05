@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부당이득금반환",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.10.25.",
+        "caseNo": "70다1127",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "원래부터의 부동산 소유자는 그 소유의 미등기 또는 등기멸실의 부동산에 관하여는 등기부에 의한 증명이 없이도 그 소유권을 주장할 수 있다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 관여법관의 일치된 의견으로 상고를 기각하기로 하고 상고 소송비용은 패소자부담으로하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

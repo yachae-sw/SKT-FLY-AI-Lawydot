@@ -1,0 +1,52 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "의료법위반,명예훼손",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.12.8.",
+        "caseNo": "87도2108",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "한의사가 환자에게 주사를 한 행위가 의료법  소정의 무면허의료행위에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "의료법 제25조 제1항에 의하면 의료인이라도 면허된 이외의 의료행위를 할 수 없도록 규정하고 있으므로 한의사인 피고인이 면허없이 원심판시와 같이 환자에게 주사를 하였다면 비록 주장과 같이 사실상 의사의 자질을 갖고 있다거나 환자가 생활형편이 어려워 그 진료대금을 받지 않았다 하더라도 무면허의료행위의 성립에는 아무런 영향이 없다.",
+            "같은 취지의 원심판결은 정당하고 거기에 주장하는 바와 같은 법리오해의 위법이 없다.",
+            "주장은 이유없다.",
+            "원심판결과 원심이 유지한 제1심판결이 든 증거에 의하면 피고인에 대한 이 사건 명예훼손의 범죄사실을 인정하기에 넉넉하므로 거기에 주장하는 바와 같은 채증법칙을 어긴 위법이 주장은 이유없다.",
+            "그러므로 상고를 기각하기로 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가재항고기각결정에대한준재심",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.9.25.자",
+        "caseNo": "67사64",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경매기일전의 가등기 권리자에게 대한 경매기일 불 통지와 재심사유"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "준재심 이유의 요지는  원심이 경매부동산의 거래시세를 전연 고려에 넣지 않고 감정인이 행한 평가액에 절대성을 인정한 나머지 시가보다 저렴한 가격으로 경락허가한 것을 다투는 논지는 적법한 재항고 이유가 되지 못한다 함은 위법이고  경매기일전의 가등기권리자 소외인에게 경매기일통지를 하지않은 것은 위법이라 함에 있으나 이러한 사유는 민사소송법 제431조에 의하여 준용되는 같은 법제422조 제1항에 규정한 어느 사유에도 해당되지 아니하므로 준재심 신청은 이유 없다.",
+            "그러므로 준재심신청을 기각하기로 하여 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "준재심 신청을 기각한다."
+        ]
+    }
+}

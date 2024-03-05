@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.6.24.",
+        "caseNo": "80도905",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "자수에 대한 판단여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "자수에 의한 형의 감경은 법원의 재량에 의한 것으로서 자수의 주장은 형사소송법 제323조 2항에서 이른바 형의 가중감면의 이유되는 사실의 진술이라 할 수 없으니 소론과 같이 피고인이 원심에서 그 자수의 주장을 하였다 하더라도 원심이 이를 인정하지 아니하고 또 이에 의하여 감경할 것이라고 인정하지 않은 이상 원심이 이에 관한 판단을 표시하지 아니 하였다 하여 원판결에 소론과 같이 형사소송법 제323조 2항을 위반한 위법이 있다 할 수 없으므로 논지는 이유없다 .",
+            "따라서 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

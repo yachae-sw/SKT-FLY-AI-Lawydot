@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수뢰",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1956.12.28.",
+        "caseNo": "4289형상235",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "회뢰죄에 있어서의 「직무에 관하여」의 의의"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 형사소송법 제390조에 의하여 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 상고를 기각한다"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "특수강도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.4.12.",
+        "caseNo": "83도503",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "자수가 유죄판결에 명시할 사유인지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 제1심판결 거시의 증거를 모아보면 원심판시 피고인의 이 사건 범죄사실을 인정하기에 넉넉하여 이에 채증법칙위반으로 인한 사실오인의 위법을 가려낼 수가 없고 형법 제52조의 규정에 비추어 자수는 형의 필요적 감경 또는 면제사유가 아님이 명백하므로 자수사실에 관한 주장은 형의 양정에 영향을 미치는 사유에 지나지 아니하여 형사소송법 제323조 소정의 유죄판결에 명시할 이유에 해당한다고 할 수 없으므로 이와 같은 주장에 대하여 아무 판단을 하지 않았다 하여 판단유탈의 위법이 있다고 할 수 없다.",
+            "따라서 상고이유는 모두 그 이유가 없으므로 상고를 기각하고 형법 제57조에 의하여 상고이후의 미결구금일수중 2일을 본형에 산입하기로 하여 관여법관의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

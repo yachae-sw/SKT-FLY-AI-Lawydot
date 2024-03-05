@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "업무방해",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1989.3.28.",
+        "caseNo": "89도110",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형법  소정의 \"업무\"의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "형법 제314조가 정하는 \"업무\"라 함은 직업 또는 계속적으로 종사하는 사무나 사업을 말한다 할 것이므로 원심이 확정한 바와 같이 피고인이 피해자가 하는 담장공사를 일시적으로 방해한 것에 불과하다면 그 담장공사를 가리켜 위에 본 \"업무\"라고는 할 수 없다 할 것이다.",
+            "그리고 피해자가 피고인과의 사이에 이 사건 토지에 관하여 2년여에 걸친 재판끝에 그 토지가 피해자의 소유로 확정되었다 하여 위 담장공사 자체가 \"업무\" 또는 그와 밀접한 부수적인 업무가 되는 것이 아니다.",
+            "같은 취지에서 원심이 피고인에게 무죄의 선고를 한 제1심판결은 그대로 유지한 것은 정당하고 거기에 지적하는 바와 같은 법리오해의 위법이 없다.",
+            "그러므로 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

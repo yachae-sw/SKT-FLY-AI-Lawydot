@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "재판집행에관한이의신청기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1986.9.8.자",
+        "caseNo": "86모32",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "검사의 공소제기 또는 이를 바탕으로 한 재판 그 자체의 부당함을 이유로 하는 형사소송법  소정 이의신청의 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "형사소송법 제489조 소정의 이의신청은 재판의 집행을 받은 자 그 법정대리인 배우자가 재판의 집행에 관한 검사의 처분이 부당함을 이유로 하는 경우에 신청할 수 있는 것인바 이 사건과 같이 재판의 집행에 관한 것이 아니고 검사의 공소제기 또는 이를 바탕으로 한 재판 그 자체가 부당함을 이유로 하는 경우에는 신청할 수 없다 고 판단한 원심의 조치는 기록에 비추어 살펴보아도 정당하고 소론이 주장하는 바와 같이 재판집행에 관한 이의신청의 법리를 오해한 위법이 논지는 이유없다.",
+            "그러므로 재항고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

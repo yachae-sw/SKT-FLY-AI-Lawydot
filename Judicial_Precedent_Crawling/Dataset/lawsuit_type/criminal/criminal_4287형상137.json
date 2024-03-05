@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "업무횡령",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1954.5.13.",
+        "caseNo": "4287형상137",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "증거자료와 사실인정의 저어"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨대 원판결 거시의 본건 각 증거내용을 일건 기록에 비추어 정사하여도 피고인 양명이 본건 소맥수배자의 의사에 반하여 자의로 이를 매각처분하였다는 사실을 인정함에 충족한 증거를 발견할 수 없음에도 불구하고 원심은 범죄사실에 적응하지 아니한 증거자료에 의하여 원판시사실을 인정한 위법이 있어 파훼를 면치 못할 것이다결국 상고논지는 이유있다고 인정하므로 다시 심리케 하기 위하여 형사소송법부칙 제1조 구 형사소송법 제447조 제448조의 2에 의하여 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다"
+        ]
+    }
+}

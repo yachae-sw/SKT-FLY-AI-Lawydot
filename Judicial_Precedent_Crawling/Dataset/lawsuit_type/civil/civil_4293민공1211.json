@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상및토지인도청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1961.7.11.",
+        "caseNo": "4293민공1211",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "징발목적물 소유자가 국가에 대해 불법점거를 전제로 손해배상 등을 청구할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "결국 원고의 본건 청구는 전부 그 이유없음이 명백하므로 이를 기각하여야 할 것인즉 이를 인용한 원판결은 부당하며 피고의 본건 공소는 그 이유있으므로 원판결을 취소하기로 하여 민사소송법 제386조  제89조  제96조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

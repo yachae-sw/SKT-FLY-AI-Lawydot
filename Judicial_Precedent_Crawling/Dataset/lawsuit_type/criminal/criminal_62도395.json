@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "장물취득피고사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1963.5.28.",
+        "caseNo": "62도395",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "심리에 관여하지 아니한 법관이 판결에 관여한 경우 그 판결의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 이상의 상고이유에 대한 판단을 덜고도 이 상고는 이유있다 할 것이니 동법 제390조  제383조 제2호  제391조  제397조를 좇아 원판결을 깨뜨리어 원심으로 하여금 다시 심리케 하기 위하여 도로 보내기로 한다.",
+            "이러므로 주문처럼 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하여 사건을 서울지방법원 공소부로 환송한다."
+        ]
+    }
+}

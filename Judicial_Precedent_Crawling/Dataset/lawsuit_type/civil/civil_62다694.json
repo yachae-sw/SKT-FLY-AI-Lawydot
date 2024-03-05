@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기말소등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.12.27.",
+        "caseNo": "62다694",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "당사자 본인 신문의 증거능력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결에 의하면 원심은 원고 본인 신문결과만 가지고 원고의 본건 소 취하는 피고의 기망행위에 의한 것이라고 인정하고 따라서 원고의 진실한 의사에 의한것이 아니니 무효라고 판단하고 있다 그러나 당사자 본인신문은 보충적 증거방법에 속한 것이므로 타에 전연 증거가 없는 경우에는 당사자 본인 신문의 결과만으로는 사실인정의 자료로 할 수 없다는 것이 본원의 판례로 하는바로 아직 변경의 필요가 없은즉 원심의 위 사실인정은 위법하다 할 것이므로 논지는 이유있다 할 것이다",
+            "이에 그 밖의 상고 논점에 대한 설명을 생략하고 민사소송법 제406조 제1항에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 하고"
+        ]
+    }
+}

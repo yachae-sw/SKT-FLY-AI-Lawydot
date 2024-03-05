@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "공문서위조·동행사·공정증서원본불실기재·동행사·사기·절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1965.6.22.자",
+        "caseNo": "65도227",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "등기명의자로부터 매수한 부동산을 제3자에게 매도한 자가 그 등기명의자로부터 자기명의로 소유권 이전등기를 한 경우에 사기죄의 성립여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "피고인의 상고를 기각한다."
+        ]
+    }
+}

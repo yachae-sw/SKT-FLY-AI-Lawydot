@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "의료법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.12.22.",
+        "caseNo": "87도1954",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "태반을 매수 판매한 행위가 의료법  에서 규정한 \"처리\"의 개념에 포함되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 피고인이 적출물인 이 사건 태반을 공소사실과 같이 매수하고 판매한 행위는 죄형법정주의 원칙상 의료법 제17조 제1항에서 규정한 \"처리\"의 개념에 포함된다고 해석할 수는 없다 할 것이다.",
+            "그렇다면 원심이 이와 같은 취지에서 피고인의 판시 태반의 매수·판매행위를 결국 범죄가 되지 아니한다 하여 무죄를 선고한 제1심판결을 유지한 조치는 정당하다 할 것이고 거기에 소론과 같은 법리오해의 위법이 있을 수 논지는 그 이유가 없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

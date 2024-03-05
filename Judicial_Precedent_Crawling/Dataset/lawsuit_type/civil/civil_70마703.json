@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "과태료결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.10.31.자",
+        "caseNo": "70마703",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무역거래법 의 과태료는 행정질서벌의 하나이며 위반자의 고의나 과실을 요건으로 하지 아니한다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 원결정이 무역거래법 제30조에서 가리키는 과태료는 행정질서벌의 하나이며 이를 과함에 있어서는 위반자의 고의나 과실을 필요로 하는 것이 아니라고 판단한 것은 정당하고 논지가 들고 있는 대법원판결은 이 사건에는 적절한 것이 논지 이유없다.",
+            "이리하여 재항고를 이유없다하여 기각하기로 하고 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

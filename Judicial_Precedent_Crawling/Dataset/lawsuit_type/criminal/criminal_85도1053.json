@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "특수절도ㆍ특수절도미수ㆍ폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.7.9.",
+        "caseNo": "85도1053",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상고심 계속중 성년이 되었으나 항소심판결 당시 미성년인 자에 대한 부정기형 선고의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "다음 피고인의 상고이유에 관하여 살피건대 상고심의 심판대상은 항소심 판결당시를 기준으로 하여 그 당부를 심사하는데 있는 것이므로 항소심 판결당시 미성년인 피고인에 대한 부정기형의 선고는 피고인이 그후 상고심 계속중에 성년이 된다 하더라도 위법이 될 수 없는바 하물며 아직 미성년인 피고인이 앞으로 가까운 시일안에 성년이 된다는 것을 전제로 정기형의 선고를 바란다는 논지는 이유없다.",
+            "따라서 상고를 기각하고 형법 제57조에 의하여 상고후의 미결구금일수중 일부를 본형에 산입하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

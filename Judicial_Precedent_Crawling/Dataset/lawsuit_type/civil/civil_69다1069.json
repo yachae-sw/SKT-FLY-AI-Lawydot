@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.2.24.",
+        "caseNo": "69다1069",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "법정기준의 법원에 대한 구속력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "소론 국가배상법 제3조의 배상액기준은 배상심의회에 있어서 배상액 결정의 위선의 기준이 될뿐 배상액의 상한선을 규정하므로서 배상범위를 법적으로 제한하는 규정이 아니라함이 본원 판례로 하는 바임으로 의 논지는 이유없고  본건에 있어 상실이득의 산출근거는 농촌 일용노동자의 노임을 기준으로 한 것이고 그 소득에 대한 원전과세로서 공제할 공과금의 부과가 예정되지 아니하는 경우이므로 위 소득에 대한 소득세 부과는 소송외에서 할 수 있는 것이고 이를 원천공제하지 않았다 하여 원판결을 비난하는 상고논지는 이유없다.",
+            "그러므로 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

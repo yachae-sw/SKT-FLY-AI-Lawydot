@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "밀항단속법",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.6.10.",
+        "caseNo": "69도669",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "집행유예 기간 중에는 재차 집행유예를 선고할 수 없다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "형법제62조 제1항 단행중에서 「금고 이상의 형의 선고를 받아'라 함은 실형만을 지칭하는 것이 아니므로 집행유예 기간중에는 다시 재판할 사건의 범죄행위가 먼저 집행유예의 선고를 받았던 범죄 사실이 있기 전에 있었던 행위었거나 그 사실이 있은 후에 있었던 행위었음을 막론하고 그 사건에 있어서는 다시 집행유예를 선고할 수는 없다는 것이 당원 판례의 견해이니 만큼 위 판례의 견해에 의거한 원 판결의 판시 내용을 논란하는 소론의 주장은 독자적인 견해에 지나지 않아 그 논지를 받아들일 수 없다.",
+            "그러므로 관여법관 전원의 일치한 의견에따라 형사소송법 제390조 제364조 제4항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

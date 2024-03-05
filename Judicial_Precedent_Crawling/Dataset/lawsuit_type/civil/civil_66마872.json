@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "청산인개임신청기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.6.2.자",
+        "caseNo": "66마872",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민법 의 중요한 사유에 해당하는 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원결정 이유에 의하면 본건 청산법인인 경성섬유품 소매상업조합의 총출자 좌수 6000좌중 일본인이 가지고 있던 2881좌와 11명의 이사중 일본인 이사 9명의 이사 행사권이 재항고인 대한민국에게 귀속되었다 함으로 이러한 사유는 민법 84조에서 말하는 중요한 사유가 있는 때에 해당하여 청산인을 해임할 수 있는 경우에 해당한다 할 것임에도 불구하고 원심이 이점을 고려한바 없이 만연 원판시와 같이 청산인 신청외인을 해임할만한 중대한 사유가 없다고 판단하여 본건 항고를 기각한 것은 잘못이라 할 것이니 이점에 관한 재항고 논지는 이유있음으로 원결정을 파기하고 사건을 서울민사지방법원 합의부로 환송하기로하고 관여법관의 일치된 의견으로 주문과같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고 사건을 서울민사지방법원 합의부로 환송한다."
+        ]
+    }
+}

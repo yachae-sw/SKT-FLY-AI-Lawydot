@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1968.3.21.",
+        "caseNo": "67나2636",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사적용무로 운영한다는 사실을 알고 군용차량을 증차하였다가 사고를 당한 피해자의 국가배상청구권"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러하다면 공무원인 소외 1 운전병이 공무집행중에 피해자인 소외 3을 치사케 하였으므로 피고에 대하여 국가배상법에 의한 손해배상청구권이 있음을 전제로 한 원고등의 본소 청구는 그 나머지 점에 대한 판단을 가할 필요없이 실당함이 명백하여 이를 기각할 것인즉 이와 다른 견해로 원고등의 청구를 1부 인용한 원판결은 부당하고 피고의 항소는 이유있음으로 원판결을 취소하고 민사소송법 제386조  제96조  제93조  제89조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중 피고 패소부분을 취소한다."
+        ]
+    }
+}

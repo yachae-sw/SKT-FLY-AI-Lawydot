@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소등청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1977.3.30.",
+        "caseNo": "76나1002",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "우리나라 종중회의에 관한 일반관습"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고 종중의 종회소집과 결의 방법에 관하여 특별한 규약이나 관례가 있다는 아무런 주장 입증이 없는 이상 우리나라 종중회의에 관한 일반관례에 따라 문장이 통지가능한 성년이상의 남자종원을 소집하여 출석자 과반수의 찬성을 얻어 한 위 원고 종중결의는 적법하다 할 것이므로 소외 1은 이로써 원고 종중을 대표할 자격이 있다 할 것이다.",
+            "따라서 나아가 이사건 본안에 들어가 판단해야 할 것인바 이와 결론을 달리하여 이건 소를 본안전에서 각하한 원판결은 부당하여 이를 취소하고 민사소송법 388조에 의하여 이 사건을 원심법원에 환송하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

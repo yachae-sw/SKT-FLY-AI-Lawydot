@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권확인",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1952.3.12.",
+        "caseNo": "4285민상187",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "선행된 매매와 대물변제의 주장에 대한 심리의 순서"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "안컨대 본건기록 중 소청원 및 1 2심 구두변론조서에 의하면 원고는 본건 부동산 중 대지는 원래 소외 당소 소외 3의 소유이던 바 채무자 소외 4가 이를 매수하여 그 매매에 인한 이전등기미료중 본건 대물변제에 공하였다 주장하고 피고는 그 사실을 항쟁함이 분명하니 원심은 우 당소 소외 3과 소외 4 간의 매매사실을 심리판정한 후가 아니면 원고주장의 대물변제의 성립을 인정할 수 없는 순서인데도 불구하고 원판결이 인용한 제1심 판결에 의하면 원심은 차점에 관하여 전연히 심리판단함이 없이 본건 대물변제를 인정하였으니 원판결은 심리부진 또는 이유불비의 위법있음을 면키 난할 논지는 결국 이유있고 원판결은 파기를 면치 못할 것임으로 다시 심리하기 위하여 사건을 서울고등법원에 환송함이 적당하다고 인정하고 민사소송법 제407조 제1항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

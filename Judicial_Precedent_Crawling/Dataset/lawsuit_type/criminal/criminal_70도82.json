@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "재물손괴",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.3.10.",
+        "caseNo": "70도82",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "타인 소유의 토지에 사용수익의 권한없이 농작물을 경작한 경우에 그 농작물의 소유권은 경작한 사람에게 귀속된다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "타인 소유의 토지에 이를 사용수익할 만한 권한이 없이 농작물을 경작한 경우에 그 농작물의 소유권은 경작한 사람에게 귀속된다고 할 것인바 이 사건에 있어서 보면 판시 망 공소외 1 소유 논은 판시 공소외 2 명의로 소유권이전등기가 경료되었으며 피고인이 망인의 딸 공소외 3으로 부터 매수하여 계속 경작하여 오던 것이라 할지라도 피고인이 뽑아버린 콩은 공소외 2가 경작한 것임을 자인하고 있을 터이므로 설사 장차 소송에 의하여 피고인 명의로 소유권이전등기를 받을 수 있는 형편에 있고 또 공소외 2가 불법적으로 피고인의 경작을 방해하기 때문에 흥분한 나머지 범한 것이라 할지라도 피고인에 대한 재물손괴의 죄책을 면할 수 없다고 할 것이므로 논지는 이유없다.",
+            "그러므로 상고를 기각하기로 하여 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

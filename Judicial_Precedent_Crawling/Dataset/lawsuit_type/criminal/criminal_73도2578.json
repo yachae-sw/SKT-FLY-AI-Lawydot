@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1974.5.14.",
+        "caseNo": "73도2578",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "법률상 의무없는 진술서를 작성케 한 행위의 형벌규정"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결과 그가 인용한 제1심판결이 들고 있는 여러 증거들을 기록에 대조 검토하면 그 판시사실인정은 정당하고 거기에 소론에서 말하는 바와 같은 채증법칙위배나 사실오인의 점을 찾아 볼 수 없으니 논지는 이유없고",
+            "형법 제324조는 사람의 자유를 침해하는 행위에 대한 형벌규정으로 해석되므로 동 판시 3의 사실 즉 피고인이 피해자 공소외인을 협박하여 동인으로 하여금 법률상 의무없는 진술서를 작성케한 소위는 사람의 자유권행사를 방해한 것이라고 보아지니 동 판결이 여기에 위 법조를 의률처단하였음은 정당 하고 이를 지목하여 법리오해라고 들고 나온 논지 역시 채택할 수 없다.",
+            "그러므로 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

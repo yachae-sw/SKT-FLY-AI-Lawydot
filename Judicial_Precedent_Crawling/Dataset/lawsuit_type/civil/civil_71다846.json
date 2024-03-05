@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.6.22.",
+        "caseNo": "71다846",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "운송인이 승객을 운송함에 있어서 승객이 상해를 입었을 때의 책임."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결이유에 의하면 원심은 원고가 입은 이 사건 상해는 피고가 운송인으로서 자기 또는 사용인의 운송에 관한 주의의무를 해태함으로 말미암았다고 추정된다고 단정한 후 나아가서 이 사건 사고는 다른 승객이 짐을 선반 위에 불완전하게 올려놓음으로써 그 짐보따리가 떨어져 원고가 상해를 입었다 하여도 이 사실만으로서는 피고 또는 그 사용인이 원고의 운송에 관하여 주의의무를 해태하지 않았다고 단정할 수 없다고 정당하게 판단하고 있음으로 이를 논난하는 상고논지는 채용할 수 없다.",
+            "이리하여 상고를 이유없다 하여 기각하기로 하고 상고 소송비용의 부담에 관하여 민사소송법 제95조 제89조를 적용하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

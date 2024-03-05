@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "지분권부존재확인청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1954.5.13.",
+        "caseNo": "4287민공14",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "재심의 소에 의하지 아니하고도 재판상의 화해의 내용으로 된 계약을 해제할 수 있는지 여부",
+            "지가증권을 진정한 권리자로부터 양도받은 자의 권리행사와 지주명의",
+            "미성년자 후견인의 채무명의에 의한 채무변제행위에 대한 친족회의 동의요부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "부원판사 윤재원은 전보로 인하여 서명날인 불능임"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 공소를 기각한다."
+        ]
+    }
+}

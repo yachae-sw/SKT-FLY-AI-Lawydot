@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "업무횡령",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.4.26.",
+        "caseNo": "4288형상33",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "간접증거와 범행의 판단"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨대 일건기록에 의하면 사고발생 전일인 6월 30일 퇴근당시 및 당일인 7월 1일 출근당시에는 현찰이 입고되어 있는 5호금고의 시정에는 하등의 이상이 없었고 동건은 이를 지불주임인 피고인이 보관하고 있는 사실을 인정할 수 있음으로 일응 피고인을 직의할 수 있으나 이러한 직의만으로서는 피고인의 범행을 단정할 수 없음으로 상고논지는 채용할 수 따라서 형사소송법 부칙 제1조 법령 제181호 제4조 바항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건상고를 기각한다."
+        ]
+    }
+}

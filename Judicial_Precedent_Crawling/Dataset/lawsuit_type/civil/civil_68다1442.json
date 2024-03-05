@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.10.22.",
+        "caseNo": "68다1442",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "귀대중인 군용차의 운전병이 민간인을 승차시키고 마음대로 그 운행방향을 변경하여 유흥의 목적으로 운행을 하다가 일으킨 사고라면 공무수행에 관련된 사고라고 인정 할 수 있다고 판시한 실례",
+            "과실상계에 관한 법리를 오해한 위법이 있는 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 관여법관 전원의 일치된 의견으로서 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결 중 피고 패소부분을 파기하고 그 부분을 서울민사지방법원 합의부에 환송한다."
+        ]
+    }
+}

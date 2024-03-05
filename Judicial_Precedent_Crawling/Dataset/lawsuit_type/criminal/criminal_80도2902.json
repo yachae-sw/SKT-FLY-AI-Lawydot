@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1981.3.24.",
+        "caseNo": "80도2902",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "폐지로서 소각할 것에 불과한 서류이지만 절도죄의 재물에 해당한다고 한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 1심 판결 거시의 증거에 의하면 그 판시사실이 적법히 인정되며 피고인이 절취한 「도시계획구조변경계획서」가 폐지로서 소각 할 것에 불과한 것이라 하더라도 그 내용을 알아 볼 수 있고 또 그 내용이 경제생활상 가치성이 있어 이는 절도죄에 있어서의 재물에 해당한다고 할 것이니 같은 취지로 볼 수 있는 위 1심 판결은 정당하고 거기에 소론과 같이 심리미진 채증법칙 위반으로 사실을 오인한 위법이 없고 1심이 피고인의 소위를 절도죄로 의률한 점에 소론과 같이 의률착오의 위법도 없으므로 논지는 모두 이유없다.",
+            "따라서 상고를 기각하기로 하여 관여 법관의 일치 된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

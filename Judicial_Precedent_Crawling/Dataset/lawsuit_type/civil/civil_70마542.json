@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.9.25.",
+        "caseNo": "70마542",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "금융기관의 연체대출에 관한 특별조치법 의 2와 이 법시행령 의 규정은 위헌규정이 아니다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "금융기관의 연체대출에 관한 경매절차에 있어 경락허가 결정에 대한 항고를 제기하려면 경락대금의 310을 공탁하도록 규정되어 있는 금융기관의 연체대출에 관한 특별조치법 5조의 2와 이 법시행령 4조의 법조가 소론과 같이 피담보채권자인 금융기관에게만 특혜를 주는 결과가 된다 하여 헌법 20조1항에 위반된다 할 수 없으므로 위헌주장은 이유없고 따라서 그 위헌을 전제로 하여 본건 경매 절차상의 하자를 지적하는 논지도 더 나아가 판단할 필요없이 채택할 여지가 없다",
+            "그러므로 재항고를 기각하기로 하여 관여법관 일치의 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

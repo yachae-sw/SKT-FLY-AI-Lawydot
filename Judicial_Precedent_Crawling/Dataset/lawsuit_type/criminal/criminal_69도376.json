@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강간",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.4.29.",
+        "caseNo": "69도376",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피해자의 부친이 피해자 사망후에 피해자를 대신하여 그 피해자가 이미 하였던 고소를 취소하더라도 이는 적법한 고소취소라 할 수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 관여법관 전원의 일치된 의견으로서 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

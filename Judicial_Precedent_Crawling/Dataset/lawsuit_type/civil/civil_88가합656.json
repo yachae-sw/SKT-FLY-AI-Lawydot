@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "청구이의",
+        "courtNm": "제주지법",
+        "judmnAdjuDe": "1988.10.6.",
+        "caseNo": "88가합656",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "추심명령에 기한 추심금청구의 소의 판결이 확정된 후에 한 제3채무자의 공탁의 효과"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 위 판결의 집행력의 배제를 구하는 원고의 이 사건 청구는 이유있어 이를 인용하고 소송비용은 패소자인 피고들의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고들의 원고에 대한 제주지방법원 88가합113 추심금 청구사건의 판결에 기한 강제집행은 이를 불허한다."
+        ]
+    }
+}

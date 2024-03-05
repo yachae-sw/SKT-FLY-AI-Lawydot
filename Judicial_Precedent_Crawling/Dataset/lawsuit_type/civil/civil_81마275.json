@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "항소장각하명령",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1981.11.26.자",
+        "caseNo": "81마275",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소장 부본이 송달된 후 피항소인의 주소보정명령의 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 민사소송법 제371조 제231조에 의하여 항소심 재판장이 독자의 권한으로 항소장 각하명령을 할 수 있는 것은 항소장의 송달 전 즉 항소장의 송달이 불능하여 그 보정을 명하였는 데도 보정에 응하지 아니한 경우에 한하고 이 사건의 경우와 같이 항소장이 피항소인에게 송달되어 항소심의 변론이 개시된 후에는 재판장은 명령으로 항소장을 각하할 수 없다 할 것이다.",
+            "그럼에도 불구하고 원명령이 위에서 본 바와 같은 경위로 항소장을 각하한 조치는 위법이라 아니할 수 없으므로 이 사건 항고는 결국 이유있다.",
+            "그러므로 원명령을 파기하고 사건을 원심법원에 환송하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원명령을 파기하고 사건을 수원지방법원 합의부에 환송한다."
+        ]
+    }
+}

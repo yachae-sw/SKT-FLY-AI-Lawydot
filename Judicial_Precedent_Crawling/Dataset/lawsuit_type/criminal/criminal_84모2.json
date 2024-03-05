@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "재심청구기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.2.20.자",
+        "caseNo": "84모2",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확정판결후 증인의 진술번복이 형사소송법  의 “무죄로 인정할 명백한 증거가 발견된 때”에 해당되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "형사소송법 제420조 제5호에서 무죄로 인정할 명백한 증거가 발견된 때라 함은 확정판결의 소송절차에서 발견되지 못하였거나 발견되었어도 제출할 수 없었던 증거로서 증거가치에 있어서 다른 증거에 비하여 객관적으로 우위성이 인정되는 증거를 말하고 확정판결의 소송절차에서 이미 증거로 조사 채택된 증인이 판결확정후 전의 진술내용을 번복함과 같은 것은 이에 해당하지 아니하는 것 이므로 원심의 같은 취지에서 이건 재심청구를 기각한 조치는 정당하고 기록에 의하여도 재심사유에 해당하는 사유는 찾아볼 수 없다.",
+            "결국 논지는 이유없으므로 재항고를 기각하기로 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

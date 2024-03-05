@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.12.26.",
+        "caseNo": "67다2417",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "군인 사망 급여금 규정 에 의한 손해배상의 성질과 국가배상법 와의 관계"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 원판결이 원고가 망 소외인의 유족으로서 피고로부터 지급받은 유족급여금 85800원에 관하여 원고 자신의 위자료액을 산정함에 있어서 이를 참작 공제하였음은",
+            "논지 이유없다.",
+            "이에 상고는 이유없으므로 기각하고 소송비용은 패소자의 부담으로 하여 관여법관의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

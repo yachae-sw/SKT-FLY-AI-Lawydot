@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "특정범죄가중처벌등에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1986.5.14.",
+        "caseNo": "86소1",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "진범이 검거되어 현재 공판진행 중이라는 사유가 상고기각판결에 대한 재심사유가 되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 상고를 기각한 확정판결에 대한 재심청구는 그 확정판결 자체에 형사소송법 제420조 제1 2 7호 소정의 각 사유가 있는 경우에 한하여 허용된다 할 것이므로 본안 피고사건의 범죄사실에 관하여 증거에 의하여 사실인정을 하지 않았던 원 상고심판결에 대하여는 소론과 같은 사유를 내세워 재심청구를 할 수 없다 고 할 것인즉 본건 재심청구는 법률상의 방식에 위반된 경우에 해당하므로 형사소송법 제433조에 의하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재심청구를 기각한다."
+        ]
+    }
+}

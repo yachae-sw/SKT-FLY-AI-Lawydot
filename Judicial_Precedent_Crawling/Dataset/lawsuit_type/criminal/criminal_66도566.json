@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상습절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.5.24.",
+        "caseNo": "66도566",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상습절도를 정도의 경합범으로 처벌한 위법이 있는 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "당원이 본건에 관하여 인정할 범죄사실과 증거는 제1심 판결서에 기재된 것을 인용한다.",
+            "피고인의 위의 범죄사실은 형법 제332조 제329조에 해당하므로 소정형기 범위내에서 피고인을 징역 8월에 처하기로 그리고 제1심판결선고전의 미결구금일수에 관하여는 형법 제57조에 의하여 그 중 45일을 위의 선고본형에 산입하기로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결 및 제1심 판결을 파기한다."
+        ]
+    }
+}

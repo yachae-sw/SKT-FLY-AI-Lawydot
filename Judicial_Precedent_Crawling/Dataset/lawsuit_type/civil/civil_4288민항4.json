@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "기일지정신청에관한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.7.28.",
+        "caseNo": "4288민항4",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항고법원의 중간재판과 재항고의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨대 민사소송법 제413조에 소위 항고재판소의 결정이라 함은 그 심급에서 종국적으로 완결하는 재판을 운위하는 것임으로 전심결정을 파기하고 사건을 환송하는 것과 같은 중간재판은 이에 해당하지 아니한다 본건에 있어서 원심이 1954년 10월 5일자로 한 결정은 제1심 결정을 취소하고 이를 동심 환송한 중간재판에 불리한 것임으로 이에 대하여 재항고를 할 수 없다고 아니할 수 그러므로 본건논지에 대한 설명을 생략하고 본건 재항고를 부적법하다 인정하여 민사소송법 제414조 제396조 제383조를 적용하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 재항고를 각하한다."
+        ]
+    }
+}

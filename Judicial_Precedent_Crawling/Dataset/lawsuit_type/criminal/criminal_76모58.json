@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상고기각결정에대한즉시항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1976.9.27.자",
+        "caseNo": "76모58",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "즉시항고인의 주거의 소재지와 항고법원 소재지 간의 거리가 221.8키로미터인 경우와 상고제기의 법정기간의 연장"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 즉시항고인이 그 연장된 법정기간내인 1976.8.7에 한 위 상고제기는 상고제기 기간내에 한 적법한 것이라 할 것인데도 불구하고 이를 상고권 소멸후의 상고라 하여 상고를 기각한 원심은 형사소송법 제67조의 법리를 오해한 위법을 저질렀다고 할 것이다.",
+            "그러므로 원결정을 취소하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 취소한다."
+        ]
+    }
+}

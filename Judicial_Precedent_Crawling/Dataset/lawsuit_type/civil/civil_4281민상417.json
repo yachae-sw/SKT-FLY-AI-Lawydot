@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1948.4.12.",
+        "caseNo": "4281민상417",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "출계한 양자와 생부사망에 의한 소송수계의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "자에 상고이유에 대한 판단을 생략하고 민사소송법 제407조 제1항에 의하여 주문과 여히 판결함."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파훼함."
+        ]
+    }
+}

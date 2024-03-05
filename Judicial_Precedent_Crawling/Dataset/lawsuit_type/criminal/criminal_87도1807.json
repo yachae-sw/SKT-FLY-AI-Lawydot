@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "특수절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.10.13.",
+        "caseNo": "87도1807",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형사소송법  의 위헌여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "변호인의 상고논지는 형사소송법 제383조 제4호가 10년미만의 징역 또는 금고가 선고된 사건에 있어 양형부당을 상고이유로 할 수 없게 한 규정은 헌법에 위반되는 것이라는 전제 아래 피고인에 대한 원심의 양형이 과중하다는 취지이나 소론 형사소송법의 규정이 헌법에 위반되지 아니하는 것이라 함이 당원의 견해 이며 따라서 이 사건에 있어 양형부당의 논지는 적법한 상고이유가 될 수 없고 피고인의 상고논지는 상고기간 중 성년이 됨에 따라 부정기형을 면하고저 상고에 이르렀다는 취지이나 논지 역시 적법한 상고이유가 될 수 논지는 모두 이유없다.",
+            "따라서 상고를 기각하고 형법 제57조 소송촉진등에관한특례법 제24조를 적용하여 상고후의 구금일수중 20일을 본형에 산입하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

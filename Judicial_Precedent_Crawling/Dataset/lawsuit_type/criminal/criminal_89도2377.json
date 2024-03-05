@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.2.13.",
+        "caseNo": "89도2377",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확정판결을 받은 절도 범행과 포괄하여 상습절도죄를 구성한다는 이유로 면소판결을 한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인이 1987.5.야간주거침입절도죄로 소년부송치결정을 받은 바 있고 1988.10.절도등죄로 징역 10월에 2년간 집행유예의 확정판결을 받은 절도범행이 그해 7.12.에 한 것이며 이 사건 범행은 그 이전인 그해 5월과 6월 사이에 7차례에 걸쳐 단기간에 한 것으로서 그 범행장소가 같고 절취한 돈도 그때마다 유흥비로 탕진한 것이라면 위 확정판결의 절도범행과 이 사건 절도범행은 다같이 절도의 습벽이 발현된 것이라 할 것이므로 같은 취지에서 원심이 이를 포괄하여 상습절도죄의 일죄를 구성한다고 보고 위 확정판결의 기판력이 이 사건 범행에도 미친다는 이유로 이 사건 공소사실에 대하여 면소의 판결을 한 것은 정당하고 거기에 지적하는 바와 같은 법리오해의 위법이 없다.",
+            "그러므로 상고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

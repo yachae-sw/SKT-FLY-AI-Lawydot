@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "집행방법에대한이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1989.9.11.자",
+        "caseNo": "89마580",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부동산임의경매절차에서 작성된 경락대금교부표에 대한 이의방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "부동산임의경매절차에 있어서 경락대금교 부표를 작성하는 것은 실무상으로 경락대금배분에 관한 계산관계를 명확히 하기 위한 목적을 위함일 뿐이고 부동산강제경매절차에서와 같이 배당액확정의 목적으로 작성하는 것이 아니므로 위 경락대금교부표에 대하여 이의를 주장하는 자는 위 경락대금교부표상의 채권자들을 상대로 하여 교부금수령금지가처분을 구하여 그 권리를 보전하고 부당이득반환의 본안소송을 제기할 수 있음은 별론으로 하고 민사소송법상의 집행방법에 관한 이의신청으로써 다툴 수는 없다 할 같은 취지의 원심판단은 옳고 이와 다른 견해를 내세워 원심을 탓하는 논지는 이유 없다.",
+            "그러므로 재항고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

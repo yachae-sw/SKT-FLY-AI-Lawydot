@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "신원보증채무",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.5.21.",
+        "caseNo": "67다2861",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "서증의 성립을 증거없이 인정한 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결은 갑 7호증의 1의 성립을 인정하는 이유로서 피고에 있어서 위 서증의 공성부분의 성립을 인정하므로 문서전체의 진정성립이 인정된다고 판시하였으나 기록에 의하면 피고는 위 서증의 공성부분의 성립을 인정한 바 없고 오히려 그 성립을 부지로 다투고 있음이 분명하고 또 위 서증은 공문서도 아니므로 원심은 서증의 성립을 증거없이 인정한 잘못이 있다 할 것이고 이 서증의 성립여부는 판결결과에 영향이 있다 할 것이니 이점에 관한 상고논지는 이유있고 원판결 중 피고 패소부분은 파기를 면할 수 없으므로 이 사건 부분을 서울고등법원으로 환송하기로 하고 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결 중 피고 패소부분을 파기하고 이 사건 부분을 서울고등법원으로 환송한다."
+        ]
+    }
+}

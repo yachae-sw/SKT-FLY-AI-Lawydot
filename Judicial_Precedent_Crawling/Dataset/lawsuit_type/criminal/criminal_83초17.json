@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "판결정정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.5.19.자",
+        "caseNo": "83초17",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무죄자판이나 파기환송을 구하기 위한 판결정정의 신청의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 이 사건 신청을 기각하기로 관여법관의 의견이 일치하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "판결정정 신청을 기각한다."
+        ]
+    }
+}

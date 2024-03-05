@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대지인도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1979.9.25.",
+        "caseNo": "79다1028",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소유권이전등기의 이행완료와 소유권상실"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결은 그 이유에서 본건 제소당시에 있어서는 본건 토지들은 원고의 소유였으나 원심변론 종결 당시에 있어서는  토지는 소외 1에게  토지는 소외 2에게 각기 소유권이전등기가 경료된 사실을 단정하고 그렇다면 원고는 이 사건 토지들에 대한 소유권을 상실하였으니 소유권이 원고에 있음을 전제로 하여 본건 토지의 인도를 구하는 원고의 청구를 이유없다 하여 청구를 배척하였는바 우리의 법제상 부동산에 관한 소유권이전등기를 함으로써 그 소유권을 취득한 사람은 그 부동산에 대한 전면적인 소유권을 취득하고 동시에 전 소유자는 소유권을 완전히 상실한다고 해석되므로 원심의 위 조치는 정당하고 견해를 달리하는 소론의 논지를 채택할 수 없다.",
+            "그러므로 상고를 기각하고 상고 소송비용은 패소자의 부담으로 하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

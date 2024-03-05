@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.3.4.자",
+        "caseNo": "82사12",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소송촉진등에관한특례법시행규칙  의 법률위반 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 소송촉진등에관한특례법 제12조 제1항에서 대법원은 당사자의 상고허가신청에 대하여 \" 대법원규칙이 정하는 바에 따라 상고를 허가할 수 있다\" 고 규정한 취지는 당사자의 상고허가신청에 대한 상고허가 여부의 재판절차를 대법원규칙으로 정하도록 위임한 취지라고 해석함이 타당하므로 상고허가 신청을 기각하는 절차에 관한 위 시행규칙 제9조 제2항을 모법에 위반된 규정이라고 볼 수는 없다 .",
+            "그렇다면 이 사건 준재심신청은 이유없는 것이므로 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "준재심신청을 기각한다."
+        ]
+    }
+}

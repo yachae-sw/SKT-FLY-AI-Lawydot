@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "화해조서결정신청",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.7.26.자",
+        "caseNo": "66마579",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "화해조서의 경정신청에 대한 결정에 대하여 항고 했을때 이를 특별항고로 보아야 할 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 원심 1966.2.1.14:00 변론조서 다음에 \"화해조항\" 이라하여 당사자 쌍방 소송 대리인 명의로 제출된 서면이 편철되어 있어서 그 별지목록에는 특별항고인이 경정신청 내용대로 미등기 이계건 31평 9홉8작의 기재가 있으므로 당해 목록이 진정한 것이라면 원심의 화해조서는 명백한 오류가 있는 것으로서 조서를 경정하였어야 된다고 할것이니 필경 원심은 심리를 다하지 아니한 나머지 재판결과에 영향을 미친 법률 위반이 있다고 하지 않을수 없으므로 원심결정은 파기를 면하지 못한다할것이다.",
+            "그러므로 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 취소한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "제3자의이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1964.12.29.",
+        "caseNo": "64다1218",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "압류집행 절차가 취소 또는 해제된 경우에 압류중에 이루어진 압류된 물건에 대한 권리이전의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이리하여 원심판결을 파기하고 사건을 원심인 서울민사지방법원 합의부로 환송하기로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기하고 사건을 서울민사지방법원 합의부에 환송한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "과태료결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.4.9.자",
+        "caseNo": "69마124",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "자기 명의로 무역거래법에 의한 수입허가를 얻은자는 수입을 대행한 것이라 하더라도 같은법 에 의한 과태료 책임을 져야 한다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "본건 차량부속품의 가격을 교통부에서 늦게 결정하였다 하더라도 그것은 국내에 수입한 후에 있어서의 매도조건에 불과한 것이고 그 수입 자체와는 아무런 연관성이 없는 것이므로 이를 들고 수입이 늦은 것을 정당화 할 이유는 되지 않고 또 재항고인은 대행업자에 불과하므로 본건 과태료 책임은 실수입자인 한국비철 공업주식회사가 져야 한다고 주장하나 이것은 원심에서 주장하지 않았을 뿐더러 무역거래법에 의하여 허가를 얻은 사람은 재항고인 자신이므로 위 회사가 재항고인과의 내부관계에 있어 본건 과태료 책임을 진다는 것은 몰라도 재항고인은 무역거래법에 의한 본건 책임을 면할 수 없다 할 것이니 논지는 모두 이유없다.",
+            "그러므로 재항고를 기각하기로 하여 관여법관 일치의 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "무고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.11.10.",
+        "caseNo": "87도810",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무고죄의 성립에 있어 허위사실의 확신여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "무고죄의 성립에는 다른 사람으로 하여금 형사처분 또는 징계처분을 받게 할 목적으로 진실하다는 확신없는 사실을 신고함으로써 족하고 그 신고사실이 허위라는 것을 확신할 필요는 없다할 것이다.",
+            "원심이 유지한 제1심판결이 들고 있는 증거들에 의하면 피고인이 진실하다는 확신없이 피해자가 공소외인과 공모하여 그 판시와 같이 피고인을 기망하여 그 판시 트럭 1대를 편취하였다는 허위내용을 기재한 고소장을 부산진경찰서에 제출한 사실을 인정할 수 있으므로 피고인의 판시 소위에 대하여 무고죄의 성립을 인정한 원심의 조치는 정당하고 거기에 소론과 같은 채증법칙위배나 심리미진판단유탈 또는 무고죄에 관한 법리오해의 위법이 있다 할 수 논지는 이유없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

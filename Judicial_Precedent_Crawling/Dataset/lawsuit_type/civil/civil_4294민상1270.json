@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수표금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.4.18.",
+        "caseNo": "4294민상1270",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "도지사의 인가없이 한 수리조합장의 수표발행 행위의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결에 의하면 원심은 소외인의 본건 수표발행 행위는 조선수리 조합령 제39조 제4호 제5호에 해당하는 것으로 도지사의 인가가 없었으니 무효하다는 취지의 피고 항변에 대하여「……원고가 본건 수표 취득 당시 차점에 대하여 악의 이었다는……증거가 없으니 피고의 해 항변은 이유없다」고 판시하고 있다.",
+            "그러나 본건 수표 발행 행위가 위의 조합령 제39조 제4호 제5호에 해당하고 도지사의 인가가 없었다면 이는 무효인 행위이어서 이에 관한 항변은 소위 물적 항변으로 상대방의 선의 악의를 불문하고 대항할 수 있다 할 것이므로 원판결은 이 점에 관한 법리를 오해한 것이라 아니할 수 없고 논지는 이유있다 할 것이다.",
+            "이에 그 밖의 상고이유에 대한 설명을 생략하고 민사소송법 제406조 제1항에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "법관기피신청기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1995.4.3.자",
+        "caseNo": "95모10",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형사소송법    소정의 “불공평한 재판을 할 염려가 있는 때”의 의미",
+            "증거신청을 채택하지 아니하거나 이미 한 증거결정을 취소한 사실 또는 피고인의 증인에 대한 신문을 제지한 사실이 있다는 것만으로 ‘01’항의 경우에 해당한다고 볼 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 재항고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다"
+        ]
+    }
+}

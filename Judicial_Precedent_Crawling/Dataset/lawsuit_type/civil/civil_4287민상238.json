@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가옥명도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.2.3.",
+        "caseNo": "4287민상238",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "증거판단에 관한 어의의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 원판결 거시의 증거를 종합하면 충분히 원판시 성실을 인정할 수 있고 기록을 통하여 경험칙에 위배한 바 있음을 발견할 수 또 원심이 소론 증인 소외 3 소외 5 소외 4 및 소외 6 등의 각 증언에 대하여 전기 인정사실을 번복할 자료가 되지 못한다고 판시하였음은 우 각증언을 신용치 않고 배척한 취지로 볼 수 없는 바 아니며 또 소론 을 제1호증은 거주증명서로서도 전기 사실 인정에 저촉되는 것이 아니므로 원판결에 판단유탈 또는 이유불비 있다는 논지는 그럼으로 본건 상고는 이유없음으로 민사소송법 제401조에 의하여 차를 기각하고 소송비용의 부담에 관하여는 동법 제89조 제95조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건상고를 기각한다."
+        ]
+    }
+}

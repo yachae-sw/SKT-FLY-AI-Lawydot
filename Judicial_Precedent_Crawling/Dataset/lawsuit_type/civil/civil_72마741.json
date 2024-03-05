@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "집행방법에대한이의신청기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1972.7.27.자",
+        "caseNo": "72마741",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "시설부지에 정착된 \"레일\"은 사회통념상 그 부지에 계속적으로 고착되어 있는 상태에서 사용되는 시설의 일부에 해당하는 물건이라고 봄이 상당하다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 원결정 첨부목록의 물건인 '레일 2키로미터'가 그 시설부지에서 분리된 상태로서의 레일을 의미한 것이 아님이 분명하고 사회통념상 그 부지에 계속적으로 고착되어 있는 상태에서 사용되는 시설의 일부에 해당하는 물건이라고 봄이 상당하므로 그 토지에 정착된 물건으로서 집달리의 압류집행은 허용되지 아니한다는 취지의 원결정은 정당하다고 하여야 할 것이다.",
+            "이와 견해를 달리하여 이사건 레일이 통상 철재 토막과 같은 동산으로 거래되는 물건에 불과하다고 하여 원결정에는 동산에 관한 법리오해의 위법이 있다는 재항고 논지는 이유없다.",
+            "그러므로 관여법관의 일치된 의견으로 재항고를 기각하기로 하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

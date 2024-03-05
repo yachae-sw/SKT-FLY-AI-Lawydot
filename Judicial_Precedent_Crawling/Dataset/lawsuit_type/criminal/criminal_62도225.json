@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "살인미수등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1963.1.10.",
+        "caseNo": "62도225",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "변호인의 필요적 변론을 요하는 사건에 있어서 변호인의 변론과 피고인의 최후진술을 듣지않고 재판한 것이 위법이라고 한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결에 의하면 제1심판결 판시 2 사실중 공소외인을 살해케한것 같이 적시한 것은 검사가 기소한바 없고 기타 전말을 보아 착오로 인한 적시로 본다고 단정하였으나 피고인이 공소외인을 살해한 건지도 관론상 명시 되어 있는 이상 이것을 단순한 오기로 넘겨버리는 것은 적절치 않을 뿐더러 판결문자체에 의하여 명백한 오기로 인정될 수도 없음으로 공소외인 살해 사실 인정을 오기도 인정함은 위법이 아닐 수 없다.",
+            "다른 상고이유에 대한 판단을 기다릴 것 없이 원판결을 파기하고 형사소송법 제390조 제397조에 의하여 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결중 피고인에 대한 유죄부분을 파기하고 사건을 광주고등법원에 환송 한다."
+        ]
+    }
+}

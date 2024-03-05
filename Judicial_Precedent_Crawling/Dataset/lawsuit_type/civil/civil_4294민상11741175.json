@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "물품인도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.3.22.",
+        "caseNo": "4294민상11741175",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "동산 소유권의 즉시 취득과 입증책임"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "상고이유 제1점에 대하여",
+            "원판결은 피고가 국전 활판 인쇄기의 현실적 점유를 개시함에 있어 그것이 소외인의 소유로 아는데 있어 무과실이었다고 인정 하였으나 즉시 취득의 요건으로서의 현실적 점유개시당시 소외인이 소유권자가 아니라는 것을 아지 못하는데 있어 과실이 없었다는 것은 피고가 입증 하여야 할 사항인 바 일건 기록에 비추어 피고의 입증이 충분치 못함에도 불구하고 피고에게 과실이 없었다고 인정한 원판결에는 채증 법칙의 위배가 있다고 인정할 것이며 이는 원판결의 결과에 영향을 미칠 가능성이 있으므로 논지는 이유있고 다른 논점에 대한 판단을 필요로 할 것 없이 원판결은 파기를 면치 못 할 것이다.",
+            "따라서 개정전 민사소송법 제406조를 적용하여 관여 법관의 일치된 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 한다."
+        ]
+    }
+}

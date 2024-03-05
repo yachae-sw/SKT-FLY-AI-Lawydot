@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "은행법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.11.30.",
+        "caseNo": "71도1876",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "한국주택은행 지점장에게는 은행법  의3 가 적용될 수없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "한국 주택은행법 제36조의 해석상 동 은행 지점장에게는 은행법 제29조 제38조의 3 제1호가 적용될 수 없다는 원판결 판단에 법령적용의 잘못이 있음을 인정할 수 없고 이러한 견해는 한국 주택은행법 제21조 중소기업은행법 제52조 한국 외환은행법 제27조의 규정 등에 비추어 보아도 납득될 수 있는 법리라 할 것이다.",
+            "논지는 이유없다.",
+            "따라서 형사소송법 제390조에 의하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "비약상고를 기각한다."
+        ]
+    }
+}

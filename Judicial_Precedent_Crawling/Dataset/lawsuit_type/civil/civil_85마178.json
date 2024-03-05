@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경매신청기각결정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.5.24.자",
+        "caseNo": "85마178",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "재항고기간준수 여부의 판단기준시기"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 원심결정 정본이 재항고인에게 송달된 날은 4이고 이 사건 재항고장이 원심법원에 접수된 날은 같은달 13임이 분명하며 민사소송법 제413조 제395조 제367조에 의하면 재항고장은 원심법원에 제출하도록 규정되어 있어 이건 재항고장이 원심법원에 접수된 때를 기준하여 그 기간 준수여부를 따져야 할 것 이니 그렇다면 이건 재항고는 재항고제기의 불변기간을 도과한 부적법한 것으로서 그 흠결을 보정할 수 없는 것이라고 할 것이다.",
+            "그러므로 이 건 재항고를 각하하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 각하한다."
+        ]
+    }
+}

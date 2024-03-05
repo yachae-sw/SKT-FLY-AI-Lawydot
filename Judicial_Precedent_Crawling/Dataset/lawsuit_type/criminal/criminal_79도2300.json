@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "외국환관리법",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1979.12.26.",
+        "caseNo": "79도2300",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "거주자가 비거주자에게 지급하면 거주자 처벌 상대방 불벌"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 인용한 1심 판시사실과 같이 그 제1심 공동피고인 등으로 부터 비거주자인 피고인들이 각 그 판시 금액을 영수한 소위는 외국환관리법 제21조의 규정에 위반된 행위가 아니며 또 이는 위 제1심 공동피고인 등의 범행에 대하여 대항범으로서 위 제1심 공동피고인 등만이 위 법 제35조 제21조에 의하여 처벌될 뿐 상대방인 피고인들에 대하여는 처벌하는 규정이 없는 이상 피고인들의 위 행위는 그 공범으로서 처벌할 수 없다 할 것인 바 원심이 위와 같은 취지아래 피고인들의 이 부분에 대한 공소사실은 죄가 되지 아니한다고 판단하였음은 정당하고 거기에 소론과 같이 위 법 제21조의 법리를 오해하는 등 위법이 없으므로 논지는 이유없다.",
+            "따라서 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

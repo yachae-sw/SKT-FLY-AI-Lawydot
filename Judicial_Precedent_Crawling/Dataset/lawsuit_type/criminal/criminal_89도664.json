@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "절도,절도미수,주거침입",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1989.8.8.",
+        "caseNo": "89도664",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "주인집 방과 세집 방에서 각 재물을 절취한 경우 절도죄의 죄수"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 확정한 바와 같이 피고인이 공소외 1의 집에 침입하여 그 집의 방안에서 그 소유의 재물을 절취하고 그 무렵 그 집에 세들어 사는 공소외 2의 방에 침입하여 재물을 절취하려다 미수에 그쳤다면 위 두 범죄는 그 범행장소와 물품의 관리자를 달리하고 있어서 별개의 범죄를 구성한다 할 것이므로 원심이 위 두 범죄를 경합범으로 다스린 조치는 정당하고 거기에 지적하는 바와 같은 절도죄의 죄수에 관한 법리오해의 위법이 없다.",
+            "이 사건에 있어서와 같이 10년 미만의 징역형이 선고된 판결에 대하여는 양형이 부당함을 들어 적법한 상고이유로 삼을 수 없다.",
+            "그러므로 상고를 기각하고 상고후의 구금일수 중 일부를 본형에 산입하기로 관여 법관의 의견이 일치 되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

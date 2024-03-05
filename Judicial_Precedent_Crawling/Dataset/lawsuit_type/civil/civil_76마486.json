@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "채권압류ㆍ전부명령경정결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1977.2.24.자",
+        "caseNo": "76마486",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채무자가 제3채무자에 대하여 갖는 농약판매 대금채권이 두개 뿐인 경우 압류 및 전부명령기재표시 중 \" 4.20부터 같은 달 4.30까지에 농약판매대금채권\" 이라고 경정할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 원결정은 이를 파기하고 사건을 원심인 서울민사지방법원 본원 합의부로 환송하기로 하고 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 사건을 서울민사지방법원 본원 합의부로 환송한다."
+        ]
+    }
+}

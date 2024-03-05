@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "출판물에의한명예훼손",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.6.14.",
+        "caseNo": "82도744",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "개인적 명예손상이 되는 사항을 기재한 종중세적을 배포한 행위와 비방의 목적"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결이 들고있는 증거를 기록에 대조하여 살펴보면 이 판시와 같은 이유로 판시 ○○서원터의 유래나 보존현항과 관계없는 피고인과 공소외인 사이의 판시사실과 같은 개인적 명예손상의 내용이 되는 사항을 광주이씨 선조들의 업적을 기리고 후손들의 귀감으로 하려는 판시 광리세적에 적어넣어 그 종원들에게 배포한 피고인에게 공소외인을 비방할 목적이 있다고 판단한 조치는 정당하게 수긍이 가고 원심판결에 논지가 지적하는 바와 같은 증거없이 사실을 인정한 위법은 논지는 따라서 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

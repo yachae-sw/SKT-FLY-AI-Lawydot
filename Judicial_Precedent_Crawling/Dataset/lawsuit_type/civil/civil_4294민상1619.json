@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "화해무효확인등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.17.",
+        "caseNo": "4294민상1619",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "구 민사소송법 에 의한 제소전 화해신청 사건에 관하여 조서 내용의 결정과정에 있어 법률상 하자가 있는 경우의 구제책"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "본건의 사실관계는 원심판결의 사실적시와 동일 하므로 원심 판결의 사실적시를 인용하고 이유는 위에서 설명 한바와 같은 이유로 본소는 부적법이므로 각하하고 소송비용의 부담에 관하여는 민사소송법 제95조 제89조에 의하여 모든 소송비용은 원고의 부담으로 한다.",
+            "본 판결은 관여법관 전원의 일치한 의견으로 이루어진 것이다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 한다."
+        ]
+    }
+}

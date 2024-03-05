@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "퇴직금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1965.6.29.",
+        "caseNo": "65다467",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "중소기업은행법 시행령 에 의하여 구 농업은행직원이 중소기업은행 직원으로 된 경우에 농업은행 퇴직으로 인한 퇴직금 청구의 당부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "같은 상고이유 제2점의 요지는 원심이 을제9호증에 의거한 것이라면 판결 취지를 오해한 것이라는데 있으나 원판결을 자세히 훑어보아도 원심이 소론 을제9호증을 인용한바는 없으므로 이점 상고논지 또한 이유없다.",
+            "그러므로 본건상고를 모두 기각할수 밖에 없고 상고소송비용은 패소자들의 부담으로 하여 민사소송법 제400조 제95조 제89조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 모두 기각한다."
+        ]
+    }
+}

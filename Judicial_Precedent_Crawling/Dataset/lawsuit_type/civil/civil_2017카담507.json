@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소송비용담보제공",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2017.9.14.자",
+        "caseNo": "2017카담507",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송에서 원고가 소송비용의 담보제공 신청을 할 수 있는지 여부 및 이는 본안소송의 항소심에서 승소한 원고가 피고의 상고제기로 피상고인이 된 경우도 마찬가지인지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 신청인은 본안소송인 대법원 2017다227837호 건물명도 사건의 원고로서 피신청인을 상대로 한 위 본안소송의 제1심 및 항소심에서 승소판결을 선고받았고 이에 피신청인이 상고하자 이 법원에 이 사건 소송비용 담보제공 신청을 한 사실을 알 수 있다.",
+            "그렇다면 이 사건 신청은 신청권이 인정되지 않는 본안소송의 원고에 의하여 제기된 것이어서 부적법하므로 이 사건 신청을 각하하기로 하여 관여 대법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건 신청을 각하한다."
+        ]
+    }
+}

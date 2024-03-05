@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "물품대금청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1980.11.11.",
+        "caseNo": "80나1494",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "자기의 상호를 사용하여 영업을 할 것을 허락한 경우에 해당된다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고는 소외 5로 하여금 자기 상호를 사용하여 영업을 할 것을 허락한 경우에 해당한다 할 것이므로 명의대여자로서 원고에게 소외 5의 영업상 거래로 인한 위 물품대금 채무중 원고가 변제받았음을 자인하여 구하는 금 6014590원 및 원고가 구하는 이사건 소장송달 다음날임이 기록상 명백한 14.부터 완제일까지 민법 소정의 연5푼의 비율에 의한 지연손해금을 지급할 의무있다 할 것이다.",
+            "따라서 원고의 이사건 청구는 정당하여 인용할 것인바 제1심 판결은 당원과 결론을 달리하여 부당하고 원고의 항소는 이유있어 제1심 판결을 취소하고 소송비용의 부담에 관하여는 민사소송법 제89조를 가집행선고에 관하여는 같은법 제199조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "제1심 판결을 취소한다."
+        ]
+    }
+}

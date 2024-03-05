@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "존속협박ㆍ특수협박",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1981.8.25.자",
+        "caseNo": "81도2110",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "검사만의 항소를 기각한 판결에 대한 피고인의 상고 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인을 위한 상소는 하급심 법원의 재판에 대한 불복으로서 불이익한 재판을 시정하여 이익된 재판을 청구함을 그 본질로 하는 것이므로 피고인은 하급 심법원의 재판이 자기에게 불이익하지 아니하면 이에 대하여 상소권을 가질 수 없다고 할 것인 바 원판결은 피고인에 대하여 징역 10월에 2년간 집행유예가 선고된 제1심 판결에 대하여 그 양형이 부당하게 가볍다는 검사의 항소는 이유없다고 하여 기각한 판결이고 피고인은 항소를 제기한 바도 없으므로 이는 피고인에게 불이익한 판결이라고 할 수 없다.",
+            "그렇다면 이 판결에 대하여 피고인은 상소권이 없다고 할 것이므로 피고인의 본건 상고는 방식에 위배한 부적법한 상고라 하지 않을 수 없으므로 형사소송법 제381조 제376조에 의하여 상고이유에 대한 판단을 할 필요도 없이 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

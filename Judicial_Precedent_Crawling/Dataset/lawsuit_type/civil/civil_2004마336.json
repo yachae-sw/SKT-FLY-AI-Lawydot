@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가압류를본압류로이전하는채권압류및추심명령",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2004.6.18.자",
+        "caseNo": "2004마336",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "지방의회의원에게 지급되는 지방자치법  의 의정활동비 등이 압류금지채권에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이러한 법리와 기록에 비추어 살펴보면 지방의회의원인 재항고인의 의정활동비 여비 회기수당이 민사집행법 제246조 소정의 채권에 해당하지 않는다고 판단한 원심의 조치는 옳고 거기에 지방자치법 또는 압류금지채권에 관한 법리오해 등의 위법이 있다고 할 수 없다.",
+            "또한 관계 법령과 기록에 비추어 살펴보면 재항고인이 주장하는 사유만으로는 의정활동비에 대한 압류가 금지된다고 볼 수 없고 법률상 양도가 금지된 것도 아니라고 판단한 원심의 조치도 옳은 것으로 수긍이 가고 거기에 채권양도 또는 압류에 관한 법리오해 등의 위법이 있다고 할 수 없다.",
+            "그러므로 재항고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

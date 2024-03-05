@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.12.6.",
+        "caseNo": "66마974",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "요건을 갖추지 않은 공시송달의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민사소송법 제179조의 요건에 해당하지 아니함에도 불구하고 재판장이 직권 또는 당사자의 신청에 의하여 공시송달을 명하여 같은법 제180조 이하의 절차가 취하여진 경우에는 그 공시송달은 법률상 송달로서의 효력을 발생한다고 함이 본원이 취하는 해석인 바 원결정에서 논지가 말하는 재항고인들에게 대한 경매기일의 공시송달은 공시송달의 요건에 해당하지 아니한다손 치드라도 송달로서 당연 무효라고 할수 없으니 경매기일 통지의 효력을 발생하였다고 판시하였음은 적법하며 논지 이유없다.",
+            "이에 관여법관의 일치한 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 모두 기각한다."
+        ]
+    }
+}

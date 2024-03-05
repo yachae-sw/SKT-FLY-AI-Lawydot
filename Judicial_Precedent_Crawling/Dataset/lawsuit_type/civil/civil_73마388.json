@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1973.5.23.자",
+        "caseNo": "73마388",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경매기일공고가 부적법한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하여 이사건 경매법원이 경매기일공고라고 게시한 내용 중에 경매목적물의 표시를 보면 그중 건물에 대한 부합물에 관하여 세멘부록조스레트즙 물치 건평 7평-5.3평 세멘부록조루핑평가건 창고 건평 9평-12.4평세멘부록조 도단즙 평가건 변소 1동 1평-0.5평 목조 선라이트즙 평가건물치 약 3평이라고 되어 있다.",
+            "이러한 경매기일공고는 경매부동산을 특정하지 아니한 상태에서 공고한 것이므로 적법인 공고라고 볼 수 원심은 직권에 의하여 이러한 점을 심리하였어야 마땅하겠거늘 이점을 간과하고 있으므로 원심결정을 파기하되 이 사건은 당원이 직접 재판하는 것이 상당하다고 인정되므로 부동산의 표시에 관하여 경매기일공고를 제대로 하지 아니한 채 경락허가결정을 선고한 제1심법원의 결정을 취소하기로 이 결정에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심결정을 파기한다."
+        ]
+    }
+}

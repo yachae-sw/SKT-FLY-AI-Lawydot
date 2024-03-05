@@ -1,0 +1,47 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "이송신청각하결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1973.9.26.자",
+        "caseNo": "73마815",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": []
+    },
+    "dcss": {
+        "courtDcss": [
+            "민사소송법 제16조 제1항에 의하면 불법행위에 관한 소는 그 행위지의 법원에 제기할 수 있다고 규정하고 있는바 기록에 의하면 상대방은 서울동대문 시장에서 청과 등의 위탁판매업을 하는데 재항고인이 제주에서 생산되는 밀감을 사서 보내주겠다고 상대방을 기망하여 이에 속은 상대방은 동시 창신동 소재 ○○여관에서 금 2000000원을 사취당하였다고 주장하면서 재항고인을 상대로 불법행위로 인한 손해배상 청구소송을 서울민사지방법원에 그런데 상대방이 주장하는 항고인의 불법행위지가 서울이므로 서울민사지방법원에 관할이 있다고 본 원심판단은 정당하고 재항고인의 주소지가 제주도이므로 서울민사지방법원에는 관할이 없다는 소론 논지는 이유없다 할 것이다.",
+            "그러므로 재항고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

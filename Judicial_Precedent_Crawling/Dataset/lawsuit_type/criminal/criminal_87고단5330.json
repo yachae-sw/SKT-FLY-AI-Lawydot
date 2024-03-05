@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "도로운송차량법위반",
+        "courtNm": "부산지법",
+        "judmnAdjuDe": "1988.2.3.",
+        "caseNo": "87고단5330",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "도로운송차량법  소정의 운행행위의 주체"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 결국 이건 공소사실은 죄가 되지 아니하는 경우에 해당하므로 형사소송법 제325조 전단에 의하여 무죄를 선고하는 것이다.",
+            "이상의 이유로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인은 무죄"
+        ]
+    }
+}

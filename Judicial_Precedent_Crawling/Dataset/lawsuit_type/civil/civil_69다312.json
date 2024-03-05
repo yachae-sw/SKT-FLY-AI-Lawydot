@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "건물철거등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.4.29.",
+        "caseNo": "69다312",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "건축법 개정법률 의2는 같은 개정법률 시행 이전에 건축된 건축물에 대하여도 적용된다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "건축법 개법률 제53조의2는 1967.3.30 같은 개정법률이 공포시행 이전에 건축된 건물이라 하더라도 사실심 변론종결 당시 그 건축물이 상업지역안의 방화지구에 있고 그 인접지와 의 경계에 방화벽이 축조되어 있는 경우에는 이와 같은 건축물에 대하여도 같은 개정법률의 적용을 받아 민법 제242조의 적용을 배제한다 함이 당원이 이 사건에 있어서 이미 밝힌 바 있는 견해이므로  반대의 견해에 입각하여 같은 개정법률이 공포되기 전 7년전에 이미 준공된 이 사건 건물에는 같은 개정법률이 적용될 수 없다는 논지는 채택될 수 없다.",
+            "그러므로 상고를 기각하고 소송비용은 패소자의 부담으로 하기로 하여 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

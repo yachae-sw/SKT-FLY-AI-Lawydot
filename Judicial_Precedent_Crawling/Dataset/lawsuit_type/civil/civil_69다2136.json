@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.5.12.",
+        "caseNo": "69다2136",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "친생자 아닌 사람은 가사 다른 사람의 호적에 친자로 등재되고 양육되어 온 것이라 하여도 그 사람은 위 다른 사람과 직계 존비속관계나 친족관계가 없는 것이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결이 확정한 사실에 의하면 피해자 망 소외 1은 원고 1과 내연관계에 있는 소외 2가 다른 남자와 교제 잉태한 뒤 원고 1 집에 들어와서 출생하고 원고들의 친자로 호적상 등재하여 양육하여 온 것이라 함으로 소외 1과 원고들 사이에는 사실상으로나 법률상으로 친자관계나 친족관계가 있다고는 할 수 없을 것이니 원심이 이와 같은 취지에서 원고들이 이 사건에서 민법 제752조를 근거로 하여 피고에게 대하여 손해배상을 청구하는 것은 이유 없다고 판단한 것은 정당하고 이를 근거없이 논난하는 상고논지는 채택할 수 없다.",
+            "이리하여 상고를 이유없다하여 기각하기로 하고 상고 소송비용의 부담에 관하여 민사소송법 제95조 제93조 제89조를 적용하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

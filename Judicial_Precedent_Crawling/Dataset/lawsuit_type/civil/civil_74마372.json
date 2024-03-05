@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "항소장각하명령",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1974.11.25.자",
+        "caseNo": "74마372",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "3면소송에서 패소한 2당사자가 공동으로 낸 항소장에 붙인 인지를 두당사자가 균등액씩 부담한 것으로 보고 양인에게 각 부족액의 보정을 명한 것의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "소가가 동일한 목적물을 두고 버리는 3면소송에서 판결에 불복한 두 당사자가 있어 공동으로 낸 항소장에 붙인 민사소송법상의 인지는 두 당사자가 균등액씩 부담한 것으로 보아야 할 것이니 원심이 이 사건에서 한장으로 낸 피고와 독립당사자참가인 양인의 항소장에 붙인 소송용 인지를 양인의 균등으로 붙인 것으로 보고 각 부족액의 보정을 양인에게 명하고 이에 안 따른 재항고인의 항소장을 각하한 조치는 정당하니 거기에 소론 위법이 그러므로 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

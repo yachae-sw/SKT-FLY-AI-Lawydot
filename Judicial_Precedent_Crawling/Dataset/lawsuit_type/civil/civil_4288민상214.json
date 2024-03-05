@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "이혼",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.7.28.",
+        "caseNo": "4288민상214",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민법의 유서와 실험법칙"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 부부가 가정불화로 인하여 일시 별거하다가 감정의 융화로 다시 동서을 계속하였을지라도 이로써 부가 그 후에 탐지한 처의 간통을 유서하였다고 인정할 실험상의 법칙은 없는 것이다 원판결이 확정한 사실은 원고의 처인 피고는 단기 4284년 5월경부터 약반년간에 걸처 소외인과 간통하였는 바 원고는 원피고가 다시 동서를 시작한 후인 단기 4287년 6월경에 이를 탐지하였다 하는 것이므로 원심이 간통에 대한 원고의 유서가 있었다고 인정하지 않었음은 정당하고 원판결에 실험법칙에 위배된 위법이 있다는 논지는 이유없다",
+            "그러므로 본건 상고는 이유없다 인정하여 민사소송법 제401조 제95조 제89조에 의하여 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 상고를 기각한다"
+        ]
+    }
+}

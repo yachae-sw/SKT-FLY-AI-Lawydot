@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산저당권설정등기말소등기절차이행청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1957.7.1.",
+        "caseNo": "4290민공372",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부동산대물변제의 효력발생시기"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원고는 그 주장과 여한 금원의 공탁으로 인하여 우 채무는 완전변제 되었다고 주장하므로 이 점에 대하여 검토하건대 원고주장과 여한 금원의 공탁이 있었으며 동 금원이 본건 원금 8000환에 관한 원리금 및 동 공탁에 지하기까지의 간의 동 원리금 지불지체로 인한 손해상당액의 총합계액에 해당하는 금원임은 피고에 있어 인정하는 바이므로 우 원고의 주장은 이유있다 할 그렇다면 원고주장과 여히 우 채무는 소멸된 것이고 본건 저당권 역시 이로 인하여 소멸되었다 할 것이므로 피고에 대하여 그 등기의 말소등기절차이행을 구하는 원고의 본소청구는 이유있음에 귀함으로 이를 인용하여야 할 것인바 이와 취지를 달리하는 원판결은 부당하다 할 것이므로 민사소송법 제386조에 의하여 이를 취소하고 소송비용의 부담에 관하여는 동법 제96조  동 제89조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

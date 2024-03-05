@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "무고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2003.6.26.자",
+        "caseNo": "2003도2008",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "검사가 상고한 경우 상고이유서 제출 명의인",
+            "상고를 제기한 검찰청 소속 검사가 상고이유서를 제출한 경우 법정기간의 연장 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 사건에서 보면 원심법원에 대응하는 광주지방검찰청 소속 검사가 상고를 제기하고 이 법원이 대검찰청 소속 검사에게 소송기록접수통지를 하여 그 송달이 되었는데 대검찰청 소속 검사는 상고이유서를 제출하지 아니하였고 상고한 광주지방검찰청 소속의 검사는 상고이유서 제출기간이 지난 상고이유서를 제출하였으며 상고장에도 상고이유의 기재가 없다.",
+            "그러므로 상고를 기각한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

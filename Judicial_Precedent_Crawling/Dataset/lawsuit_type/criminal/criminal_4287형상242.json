@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "병역법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.7.15.",
+        "caseNo": "4287형상242",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "군법의 적용자와 법원의 재판권"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨대 전시 상고취의 요지는 피고인은 현재 군인으로서 입영중이므로 보통재판소인 법원에는 재판권이 없다는 논지인듯 하나 군법 피적용자라도 국내에서 민간 법령에 위반하여 보통법원에 기소된 때에는 군지휘관은 범인의 인도체포등 사법관에 극력협조하여야 한다는 국방경비법 제4조 제1항의 규정은 이러한 피고사건은 보통 법원에 재판권 있음을 전제로 한 것이므로 상고취의는 이유없다 따라서 형사소송법 부칙 제1조 법령 제181호 호에 의하여 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 상고를 기각한다"
+        ]
+    }
+}

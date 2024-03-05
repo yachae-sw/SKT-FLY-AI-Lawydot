@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강간치상피고사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1973.5.17.",
+        "caseNo": "73노403",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "강간치상죄의 성립요건"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 형사소송법 제364조 제4항에 의하여 피고인의 항소를 기각하고 형법 제57조에 의하여 당심의 판결선고전 구금일수중 80일을 원심선고형에 산입하기로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

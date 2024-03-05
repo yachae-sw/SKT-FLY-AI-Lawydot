@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.9.26.",
+        "caseNo": "67다1710",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부상으로 인하 안검경련 안시기능 장해가 농업노동 능력에 미치는 영향"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "육체노동을 주로하는 농업노동에 종사하는 자라 하여 그의 안검경련 안시기능의 장해같은 것들은 그 노동능력에 영향을 미칠수 없는 것이었다고는 할 수 없는 바이고 일방 기록상 원판결이 그가 채택한 각 증거들을 종합하여 원고 1이 그 판시와 같은 본건 사고로 인하여 망막박리좌의 부상을 입었고 그 부상으로 인한 안경경련안시 기능장해 때문에 그가 장차 종사할수 있는 농업노동에 있어서의 20퍼센트 정도의 노동능력을 상실하게 되었던 것이라는 사실을 인정한 조치에 어떠한 위법이 있었다고 의심할만한 사유도 발견되지 않는 바이니 위 조치를 논난하는 본 논지를 받아들일수 없이 관여법관 전원의 일치한 의견으로 민사소송법 제400조 제384조 제95조 제89조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

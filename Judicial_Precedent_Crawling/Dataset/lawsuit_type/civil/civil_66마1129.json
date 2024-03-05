@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "경매개시결정이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.12.30.자",
+        "caseNo": "66마1129",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무권대리인이 제기한 항고의 무효와 추인"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 무권대리인의 행위는 무효이기는 하나 후일 본인 또는 진정한 대리인이 추인하면 소급하여 유효하게 되는 것이고 또 무권대리인의 행위라하여 반드시 본인에게 불이익한 것만은 아니므로 추인을 얻을 여지가 있는 사건에 있어서는 기간을 정하여 그 보정을 명하여야 하는 것임에도 불구하고 원심이 항고 기간이 경과한 후에는 본인도 추인할 수 없는 것같이 오해하여 보정을 명함이 없이 본건 항고를 각하하였음은 잘못이라 아니할 수 없고 이점에 관한 논지는 이유있다 할 것이다.",
+            "그러므로 관여법관의 일치한 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고"
+        ]
+    }
+}

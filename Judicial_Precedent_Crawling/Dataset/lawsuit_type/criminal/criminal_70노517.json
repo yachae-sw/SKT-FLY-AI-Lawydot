@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "공문서위조등피고사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1971.9.24.",
+        "caseNo": "70노517",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "공무원이 아닌 자가 허위공문서작성죄의 간접정범이 될 수 있는지의 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이건 공소는 다름아닌 간접정범에 의한 허위공문서작성으로 볼 것인 바 나아가 이건 공소사실이 죄가 되는지의 여부에 관하여 검토하면 「 형법에 228조에 간접정범에 의한 허위공문서작성을 처벌하는 규정을 두고 그 형을 같은법 227조 보다 훨씬 가볍게 하고 있는 취지로 보아 228조에 정한 사유에 해당하지 않는 한 죄가 되지 않는다고 볼 것이다.」",
+            "따라서 피고인에 대한 공문서위조 간접정범에 의한 허위공문서작성은 형법 228조에 해당하지 않으므로 결국 죄가 되지 않는다 할 것이고 따라서 동행사의 점도 죄가 되지 않는다 할 것인 바 이와 같은 취지의 원심판결에 아무런 법리오해가 있다 할 수 없고 이와 다른 견해에 입각한 논지는 이유없어 받아 들일 수 없으므로 이건 항소를 기각하기로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

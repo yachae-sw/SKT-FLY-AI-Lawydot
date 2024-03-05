@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1964.12.1.",
+        "caseNo": "64다1151",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사실인정의 종합증거자료의 하나로 채택한 증언을 한 증인이 위증죄의 유죄판결을 받았을 때와 민사소송법  "
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 원심판결문 전체의 취지는 증인 소외 2의 증언중 허위진술이 아닌 부분과 전 항소심판결이 거시한 위에 적은 다른 증거를 종합하여도 확정판결의 결론과 같은 결론이 나올 수 밖에 없다고 판시하고 있으므로 위와 같은 설명은 결국 본건에 있어 재심의 사유가 있다 하여도 확정판결을 정당하다고 인정한취지로 못 볼바도 아니요 원심의 위와 같은 인정은 결국 정당하다고 인정되므로 반대의 견해로 본건에 있어 매매예약이 성립되었다는 전재하에 원심의 적법한 증거취사 선택을 비난하는 원고소송 대리인의 상고논지는 이유없다.",
+            "그러므로 관여한법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

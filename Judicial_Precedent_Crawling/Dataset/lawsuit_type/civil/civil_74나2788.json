@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1975.7.25.",
+        "caseNo": "74나2788",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "하천법에 의한 하천점용허가 개간촉진법 또는 농경지조성법령의 개간허가를 포함하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 본건 부동산에 관하여 어떤 권리가 있음을 전제로한 원고의 본소청구는 본건 부동산에 관한 소유권이 누구에게 있는가의 여부를 판단할 필요도 없이 이유없음이 그 주장자체에 의하여 분명하므로 이를 기각할 것인바 이와 결론을 같이한 원판결은 정당하고 이에 대한 원고의 항소는 이유없으므로 기각하며 소송비용은 패소자인 원고의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고의 항소를 기각한다."
+        ]
+    }
+}

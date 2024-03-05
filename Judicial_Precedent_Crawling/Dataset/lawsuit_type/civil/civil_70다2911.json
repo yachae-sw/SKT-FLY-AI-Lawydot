@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.2.9.",
+        "caseNo": "70다2911",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "간이절차에 의한 귀속해제 결정을 받은 때에는 그 후 법률 에 의한 법무부장관의 확인을 받지 아니하였다 하여도 곧 확정적으로 귀속재산으로 환원되는 것은아니다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "과도정부 중앙관재처로 부터 간이소청절차에 의한 귀속해제결정을 받은 뒤에 법률 제120호에 의한 법무부장관의 확인을 받지 아니하였다 할지라도 그 부동산이 논지가 말하는 바와같이 곧 확정적으로 귀속재산으로 환원되는 것이 아니요 다만 귀속해제결정이 있기 전의 형식적인 귀속상태로 환원되는데 불과한 것이다.",
+            "이러한 취지로 판시한 원심판단은 정당하고 이것과 다른 취지로 이론을 전개하는 논지는 채용할 수 그렇다면 이 상고는 그 이유없으므로 기각하고 상고비용은 패소자의 부담으로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각한다."
+        ]
+    }
+}

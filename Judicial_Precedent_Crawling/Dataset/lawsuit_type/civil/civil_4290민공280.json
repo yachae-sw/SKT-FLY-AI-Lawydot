@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부당이득금반환청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1957.11.6.",
+        "caseNo": "4290민공280",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "자동차사고로 구두변론기일에 출두치 못한 것이 조선민사령   소정의 당사자가 그 책에 귀하지 아니할 사유에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "본건 소송은 단기 4290.9.공소의 취하간주로 인하여 기일지정신립 이후의 소송비용은 피고의 부담으로 한다."
+        ]
+    }
+}

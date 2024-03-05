@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "항고장각하결정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.1.15.자",
+        "caseNo": "81그19",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가집행선고부 종국판결이 확정된 종국판결과 동일한 효력이 있는 재판인가",
+            "소송촉진등에 관한 특례법   소정의 '7일 이내에 이를 각하하여야 한다'의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그리고 소론은 그 외에 경락허가결정의 부당함을 말하고 있으나 이 점은 항고장이 부적법하다 하여 이를 각하한 원심결정에 대한 적중한 공격방법이라 할 수 없으니 소론은 모두 이유없어 특별항고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별항고를 기각한다."
+        ]
+    }
+}

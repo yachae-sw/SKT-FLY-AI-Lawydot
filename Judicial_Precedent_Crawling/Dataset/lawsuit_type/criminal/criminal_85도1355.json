@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사설강습소에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1986.9.9.",
+        "caseNo": "85도1355",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사교춤 교습소가 사설강습소에 관한 법률  소정의 사설강습소에 해당하는지 여부",
+            "주무관청에서 등록을 수리하지 않는다는 이유로 등록없이 사설강습소를 설립운영한 경우의 죄책"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 제1심 판결이유설시의 각 증거를 기록과 대조하여 살펴보면 피고인이 1983.9.21 서울 동대문구 제기동 857 소재 3층 건물의 지하실 약 17평에 교사 4명을 고용하여 사교춤교습소를 차려놓고 같은해 10.24까지 이를 경영해온 사실과 위 교습소에서 같은 시간에 사교춤을 교습받은 사람이 10인 이상이었던 사실을 인정하기에 충분하고 원심판결에 채증법칙을 위반한 위법이 있다고 할 수 없다.",
+            "따라서 논지는 모두 이유없으므로 상고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

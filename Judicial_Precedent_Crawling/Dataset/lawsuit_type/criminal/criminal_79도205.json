@@ -1,0 +1,52 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "배임",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1979.6.12.",
+        "caseNo": "79도205",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "양도담보 목적물의 처분이 배임죄에 해당되는 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결이 확정한 사실은 피고인이 공소외인에게 준 빚의 담보로 자기명의로 소유권을 넘겨받았던 6필지의 토지를 피고인이 처분한 4필지 땅으로 원리금을 정산하고 남았는데도 다른 2필지를 다른 데에 팔았다는 것이다.",
+            "이런 사실관계에 놓였다면 이 2필지의 토지는 피고가 그 소유자인 공소외인의 등기를 회복할 사무를 처리하는 지위에 있다 하리니 피고가 이 땅을 동인의 승낙없이 돈 345000원에 팔았다는 것이라면 소유자인 공소외인은 그만큼의 손해를 피고인의 임무위배로 말미암아 입었다고 아니할 수 없어 이 행위를 원판결이 배임으로 본 조치는 짐짓 옳고 거기에 소론 위법사유 있음은 말할 수 없다.",
+            "지적하는 판례는 본건에 적절치 못하다.",
+            "따라서 논지는 이유없고 원판결은 옳으니 일치한 의견으로 주문과 같이 판결한다.",
+            "대법관 김용철은 해외출장으로 서명하지 못한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

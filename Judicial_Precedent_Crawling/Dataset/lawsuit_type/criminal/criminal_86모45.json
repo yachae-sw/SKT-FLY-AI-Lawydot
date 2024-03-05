@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "재판의해석에관한이의신청기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1986.9.26.자",
+        "caseNo": "86모45",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형사소송법  소정 의의신청사유"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "형사소송법 제488조의 규정은 판결의 취지가 명료하지 아니하여 그 해석에 대한 의의가 있는 경우에 적용되는 것이고 재판의 내용자체를 부당하다고 주장하는 것은 이에 해당되지 아니한다 할 것이다.",
+            "원심이 검사의 공소제기가 허위의 증거에 의한 것이고 이에 기하여 항고인에게 유죄의 판결이 선고되었으므로 이의시정을 구하기 위하여 의의신청을 한다는 취지의 주장은 위법 제488조 소정의 의의신청사유에 해당되지 아니한다 하여 항고를 기각하였음은 정당하고 거기에 소론과 같은 위법이 없으므로 논지는 이유없다.",
+            "따라서 재항고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

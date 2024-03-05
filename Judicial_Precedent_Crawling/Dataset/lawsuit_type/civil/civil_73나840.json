@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1973.12.19.",
+        "caseNo": "73나840",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고 나 그 소송대리인이 그 책임없는 사유로 출석하지 못한 것이라고 할 수 없다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이사건 항소는 위인정과 같이 2차에 걸친 당사자쌍방의 불출석으로 인하여 제5차변론기일인 1973.10.17.자로 취하된 것으로 간주할 수 밖에 없으니 피고의 이사건 기일지정신청은 이유없다 하여 이 소송의 종료를 선고하기로 하고 기일지정 신청 이후의 소송비용은 신청자인 피고의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 소송은 당사자쌍방의 불출석으로 인하여 1973.10.17 항소의 취하가 있은 것으로 간주되어 종료하였다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "약속어음금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.2.9.",
+        "caseNo": "89다카14165",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "약속어음의 액면금을 현존하는 어음면상의 기재와 달리 인정한 것이 석명권불행사 및 채증법칙위반에 해당하여 위법하다는 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고가 어음액면 부분의 변조를 주장하려면 자기가 발행한 때에 어떠한 방법으로 어떤 문자로 써 주었다는 점은 밝혀야 할 터인데 이 사건에서는 1 2심을 통하여 피고는 그저 어음액면 40만원이었는데 9845004원으로 변조되었다고 추상적인 주장을 할 뿐 그 구체적인 해명이 없는 터인데 그러한 점도 석명하지 아니한 채 원심이 위와 같이 판시한 것은 심리를 다하지 아니하고 불확실한 증거에 의하여 사실을 인정한 위법이 있다 할 것이고 이 점을 지적한 상고논지는 이에 원심판결중 원고 패소부분을 파기하여 그 부분 사건을 원심법원에 환송하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결 중 원고 패소부분을 파기하여 사건을 서울민사지방법원 합의부에 환송한다."
+        ]
+    }
+}

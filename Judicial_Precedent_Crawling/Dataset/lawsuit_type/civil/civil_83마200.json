@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "등기공무원의결정에대한이의",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.6.18.자",
+        "caseNo": "83마200",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "예고등기만의 말소신청 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "예고등기의 원인이 된 부동산소유권이전등기말소 청구소송에서 그 승소판결이 확정되었다 하더라도 이 판결에 의한 말소등기가 이루어지지 아니한 이상 그 예고등기는 말소될 수 없는 성질의 것이니 그 확정판결에 의한 말소등기를 거치지 아니한 채 예고등기만의 말소를 구하는 신청은 부동산등기법 제55조 제2가 규정하는 사건이 등기할 것이 아닌 때에 해당하므로 이러한 취지에서 본건 등기신청을 각하한 등기공무원의 처분을 정당하다 고 한 원심결정 또한 정당하며 견해를 달리하는 소론은 채택할 바 못된다.",
+            "그러므로 재항고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

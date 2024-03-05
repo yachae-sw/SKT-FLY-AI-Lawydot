@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.11.29.",
+        "caseNo": "66다1871",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "손해금 산정에 있어 \"호프만식계산법\"과 \"라이프니츠식계산법\""
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 타인의 불법행위로 인하여 장래 얻을 수 있는 수입을 못얻게 되는 것을 이유로 그 손해금을 현재 일시에 청구하는 경우에는 은행거래 또는 일반 금전거래의 경우와는 달라서 채권자가 그 채권을 복리로 이식할 것을 생략할 필요는 없는 것이어서 원심이 호프만식 계산법에 의하여 중간이식을 공제하였음은 정당하다할 것이고 라이프니츠식 계산법에 의하여 복리계산을 하지 아니하였다 하여 잘못이라 할 수 없을 것이므로 논지는 독자적 견해로 채용할 수 없다할 것이다.",
+            "그러므로 본건 상고를 기각하고 상고 소송비용은 패소자의 부담으로하여 관여법관의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

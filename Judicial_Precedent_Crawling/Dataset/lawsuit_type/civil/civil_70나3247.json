@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1971.4.28.",
+        "caseNo": "70나3247",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "국가배상법상 공무원의 직무집행중의 불법행위에 해당하지 않는다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 위 사고는 소외 1이 사사로히 근무지를 이탈하려는 것이 도화선이 되여 피해자인 망 소외 2와 싸우다가 야기된 것인 이상 이를 소외 1의 직무집행중의 행위라거나 직무와 관련하여 야기된 것이라고 볼 수 없다 할 것이므로 소외 1의 행위를 직무집행중의 행위임을 전제로 한 원고의 국가에 대한 이 사건 손해배상청구는 더나아가 판단할 필요없이 이유없어 이를 기각하기로 하는 바 이와 결론을 달리한 원판결은 실당하므로 민사소송법 제386조에 의하여 이를 취소하고 소송비용의 부담에 관하여는 같은법 제96조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결의 피고 패소부분을 취소한다."
+        ]
+    }
+}

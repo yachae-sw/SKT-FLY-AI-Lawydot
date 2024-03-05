@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.5.17.자",
+        "caseNo": "66마281",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "집달리가 한 경매부동산의 감정"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "경매법원이 부동산 싯가감정의 전문적 지식이 없는 집달리의 감정가격만을 표준으로 하여 경락을 허가한 것은 부당하니 다시 감정을 명하여 재경매를 실시하여 주기 바란다고 함에 있다.",
+            "그러나 집달리라 할지라도 경매법원이 그 감정능력을 인정하고 그에게 경매부동산의 평가를 명하였을 경우에는 특별한 사정이 없는 한 그 평가액은 적법한 최저가격이라고 할 것이고 달리 그 평가가 불공정하였다고 인정할 만한 아무런 사유도 발견할 수 없는 본건에 있어서는 논지는 이유 없다고 할 것이다.",
+            "그러므로 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1979.10.20.자",
+        "caseNo": "79마139",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "농지매매증명의 발급관서"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "지방자치에관한임시조치법 제5조 같은법 시행령 제1조 제1호 농지개혁법시행규칙 제51조 참 이 점을 조사하지 아니하고 제1심의 경락허가결정을 정당한 것으로 유지한 원심결정은 위법하다고 할 것이므로 원결정을 파기하고 사건을 서울민사지방법원 본원 합의부로 환송하기로 하고 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고 사건을 서울민사지방법원 본원 합의부로 환송한다."
+        ]
+    }
+}

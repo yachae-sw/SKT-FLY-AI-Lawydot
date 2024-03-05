@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강간치상,폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.9.24.",
+        "caseNo": "85도1533",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소심 판결당시 미성년이었으나 상고심계속중 성년이 된 자에 대한 부정기형 선고의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "다음으로 피고인의 상고이유에 관하여 살피건대 피고인에 대하여 징역 단기 2년 6월 장기 3년이 선고된 이 사건에 있어서 형의 양정이 부당하다고 하는 것은 형사소송법 제383조의 규정에 비추어 볼때 적법한 상고이유가 될 수 없고 또 상고심의 심판대상은 항소심판결 당시를 기준으로 하여 그 당부를 심사하는데 있는 것이므로 항소심판결 당시 미성년인 피고인에 대한 부정기형의 선고는 피고인이 그 후 상고심 계속중에 성년이 된다 하더라도 위법이 될 수 없는 것이므로 정기형의 선고를 바란다는 논지 또한 이유없다.",
+            "따라서 상고를 기각하고 형법 제57조에 의하여 미결구금일중 일부를 본형에 산입하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

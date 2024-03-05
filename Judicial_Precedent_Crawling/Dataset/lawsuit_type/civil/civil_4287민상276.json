@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.2.10.",
+        "caseNo": "4287민상276",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "공증인의 확정일자인 있는 서증의 증거력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 본건 상고는 이유없다 인정하여 민사소송법 제401조 제95조 제89조에 의거하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건상고를 기각한다."
+        ]
+    }
+}

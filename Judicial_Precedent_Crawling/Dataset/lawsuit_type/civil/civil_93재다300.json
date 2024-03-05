@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "임금등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1993.10.26.",
+        "caseNo": "93재다300",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송법    소정의 \"재심을 제기할 판결이 전에 선고한 확정판결과 저촉되는 때\"의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민사소송법 제422조 제1항 제10호 소정의 \"재심을 제기할 판결이 전에 선고한 확정판결과 저촉되는 때\"라 함은 전에 선고한 확정판결의 기판력이 재심대상판결의 당사자 및 소송물과의 관계에서 미치는 경우만을 뜻하는 것인바 원고들이 내세우는 확정판결은 이 사건과 사안의 내용이 유사할 뿐 당사자나 소송물을 달리하고 있어 재심대상판결과 저촉되는 것이라고 할 수 없으므로 재심대상판결에 민사소송법 제422조 제1항 제10호 소정의 재심사유가 있다고 볼 수 없다.",
+            "그렇다면 원고들의 이 사건 재심청구는 이유가 없는 것임이 명백하므로 이를 기각하고 재심소송비용은 패소자인 원고들의 부담으로 하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재심청구를 기각한다."
+        ]
+    }
+}

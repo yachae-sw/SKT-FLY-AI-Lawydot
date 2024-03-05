@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.12.26.",
+        "caseNo": "67다2492",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "1950에 사망한 자의 사후양자로 1965.10.25 입양한 자의 유산상속권"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그런데 현행민법 시행 전에는 구 조선민사령 제11조에 의하여 상속에 관하여서는 별단의 규정이 있는 경우를 제외하고는 관습에 의하기로 되어 있으므로 본건에 있어서 구민법 제1051조 제1052조가 적용될 수는 없다고 할 것이므로 위 양 조문이 적용된다는 전제에서 원판결을 비난하는 논지는 이유없고 원판결이 망 소외 1 2가 1950년에 사망하고 상속인 없이 상당한 기간이 경과한 연후인 1965.10.25 에 원고가 망 소외 1의 사후 양자가 되었다고 하여서 망 소외 1 2 소유이며 호주 상속인의 특권재산에 해당하지 아니하는 본건 토지를 상속할 수는 없다고 판시한 것은 따라서 논지 이유없다.",
+            "이에 상고는 이유없으므로 기각하고 소송비용은 패소자의 부담으로 하여 관여법관의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

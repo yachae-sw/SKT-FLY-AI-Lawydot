@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.4.12.",
+        "caseNo": "80다3251",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "내심의 의사에 반한 소취하의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원고의 이 사건 기일지정신청 이유의 요지는 위 취하서는 원고의 진정한 의사에 의한 것이 아니므로 무효라는 것이나 그와 같이 인정할 자료도 없을 뿐 아니라 당사자의 소송행위는 일반 사법상의 행위와는 달리 내심의 의사보다 그 표시를 기준으로 하여 그 효력유무를 판정할 수밖에 없는 것이므로 이 사건 소의 취하가 원고의 내심의 의사에 반한 것이라고 하더라도 이를 무효라고 볼 수는 없다.",
+            "결국 이 사건 소송은 원고의 1981.1.26자 소취하에 의하여 종결되었음이 분명하므로 그 종결을 선고하고 기일지정신청 이후의 소송비용은 원고의 부담으로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건 소송은 원고의 1981.1.26자 소취하에 의하여 종결되었다."
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사기,사기미수,유가증권위조,유가증권위조행사",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1986.10.14.",
+        "caseNo": "86도1501",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채무이행을 연기받는 것이 재산상 이익에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 인용한 제1심판결이 들고 있는 증거들을 종합하면 원심판시의 각 사실을 넉넉히 인정할 수 있다.",
+            "채무이행을 연기받는 것도 재산상의 이익이 되는 것인즉이와 상치되는 논지는 이유없고 그밖에 원심판결에 심리미진 이유불비 또는 채증법칙위배로 인한 사실오인이나 논지가 주장하는 바와 같은 법리를 오해한 위법이 있다고 할 수 없으므로 논지는 모두 이유없다.",
+            "따라서 상고를 기각하고 상고후의 미결구금일수중 일부를 본형에 산입하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다.",
+            "김형기는 해외출장으로 인하여 박우동"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

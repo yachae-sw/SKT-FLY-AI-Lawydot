@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "경작권확인",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1963.3.28.",
+        "caseNo": "63다32",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "정부의 농지 사용목적 변경인허의 범위와 농지개혁법 시행령 ",
+            "농지개혁법 시행규칙  소정기간을 경과한 후에 한 농지 사용목적 변경신청에 대한 농림부장관의 인허의 효력",
+            "농지사용목적 변경 인허 후의 그 농지에 대한 임대차 또는 매매와 그 인허의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 민사소송법 제400조 제95조 제89조 제93조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "과수원인도등청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1957.12.28.",
+        "caseNo": "4290민공753",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "명의수탁자와 제3자간의 분배농지매매계약의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 원고의 본소청구는 이여의 판단을 기다릴 필요도 없이 이유있으므로 이를 인용하고 피고의 반소청구는 이유없으므로 이를 기각하여야 할 것임에도 불구하고 이와 결론을 달리한 원판결은 부당하므로 그 취소를 면치 못할 것이니 원고의 공소는 다만 원고의 가집행선언은 그 필요없는 것으로 이에 민사소송법 제386조  제89조  제96조에 의하여 주문과 여히 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

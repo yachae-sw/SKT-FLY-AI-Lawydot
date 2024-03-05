@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.9.5.",
+        "caseNo": "67다1226",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사망자가 앞으로 58세 9월까지 생존할 것으로 인정하면서 기대가능수익을 60세 까지로 산정한 모순이 있는 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "본건 사고가 전투임무수행 중에 발생하였다 하여 군무수행중의 공무원의 고의 또는 과실에 인한 불법행위의 성립을 저각할 이유가 없으므로 전투임무수행중의 사고이니 위법성이 없다는 상고논지는 이유없다.",
+            "같은 상고이유 제2점에 대한 판단",
+            "원판결을 검토하면 본건 사고피해자 소외인의 사망당시 23세7월이었고 이러한 한국인 남자의 생존여명은 35년 2월이므로 앞으로 58세 9월까지 생존할 것이 기대된다는 사실을 인정하면서 동 피해자의 60세까지 가동할 수 있음을 전제로 60세까지의 기대가능수익을 산정하였음은 판결이유에 모순이 있어 이유불비의 위법을 면치 못할 것이다.",
+            "그러므로 원판결을 파기하기로 하여 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결 중 피고패소부분을 파기한다."
+        ]
+    }
+}

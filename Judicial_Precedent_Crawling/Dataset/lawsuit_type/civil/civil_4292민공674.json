@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "위자료청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1960.4.15.",
+        "caseNo": "4292민공674",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "간통을 종용하고 유서한 자가 부권침해로 인한 위자료청구를 할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "과연이면 원고는 사전에 소외 1에게 대하여 타인과의 간통을 종용하였고 또한 사후에 피고에 대하여 기를 유서하였으므로 피고가 원고 처와 간통하였다 할지라도 이는 곧 원고의 자기처에 대한 정조수절요구권인 부권을 침해하였다고 할 수 없으므로 이를 불법행위로 규정할 수 없을 뿐만 아니라 원고는 정신적 고통을 느꼈다고 할 수 없으므로 피고에게 대하여 위자료를 청구할 권리가 없다 할 것이다.",
+            "따라서 원고의 청구는 부당하므로 이를 기각할 것인바 이와 결과를 달리한 원판결은 부당하고 본건 공소는 이유있으므로 민사소송법 제386조에 의하여 원심판결을 취소하고 소송비용은 동법 제95조  제89조에 의하여 주문과 여히 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중 피고의 패소부분을 취소한다."
+        ]
+    }
+}

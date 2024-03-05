@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "도로교통법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.8.31.",
+        "caseNo": "71도1115",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "도로교통법 에 정한 불량차량운전금지 규정에서의 이른바 차주라 함은 그 차량의 법률상 소유자를 의미하는 것이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 도로교통법 제75조 제1항 제1호 제35조 소정의 정비불량차량운전금지위반죄에 있어서 그 행위의 주체인 이른바 차주는 도로운송차량법 제43조의 7 교통부고시 제1111호의 규정에 비추어 그 차량의 법률상 소유자를 지칭한다는 견해 아래 본건 차량의 법률상 소유권은 공소외인 주식회사에 속하며 피고인은 동 차량의 지입자로서 위 회사와 차량의 운영 관리에 관한 특약이 있다 하더라도 동 차량의 법률상 소유자가 아니라고 판단 하였음은 정당하며 반대의 견해로 원심 견해를 논난하는 상고 논지는 이유 없다.",
+            "그러므로 형사소송법 제390조에 의하여 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

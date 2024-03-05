@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가정법원송치결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1965.1.15.",
+        "caseNo": "64모29",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "법원이 소년법 에 의하여 사건을 관할 소년부나 관할 가정법원에 송치하는 결정을 하였을 때에는 소년법  형사소송법  에 비추어 검사는 이 결정에 대하여 항고할 수 있다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 결정에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고 사건을 서울고등법원으로 환송한다."
+        ]
+    }
+}

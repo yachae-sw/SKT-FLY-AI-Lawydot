@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사문서위조·공정증서원본불실기재·공정증서원본불실기재행사·사기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.6.28.",
+        "caseNo": "82도1823",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "문서위조 및 사기범행후 피해자와의 합의와 동 범죄의 성립여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 인용한 제1심판결 이유설시의 각 증거를 기록과 대조하여 살펴보면 원심인정의 제1심판시 피고인에 대한 범죄사실을 인정하기에 충분하다 할 것이고 그 인정과정에 논지가 주장하는 바와 같이 채증법칙을 위반하였거나 심리를 미진한 위법이 없고 일단 성립한 문서위조죄나 사기죄가 사후에 피해자와 합의를 하여 그 효과의 승인을 받았다 하여 범죄의 성립이 좌우되는 것은 아니므로 원심판결에 소론과 같은 위법 또한 그리고 양형부당에 귀착되는 사유는 이 사건에 있어 적법한 상고이유가 될 수 논지는 모두 이유없다.",
+            "따라서 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

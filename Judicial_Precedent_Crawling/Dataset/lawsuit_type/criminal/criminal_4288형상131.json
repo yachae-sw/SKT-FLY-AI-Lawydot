@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상해",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.7.8.",
+        "caseNo": "4288형상131",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "범죄사실의 불인정과 증거의 설시"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨대 본건 상해 공소사실을 인정함에 충분한 1심증인 공소외 1 동 공소외 3의 각 증언 및 의사 공소외 4 작성의 진단서의 각 기재내용이 있는데도 불구하고 원심은 이를 취신치 않는 반대증거 그 타의 이유의 설시도 없이 본건 공소사실을 인정할 만한 증명이 없다고 인정하였음은 채증법칙의 위반이라고 인정하므로 결국 상고이유 있음에 귀착하여 원판결은 파기를 면치 못하겠음으로 원심으로 하여금 다시 심리하기 위하여 형사소송법 부칙 제1조 구 형사소송법 제448조의 2에 의하여 주문과 같이 판결한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다"
+        ]
+    }
+}

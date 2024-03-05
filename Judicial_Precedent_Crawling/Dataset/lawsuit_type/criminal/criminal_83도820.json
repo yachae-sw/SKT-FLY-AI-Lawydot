@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상습절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.8.23.",
+        "caseNo": "83도820",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "확정판결의 존부를 피고인의 자백만으로 인정할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하여 살펴보면 원심판시의 소론 확정판결의 범죄사실과 이 사건 공소사실이 피고인의 절도의 습벽에서 비롯된 것이라고 판단한 원심의 조처는 수긍할 수 있고 또 위 확정판결은 엄격한 의미에서의 범죄사실과는 구별되는 것이어서 피고인의 자백만으로서도 이를 인정할 수 있다 할 것이므로 원심판결에는 소론과 같은 채증법칙 위배와 심리미진의 잘못이 있다고 할 수 논지는 이유없다.",
+            "이에 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지인도청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1981.3.6.",
+        "caseNo": "80나1052",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "당사자가 그 책임없는 사유로 인하여 변론기일에 출석하지 못한 경우에 해당하지 않는다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 당원은 이 사건이 원고의 항소취하간주로 그 소송이 종료되었음을 선언하고 변론기일 지정신청이후의 소송비용은 패소자인 원고의 부담으로 하여 이에 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건은 원고의 항소취하 간주로 그 소송이 종료된다."
+        ]
+    }
+}

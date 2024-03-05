@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "준항고에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2004.3.23.자",
+        "caseNo": "2003모126",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형사소송법 가 규정하고 있는 '범죄수사에 필요한 때'의 의미 및 판단 방법",
+            "검사의 압수처분이 위법하다고 한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심결정 이유에 의하면 원심은 검사가 이 사건 준항고인들의 폐수무단방류 혐의가 인정된다는 이유로 준항고인들의 공장부지 건물 기계류 일체 및 폐수운반차량 7대에 대하여 한 압수처분은 수사상의 필요에서 행하는 압수의 본래의 취지를 넘는 것으로 상당성이 없을 뿐만 아니라 수사상의 필요와 그로 인한 개인의 재산권 침해의 정도를 비교형량해 보면 비례성의 원칙에 위배되어 위법하다고 판단하였는바 기록과 위의 법리에 비추어 살펴보면 원심의 위와 같은 판단은 정당한 것으로 수긍이 가고 거기에 주장과 같은 압수의 요건에 관한 법리오해의 위법이 없다.",
+            "그러므로 재항고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "이송결정에대한즉시항고사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1971.8.20.",
+        "caseNo": "71라50",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "의무이행 불능으로 인한 손해배상 청구사건의 재판적"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 본건 상대방의 이송 신청은 이유없어 각하 할 것인 바 이와 결론을 달리하는 원결정은 부당하여 이를 취소하며 상대방의 이송 신청은 각하하고 항고비용의 부담에 관하여는 민사소송법 421조  95조  89조를 적용하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 취소한다."
+        ]
+    }
+}

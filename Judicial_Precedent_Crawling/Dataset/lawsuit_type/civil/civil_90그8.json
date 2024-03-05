@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산임의경매",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.3.27.자",
+        "caseNo": "90그8",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부동산임의경매절차에 있어서 경락대금교부표에 따라서 경락대금이 부당하게 교부된 경우 이를 다투는 방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 소액임차보증금의 교부를 요구한 특별항고인의 신청을 받아들이지 아니한 채 경락대금의 지급절차를 마친 원심결정의 취소를 구하는 취지의 이사건 특별항고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별항고를 기각한다."
+        ]
+    }
+}

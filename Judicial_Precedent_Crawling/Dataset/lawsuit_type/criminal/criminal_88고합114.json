@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강간치사피고사건",
+        "courtNm": "제주지법",
+        "judmnAdjuDe": "1988.12.23.",
+        "caseNo": "88고합114",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "강간치상죄가 성립하기 위하여는 최소한 강간죄의 실행의 착수가 있어야 하는지 여부",
+            "강간죄에 있어서 폭행·협박의 정도"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이상의 이유로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인은 무죄"
+        ]
+    }
+}

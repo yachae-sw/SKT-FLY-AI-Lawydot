@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "특수강도·특수절도·폭력행위등처벌에관한법률위반·도로교통법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.10.8.",
+        "caseNo": "85도1721",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상고심 계속중 성년이 된다는 사유를 이유로 한 상고의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 상고는 이유없으므로 이를 기각하고 형법 제57조에 의하여 상고후의 미결구금일수중 일부를 본형에 산입하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

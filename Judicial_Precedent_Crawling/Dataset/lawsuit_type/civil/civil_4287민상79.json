@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산저당권설정등기등의회복등기절차이행",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1954.11.18.",
+        "caseNo": "4287민상79",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경매절차상의 하자와 경락의 효과"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 저당권 실행으로 인한 경매절차에 있어서 해절차를 실행한 권리가 실체상 존재하는 한 설령 그 절차에 하자가 있다 하더라도 경락허가결정이 확정한 이상 해경매를 무효라 하여 경락의 효과를 부정할 것이 본건에 있어서 2심저당권자인 피고가 경매를 신청할 시 3심 저당권자이며 기후 해부동산소유권을 취득한 이해관계자인 원고에게 경매기일을 통지하지 않은 채 절차를 진행시킨 하자가 있다 할지라도 기히 피고를 경락인으로 하는 경락허가결정이 확정한 이상 해경매를 무효로 하여 경락의 효과로 인한 피고의 소유권취득을 부정할 것이 아님은 모두 설명한 바에 의하여 원판결의 귀결은 우 설시의 취지에 문합한 것으로서 독자의 견지에 입각하여 원판결을 비난하는 논지는 채용할 수 없다」 그러므로 민사소송법 제401조 제89조 제95조에 의하여 주문과 여히 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건상고를 기각한다."
+        ]
+    }
+}

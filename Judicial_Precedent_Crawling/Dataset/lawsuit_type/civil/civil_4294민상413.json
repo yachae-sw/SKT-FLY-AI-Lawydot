@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사해행위취소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.1.31.",
+        "caseNo": "4294민상413",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "수명의 피고를 상대로 사해행위 임을 이유로 하여 각 피고들 앞으로 등기된 소유권이전등기 또는 저당권 설정등기의 각기 말소를 청구한 경우와 필요적 공동소송의 해당여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원 판결을 파기 한다."
+        ]
+    }
+}

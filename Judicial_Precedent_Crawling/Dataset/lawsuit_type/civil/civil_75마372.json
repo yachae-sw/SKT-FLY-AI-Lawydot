@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "법원주사처분에대한이의신청기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1975.12.8.자",
+        "caseNo": "75마372",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소송관계인이 불실기재된 변론조서의 정정을 구하는 경우에 처리방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 원심과 1심의 각 결정을 각 파기 취소하고 이건 이의신청은 위법한 것이므로 이를 각하 하기로 하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고 제1심 결정을 이건 이의신청을 각하한다."
+        ]
+    }
+}

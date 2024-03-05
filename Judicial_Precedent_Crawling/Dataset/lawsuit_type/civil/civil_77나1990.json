@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대여미청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1978.3.9.",
+        "caseNo": "77나1990",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "백미를 대여하기로 하면서 실제로 그 시가 상당액의 금전을 교부한 경우에 있어서의 소비대차의 목적물"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "위 인정에 따르면 피고는 원고에게 원곡 백미80가마와 1973.12.30.까지의 이자미 24가마 및 위 원곡에 대한 반환일 다음날인 1973.12.31.부터 완제일까지 연 3할 6푼 5리의 비율에 의한 지연손해미를 반환할 의무가 있다 할 것이고 백미 1가마에 금 24000원인 사실은 당사자들 사이에 다툼이 없으므로 만일 위 백미에 대한 강제집행이 불능일 때는 백미 1가마당 금 24000원으로 환산한 대금을 지급해야 할 것이므로 원고의 청구는 위 인정의 범위내에서 정당하여 이를 인용하고 나머지는 이유없어 이를 기각하기로 할 것인바 원판결은 이와 일부 결론을 달리하여 부당하므로 이를 위 인정과 같이 변경하기로 하고 소송비용의 부담에 관하여는 민사소송법 제96조  제89조  제92조를 적용하여 주문과 같이 판결하는 것이다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결은 다음과 같이 변경한다."
+        ]
+    }
+}

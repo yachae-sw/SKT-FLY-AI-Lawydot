@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소송비용액확정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1999.4.13.자",
+        "caseNo": "99마875",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "승소한 공동소송인들이 지급하였거나 지급할 변호사 보수를 소송비용에 산입하는 경우 변호사 보수의 산정 방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민사소송법 제99조의2의 규정에 따라 승소한 공동소송인들이 지급하였거나 지급할 변호사 보수를 소송비용에 산입하는 경우 변호사보수의소송비용산입에관한규칙 제3조에 의하여 산정의 기초가 될 소송물가액은 각 공동소송인별로 정하여야 하며 공동소송인들을 1인의 변호사가 대리하였다 하더라도 이를 통상적인 청구의 객관적 병합과 같이 취급하여 각 공동소송인들의 소송물가액을 합산하고 그에 따라 변호사 보수를 산정할 것은 아니라 할 것이므로 같은 취지의 원심결정은 옳고 거기에 재항고이유가 지적하는 바와 같은 위법이 있다고 할 수 없다.",
+            "재항고이유는 받아들일 수 없다.",
+            "그러므로 재항고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

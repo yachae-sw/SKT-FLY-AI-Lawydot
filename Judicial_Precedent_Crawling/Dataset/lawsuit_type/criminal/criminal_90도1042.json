@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "업무상배임",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.7.24.",
+        "caseNo": "90도1042",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사회복지법인의 부회장이 서울특별시로부터 받은 보조금을 그 법인의 목적 이외에 사용한 행위가 업무상배임죄를 구성하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인이 사회복지법인 ○○○○○○○복지회 부회장로서 사회복지사업법 제13조에 의하여 서울특별시로부터 보조금을 받아 위 법인을 위하여 보관 중 판시와 같이 마음대로 신규 임용자의 임용일자를 소급하고 퇴직할 직원의 퇴직일을 늦추는 등의 방법으로 그 차액을 그 법인의 목적 이외에 사용하였다면 이는 위 법인에 손해를 가한 것이 되고 또 피고인에게 불법영득의 의사가 있었다고 보아야 할 것이다.",
+            "내세우는 판례는 이 사건과 사안을 달리하여 적절한 것이 결국 원심판결에 지적하는 바와 같은 법리의 오해나 채증법칙을 어긴 위법이 없다.",
+            "그러므로 상고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

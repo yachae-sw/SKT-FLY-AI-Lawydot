@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "전부금청구사건",
+        "courtNm": "춘천지법",
+        "judmnAdjuDe": "1987.6.26.",
+        "caseNo": "86나125",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소권의 남용으로 볼 수 있는 일부청구소송의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이 사건 소는 소권의 남용을 방지하기 위한 소액사건심판법 제18조에 위반하여 제소된 부적법한 소송이라 할 것이므로 이를 각하할 것인바 이와 결론을 달리한 원판결은 부당하므로 이를 취소하여 이 사건 소를 각하하고 소송비용의 부담에 관하여는 민사소송법 제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

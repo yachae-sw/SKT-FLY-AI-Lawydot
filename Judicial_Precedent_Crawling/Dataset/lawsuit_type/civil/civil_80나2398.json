@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가등기말소청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1981.1.28.",
+        "caseNo": "80나2398",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사해행위에 해당한다고 한 예"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 사실상 원고들의 소외 1에 대한 채권발생후에 채권자인 원고들을 해함을 알면서 소외 1이 피고와의 사이에 체결한 위 20.자로 된 매매예약은 앞에서 배척한 증거외에 위 매매예약당시 피고가 채권자인 원고들을 해함을 알지 못하였다고 인정할 수 있는 증거가 없으므로 이를 취소하여야 할 것이고 피고는 그 원상회복으로서 원고들에 대하여 별지목록기재 부동산에 관한 주문기재 가등기의 말소등기 절차를 이행할 의무가 있다 할 것이니 이를 구하는 원고들의 이 소 청구는 이유있어 이를 인용하여야 할 것인바 이와 결론을 달리한 원판결은 부당하고 원고들의 항소는 이유있어 원판결을 취소하고 소송비용의 부담에 관하여는 민사소송법 제96조 제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

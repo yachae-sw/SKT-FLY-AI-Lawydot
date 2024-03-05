@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "횡령,사기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.11.8.",
+        "caseNo": "83도2500",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "공소장의 변경과 공소사실의 동일성의 정도"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록을 살피건대 변경전의 횡령공소사실과 변경후의 사기공소사실은 그 기초되는 사회적인 사실관계가 기본적인 점에서 동일하다고 인정되므로 같은 견해에서 제1심의 공소장변경허가를 적법하다고 한 원심판결의 판단은 정당하고 의견을 달리하는 소론은 채택할 바 못된다.",
+            "제1심판결 의용의 각 증거들을 기록에 대조 검토하면 동 판시 범죄사실을 수긍할 수 있고 그 증거취사과정에 무슨 잘못이 있다고 할 수 없는바 견해를 달리하여 채증법칙 위배를 들고 있는 소론은 이유없다.",
+            "그러므로 상고를 기각하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

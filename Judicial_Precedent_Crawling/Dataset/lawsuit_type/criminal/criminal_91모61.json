@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "재심청구기각결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1991.10.22.자",
+        "caseNo": "91모61",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "재심청구인에 대한 의견진술 요청도 그의 의견진술도 없이 한 재심청구에 대한 결정의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "형사소송법 제432조에 의하면 재심청구에 대하여 결정을 함에는 청구한 자와 상대방의 의견을 듣도록 규정되어 있으므로 최소한 재심을 청구한 자와 상대방에게 의견을 진술할 기회는 주어야",
+            "그런데 기록을 살펴보면 원심은 검사에 대하여는 의견을 요청하여 그 의견을 들은 것으로 되어 있으나 재심청구인인 재항고인에게 의견을 진술할 것을 요청한 흔적이 없으므로 의견을 진술할 기회를 주었다고 할 수 없고 또 재항고인이 의견을 진술한 바도 없으므로 위법하다 할 것이고 이 점을 지적하는 논지는 이유 있다.",
+            "그러므로 재항고의 나머지 이유에 대한 판단을 할 것 없이 원심결정을 파기하고 사건을 원심법원에 환송하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심결정을 파기하고 사건을 전주지방법원 합의부에 환송한다."
+        ]
+    }
+}

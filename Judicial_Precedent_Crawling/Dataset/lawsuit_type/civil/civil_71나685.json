@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "예금지급청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1972.7.20.",
+        "caseNo": "71나685",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "통정한 허위의 의사표시에 가담한 자의 지위"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러고 보면 원고주장의 이건 거래는 결국 원고 또는 그의 남편 소외 3이 소외 1 2를 통하여 소외 4 회사에 사채를 대여하면서 그간 위 거래에 게재하여온 소외 1의 지위를 이용하여 마치 피고 조합과 간에 예금행위가 있었던 것 같이 허위통모한 것에 지나지 아니하므로 이러한 허위통모에 가담한 원고로서는 그 통모의사표시의 효과를 피고에 대하여 주장할 수 없는 이치라 할 것이다.",
+            "따라서 소외 3의 위와 같은 거래행위가 피고조합에 대한 소비기탁임을 전제로 하는 원고의 이건 청구는 그 이유없다 하여 이를 기각하여야 할 것인즉 원판결은 이와 취지를 달리하여 부당하므로 민사소송법 제386조 제95조 제89조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소한다."
+        ]
+    }
+}

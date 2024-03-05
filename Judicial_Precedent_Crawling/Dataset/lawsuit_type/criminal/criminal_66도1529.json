@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "병역법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.1.31.",
+        "caseNo": "66도1529",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "검사의 항소와 피고인의 진술없이 판결할 수 있는 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "항소심에서의 심리에 있어서 형사소송법 제365조 제1항에 의하여 피고인이 공판기일에 출정하지 아니할때에는 다시 기일을 정하여야 하고 같은조 제2항에 의하여 피고인이 정당한 사유없이 다시 정한기일에 출정하지 아니한때에는 피고인의 진술없이 판결을 할수 있도록 되어 있으며 위 규정은 피고인이 항소한 경우뿐 아니라 검사가 항소한 경우에도 다같이 적용된다고 할 것이므로 검사가 항소한 경우에는 위 규정이 적용 되지 아니한다는 논지는 독자적인 견해로서 채택될바 못된다.",
+            "이에 검사의 상고는 이유없으므로 관여법관의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "검사의 상고를 기각한다."
+        ]
+    }
+}

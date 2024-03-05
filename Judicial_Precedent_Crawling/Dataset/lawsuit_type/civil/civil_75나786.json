@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "공정인정증서무효확인(기일지정사건)청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1976.3.31.",
+        "caseNo": "75나786",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "기일의 해태가 당사자의 귀책사유에 기인한 것으로 인정된 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이건 항소는 1976.2.항소 취하로 간주되어 소송이 종료되었음이 명백하고 소송비용의 부담에 관하여는 민사소송법 제95조  제89조를 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 소송은 1976.2.항소의 취하가 있는 것으로 간주되어 종료하였다."
+        ]
+    }
+}

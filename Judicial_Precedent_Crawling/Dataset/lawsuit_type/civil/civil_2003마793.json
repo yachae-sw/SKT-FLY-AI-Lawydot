@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가압류취소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2003.6.18.자",
+        "caseNo": "2003마793",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사집행법 에 의한 본안의 제소명령위반을 이유로 가압류를 취소하여야 하는 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "같은 취지에서 원심이 피신청인이 결정이 송달된 날로부터 30일 이내에 본안의 소를 제기하여 이를 증명하는 서류를 제출하거나 이미 소를 제기하였으면 소송계속사실을 증명하는 서류를 제출하라는 내용의 제소명령을 송달받고 제소기간이 지난 20.에 본안의 소를 제기하고 가압류명령이 취소된 다음에 그에 불복하여 항고를 제기하면서 항고장에 본안의 소를 제기한 증명서류를 붙여서 제출하였다는 이유로 가압류명령을 취소한 제1심결정을 유지한 것은 옳고 거기에 재항고이유로 든 주장과 같은 잘못이 없다.",
+            "그러므로 재항고를 기각하고 재항고비용은 패소한 피신청인이 부담한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 재항고비용은 피신청인이 부담한다."
+        ]
+    }
+}

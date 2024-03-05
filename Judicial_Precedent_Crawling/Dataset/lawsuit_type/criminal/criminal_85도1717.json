@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반,특수절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1985.10.8.",
+        "caseNo": "85도1717",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "길이 35센티미터 너비 9센티미터의 각목이 폭력행위등처벌에 관한 법률   소정의 흉기 기타 위험한 물건에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 그 판시와 같이 피고인은 원심공동피고인과 공동하여 1985.1.20:40경 길이 약 35센티미터 너비 약 9센터의 각목으로 피해자의 머리 뒷부분을 때려 그 판시와 같은 상해를 입혔다는 범죄사실을 인정하여 피고인의 소위를 폭력행위등처벌에 관한 법률 제3조 제2항 제1항 제2조 제1항 형법 제257조 제1항의 죄로 의율처단한 조치를 기록에 비추어 살펴보면 정당하고 거기에 소론과 같이 사실을 그릇인정하여 법률적용을 그르친 허물이 있다 할 수 없으므로 논지 이유없다.",
+            "그러므로 상고를 기각하고 이 판결선고전의 구금일수중 일부를 본형에 산입키로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

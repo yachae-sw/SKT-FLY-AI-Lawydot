@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "경매개시결정이의에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.5.14.자",
+        "caseNo": "80마123",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경매개시결정을 취소하고 경매신청을 기각하는 결정에 대한 적법한 항고사유가 될 수 없다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 재항고인의 이 사건 경매신청의 기본이 된 근저당권의 피담보채무는 그 일부가 부존재한 것이고 나머지는 변제공탁으로 소멸하였음이 명백함에 있어서 위 피담보채무 일부부존재확인을 한 확정판결에 증거로 된 신청외인 의 증언이 위증죄로 기소되어 제1심에서 유죄의 선고를 받았다는 사실만으로써는 피담보채권이 소멸되었음을 이유로 이 사건 경매개시결정을 취소하고 재항고인의 경매신청을 기각한 1심 결정을 취소할 사유가 되지 못하는 것 이라고 하였음은 수긍되고 위법은 없는 것이며 소론 사유만으로 달리 조처할 수는 없다 할 것이므로 논지는 이유없다.",
+            "그러므로 재항고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

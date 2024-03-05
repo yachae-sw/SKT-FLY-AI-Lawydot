@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.8.27.자",
+        "caseNo": "70마417",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "금융기관의 연체대출금에 관한 특별조치법 의 2의 규정은 위헌이 아니다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 금융기관의 연체대출금에 관한 특별조치법 제5조의 2에서 연체대출금에 관한 경매절차에 있어서 경락허가결정에 대한 항고를 하고자 하는 자는 담보로서 경락대금의 10분의 3에 해당하는 현금 또는 유가증권을 공탁하여야 한다고 규정한 것은 금융기관의 특수한 사명과 책임을 완수하게 하기 위하여 금융기관의 채무자가 이유없이 변제를 지연하고 있는 연체대출금을 금융기관으로 하여금 신속하게 회수할 수 있도록 조처한 것으로서 이 법률의 규정이 헌법 제9조 제1항에 위배된다고는 볼 수 없으며 또 이 사건 항고는 1970.2.9에 원심에 접수된 것임으로  이 법률을 이 사건에 소급 적용한다는 논지는 이유없는 것이다.",
+            "이리하여 재항고를 이유없다하여 기각하기로 하고 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

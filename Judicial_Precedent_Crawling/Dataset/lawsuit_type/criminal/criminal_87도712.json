@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "국가보안법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1987.5.26.",
+        "caseNo": "87도712",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "탈출죄의 실행의 착수시기"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 우리나라 내륙에서 반국가단체의 지배하에 있는 지역으로 탈출하려는 탈출죄의 착수가 있었다고 하기 위하여서는 북괴지역으로 탈출할 목적아래 일반인의 출입이 통제되어 있는 지역까지 들어가 휴전선을 향하여 북상하는 정도에 이르러야 탈출죄의 실행에 착수하였다고 볼 것인바 이 사건에 있어서 원심이 인정하고 있는 위 각 사실만에 의하여서는 일반인의 출입이 통제되어 있는 지역까지 들어 갔다고 보기 어려움으로 필경원심판결은 심리를 다하지 않았거나 탈출죄의 착수에 관한 법리를 오해한 위법을 범하였고 위와 같은 위법은 판결결과에 영향을 미쳤다고 하지 않을 수 없다.",
+            "따라서 피고인 및 변호인의 상고이유에 대한 판단을 할 것 없이 직권으로 원심판결을 파기하고 사건을 다시 심리판단케 하기 위하여 원심법원에 환송하기로 관여법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기하고 사건을 서울형사지방법원 합의부에 환송한다."
+        ]
+    }
+}

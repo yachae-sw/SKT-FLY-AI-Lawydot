@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "등기공무원처분에대한이의",
+        "courtNm": "서울민사지법",
+        "judmnAdjuDe": "1990.11.21.자",
+        "caseNo": "90파2599",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "구청장 명의의 건물에 대한 취득세부과회시 공문이 부동산등기법   소정의 구의 장의 서면에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "별지목록 생략"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 사건 이의신청을 기각한다."
+        ]
+    }
+}

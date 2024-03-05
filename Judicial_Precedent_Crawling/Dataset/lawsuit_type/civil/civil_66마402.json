@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.7.18.자",
+        "caseNo": "66마402",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "경락허가 결정후 채무명의의 변경이 있을때"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "소론은 원결정이 있은후에 본건채무명의인 가집행 선언부 제1심판결이 서울고등법원 65나110호 판결로서 변경되었다는 사실 그 변경판결에 의한 채권액에 대하여는 적법한 변제공탁을 하였다는 사실 및 본건 강제집행에 대하여는 청구이의의 소를 제기하여 그 소송이 계속중이라는 사실등을 들어 제1심의 경락허가 결정을 유지한 원결정이 불법이었다고 논난하고 있으나 원결정후에 있는 위와 같은 사실들은 원결정에 대한 재항고의 이유는 될수없는 것들이니 그 논지를 받아드릴수 없어 관여법관 전원의 일치한 의견으로 민사소송법 제413조 제2항 제400조에 의하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

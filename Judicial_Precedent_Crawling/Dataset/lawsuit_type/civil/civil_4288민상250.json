@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가처분취소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.10.6.",
+        "caseNo": "4288민상250",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가처분의 보전목적과 취소사유"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안하니 가처분명령이 장래의 강제집행의 보전목적을 유월할 수 없음은 물론이나 가처분신청취지가 그 보전목적을 유월한 경우라도 법원은 이에 구의함이 없이 이를 심리한 후 자유로운 의견으로 보전목적 범위내에서 신청목적을 달함에 필요한 처분을 정할 수 있을 본건에 있어서 원심이 가처분취소 사유 존부에 관한 심리를 하지 아니하고 문득 그 신청취지가 보전목적을 유월한 것이라 하여 그 가처분결정을 취소한 것은 서상법리를 오해하여 다하지 아니한 것이라고 할 수 있을 논지는 결국 그러므로 본건 상고는 이유있다 인정하고 민사소송법 제407조 제1항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지인도(본소)·건물철거등(반소)",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.6.24.",
+        "caseNo": "69다650",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가옥추녀 끝 수직하의 토지부분을 제3자가 현실적으로 점유하는 특별한 사정이 있는 한 가옥 소유자는 그 토지부분에 대한 점유를 주장할 수 없다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "논지는 이유없다.",
+            "따라서 민사소송법 제400조 제395조 제384조에 의하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

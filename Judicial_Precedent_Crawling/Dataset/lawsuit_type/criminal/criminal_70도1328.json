@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "공무상보관물무효",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.8.31.",
+        "caseNo": "70도1328",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "실질적으로는 원고가 소유 운행하는 자동차라 할지라도 자동차등록부상 특정회사의 명의로 소유권 등록이 되어 있는 이상 이를 그 회사 소유의 자동차였다고 할 것이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "도로운송차량법 제5조가 자동차 소유권의 득상변경은 등록을 하여야 그 효력이 생긴다고 규정하고 있는 만큼 본건 자동차가 실질적으로는 원고의 소유로서 그 운행을 위하여 공소외 주식회사에 지입된 것이었다 할지라도 그것이 자동차 등록상 위 회사명의로 소유권등록이 되어있는 이상 이를 동 회사소유의 자동차였다고 할 것이므로 원판결이 그 자동차를 피고인의 소유가 아니었다하여 피고인에 대한 본건 공소사실에 관하여 무죄를 선고하였음은 정당하였다고 할 것인바 소론은 자동차의 소유권귀속에 관한 독자적인 견해하에 위 판결의 조치를 논난하는 것이니 그 논지는 이유없다하여 관여법관 전원의 일치한 의견으로 형사소송법 제390조 제364조 제4항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

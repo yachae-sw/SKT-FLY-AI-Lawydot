@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "집행방법이의결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.6.26.자",
+        "caseNo": "80마146",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "본집행이 집행목적달성 불가능으로 인하여 종료된 경우의 가압류 집행의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심결정이 그 이유에서 가압류와 강제집행의 효력은 연속일체를 이루게 되는 것이고 가압류는 장차의 본집행을 위한 채권보전의 목적을 가지는 것이므로 이건 본집행인 강제집행절차가 집행목적달성이 불가능하게 되어 원결정 설시와 같이 종료된 경우에는 그에 선행한 이건 가압류집행도 본집행과 그 운명을 같이 하여 그 효력을 상실한다는 취지로 판단한 조처는 적법하고 동 가압류물건의 가격이 앙등할 것등을 예상하여 가압류는 본집행과는 독립하여 유효하게 존속시켜야 한다는 논지는 그 이유없으므로 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

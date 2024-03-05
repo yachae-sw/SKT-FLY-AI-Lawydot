@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대여금등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.9.27.",
+        "caseNo": "66다1133",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "소송계속중 그 소송에 사용키 위하여 작성된 사문서의 증거능력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "논지는 결국에 있어 대차관계로 보지 아니한 원판결 판단과는 상반되는 입장에서 증거의 취사판단과 사실인정에 관한 사실심의 전권사항을 비난하는데 귀착되어 채택될 수 없다.",
+            "논지는 모두 이유없다.",
+            "따라서 민사소송법 제400조 제395조 제384조에 의하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

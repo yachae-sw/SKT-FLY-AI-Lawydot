@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "경매수속중지명령에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.11.27.",
+        "caseNo": "62마20",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "정리개시명령이 있은 경우 경매절차 중지을 명할 수 있는 채권자에게 대한 채무상환과 부당한 손해를 끼칠 염려의 유무에 관하여 적극적으로 그 이유를 설명하지 못한 심리부진과 이유불비의 위법이 있은 실례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원심결정을 파기하고 사건을 서울고등법원에 환송 한다."
+        ]
+    }
+}

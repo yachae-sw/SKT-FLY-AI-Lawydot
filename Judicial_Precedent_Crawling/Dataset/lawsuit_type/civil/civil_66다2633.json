@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1967.2.28.",
+        "caseNo": "66다2633",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소의 인용법위를 그롯친 위법이 있는 예"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 위자료 청구 부분에 관하여 보건대 원고는 망 소외 1의 사망으로 인한 위자료로서 금 10만원을 청구하고 있음에 대하여 제1심 판결은 금 5만원만 인정하고 나머지 청구는 기각하고 이에 대하여 피고만이 항소를 하였고 원고는 부대 항소도한바 없으므로 원심에는 피고의 패소부분만이 계속되어 이 부분에 관한 피고의 항소가 이유있는가 여부만이 원심의 심판범위에 속한다고 할것임에도 불구하고 원판결이 피고에게 원고에게 대한 위자료로서 금 8만원의 지급을 명하였음은 위법이므로 이 부분에 관한 논지는 이유있다.",
+            "이에 관여법관의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중 위자료 청구에 관한 피고 패소 부분을 파기하고 그 부분에 관한 사건을 서울고등법원에 환송한다."
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "압류등기말소청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1977.4.14.",
+        "caseNo": "77나7",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "체납처분에 의한 압류등기가 민사소송의 대상이 되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 국세징수법에 의한 체납처분의 일환으로 행하여진 것이 분명한 원고 주장의 이사건 압류등기는 그 압류처분에 당연무효의 사유가 없는 이상 원고 주장과 같이 체납세액을 납부하였다거나 또는 압류채권이 소멸시효 완성으로 소멸되었다 하더라도 행정청의 압류해제와 압류해제 조서를 첨부한 말소등기 촉탁에 의하여서만 말소등기 할 수 있는 것이고 민사소송으로 그 말소등기청구를 하는 것은 행정청에 대하여 그 압류처분의 해제를 구하는 것에 귀착되어 부적법하다 할 것이다.",
+            "그렇다면 원고의 이사건 소는 부적법하여 각하할 것인 바 원판결은 같은 결론이므로 항소를 기각하고 항소비용은 패소자 부담으로 하여 주문과 같이 판결한다.",
+            "별지 목록 생략"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

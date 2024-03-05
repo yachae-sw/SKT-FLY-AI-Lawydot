@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.11.24.",
+        "caseNo": "70다1148",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "국가 또는 지방자치단체라 할지라도 공권력의 행사가 아니고 순전히 대등한 지위에 있어서의 사경제의 주체로 활동하였을 경우에는 민법상의 손해배상책임이 있다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "국가배상법의 규정은 공권력의 행사에 있어서 공무원이 그 직무수행에 당하여 고의 또는 과실로 법령에 위배하여 타인에게 손해를 가했을 때 국가 또는 지방자치단체에게 그 손해의 배상책임을 지우는 경우에 적용되는 것으로서 국가 또는 지방자치단체라 할지라도 공권력의 행사가 아니고 순전히 대등한 지위에 있어서의 사경제의 주체로 활용하였을 경우에는 그 손해배상의 책임에 국가배상법의 규정이 적용될 수 없다고 함이 본원의 판례이므로 원심이 피고에게 민법상의 손해배상책임이 있다고 판시한 조처는 정당하고 위법이 없다.",
+            "그러므로 상고를 기각하고 소송비용은 패소자의 부담으로 하기로 하여 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

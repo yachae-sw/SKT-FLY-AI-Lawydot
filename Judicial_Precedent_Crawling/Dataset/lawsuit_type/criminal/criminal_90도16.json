@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.4.10.",
+        "caseNo": "90도16",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "피고인만이 항소한 사건에서 항소심법원이 제1심판결의 주형에서 그 형기를 감축하면서 압수장물의 피해자환부를 추가한 것이 불이익변경금지의 원칙에 위배되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인만이 항소한 이 사건에서 원심이 제1심판결을 파기하고 새로운 형을 선고함에 있어 피고인에 대한 주형에서 그 형기를 감축하고 제1심판결이 선고하지 아니한 압수한 장물을 피해자에게 환부하는 선고를 추가하였다 하더라도 그것만으로는 피고인에 대한 형이 제1심판결보다 불이익하게 변경되었다고 할 수 원심판결에 불이익변경금지의 원칙에 저촉되는 법리오해의 위법이 있다는 논지는 채용할 수 없는 것이다.",
+            "그러므로 상고를 기각하고 상고후의 미결구금일수중의 일부를 그 본형에 산입하기로 하여 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

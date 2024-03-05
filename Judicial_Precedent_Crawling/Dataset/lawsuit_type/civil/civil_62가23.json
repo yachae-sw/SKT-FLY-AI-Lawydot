@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "행정처분취소청구환송청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1962.7.10.",
+        "caseNo": "62가23",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "권한있는 자와 권한없는 자가 공동 명의로 한 행정처분의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "피고 공주군수에 대한 원고의 청구를 피고 공주경찰서장이 1959.10.16.자로 충청남도 공주군 우성면  별지도면표시 부위에 매장된 원고의 망부 유골을 같은 면 월미리 소재 공동묘지로 개장하라는 계고처분은 이를 취소한다."
+        ]
+    }
+}

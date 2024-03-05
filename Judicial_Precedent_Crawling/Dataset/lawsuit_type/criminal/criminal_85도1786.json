@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "향토예비군설치법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1986.3.11.",
+        "caseNo": "85도1786",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "중상으로 입원한 것이 예비군훈련을 받지 아니한 정당한 사유가 되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인이 원심이 확정한 바와 같이 중상을 입고 입원중이었다면 이 사건 훈련을 받지 아니한데에 정당한 사유가 있었다고 할 것이므로 같은 취지의 원심판결은 수긍이 가고 거기에 소론과 같은 법리오해의 위법이 있다고 할 수 논지는 이유없다.",
+            "이에 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

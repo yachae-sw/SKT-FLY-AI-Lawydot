@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "국가보안법위반ㆍ반공법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.4.10.",
+        "caseNo": "84도286",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "정황증거 내지 간접증거의 자백에 대한 보강증거능력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결 거시의 증거에 의하면 그 판시 사실이 적법히 인정되고 거기에 소론과 같은 심리미진 채증법칙 위배의 위법이 자백에 대한 보강증거는 직접증거 뿐 아니라 간접증거 내지 정황증거라도 족한 것이므로 원심판결 거시의 증거들은 피고인의 자백에 대한 보강증거가 될 수 있는 것이라 할 것이니 원심판결에 보강증거에 관한 법리오해와 채증법칙 위배의 위법이 있다는 논지는 또 원심이 확정한 사실관계에 비추어 볼때 원심판결에 소론과 같은 국가보안법 제8조 제1항 소정의 회합의 법리오해 같은법 제5조 제2항 소정의 금품수수의 법리오해의 위법이 있다 할 수 논지는 원심이 확정한 사실과 다른 사실관계를 전제로 하는 것으로서 채용할 수 논지는 모두 이유없다.",
+            "따라서 상고를 기각하고 상고후의 미결구금일수중의 일부를 본형에 산입하기로 하여 관여법관의 일치 된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

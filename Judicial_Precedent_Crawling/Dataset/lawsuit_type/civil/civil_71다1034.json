@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.10.22.",
+        "caseNo": "71다1034",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "농지개혁사업 정리에 관한 특별조치법  은 동법시행 전에 이미 분배가 완료된 농지에는 적용될수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 원판결은 이사건 토지는 위토가 아니라고 적법하게 판단하고 있으며 농지개혁사업정리에 관한 특별조치법 제2조 제2항은 이 사건 농지와 같이 이 법 시행이전에 이미 경작자에게 분배가 완료된 농지에는 적용될 수 없는 규정이라 기록에 의할지라도 원판결에는 소론과 같은 위법한 점이 없다고 본다 논지이유 없다.",
+            "이리하여 상고를 이유없다 하여 기각하기로 하고 상고 소송비용의 부담에 관하여 민사소송법 제95조 제89조를 적용하여 관여법관의 일치된 의견으로 주문과 같이 판결 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각 한다."
+        ]
+    }
+}

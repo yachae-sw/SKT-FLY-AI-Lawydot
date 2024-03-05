@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "보상금",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.2.9.",
+        "caseNo": "70다2610",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "법원이 적법한 감정가격으로서 은익 국유재산의 신고자에 대한 보상금액을 정하였다면 국유재산법시행규칙에 의하지 아니하였다 하여도 위법이라 할수 없다.",
+            "국유재산법시행령 개정 부칙   단서의 규정은 일률적으로 그 신고자가 받아야 할 보상금 총액이 100만원을 초과할 수 없다는 취지는 아니다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 상고이유는 어느것이나 채증할 수 없다하여 관여법관 전원의 일치된 의견으로서 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

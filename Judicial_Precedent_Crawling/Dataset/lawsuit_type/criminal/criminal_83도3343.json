@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강도상해ㆍ특수강도ㆍ특수강도미수ㆍ강도예비ㆍ폭력행위등처벌에관한법률위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1984.2.28.",
+        "caseNo": "83도3343",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "공동피고인의 진술의 보강증거능력 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "공동피고인의 진술은 서로 피고인의 자백에 대한 보강증거가 될 수 있는 것이므로 원심판결에 소론과 같이 보강증거없이 사실을 인정한 잘못이 있다고 할 수 없고 이 사건에 있어서와 같이 10년미만의 징역형의 선고를 받은 판결에 대하여는 형사소송법상 양형부당을 들어 적법한 상고이유로 삼을 수 없는 것이니 원심의 형량이 과중하여 부당하다는 논지들도 받아들일 수 없다.",
+            "이에 상고를 모두 기각하기로 하고 상고후의 미결구금일수중 일부를 본형에 각 산입하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 모두 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강제집행정지",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1986.5.1.",
+        "caseNo": "86카28",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가집행선고부 원고승소판결에 불복한 바 없는 피고가 그 판결에 기한 강제집행의 정지를 구할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이에 신청인의 이건 강제집행정지 신청을 각하하기로 관여법관의 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이건 신청을 각하한다."
+        ]
+    }
+}

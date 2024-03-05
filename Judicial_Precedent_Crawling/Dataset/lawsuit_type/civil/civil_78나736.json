@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "퇴직금청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1978.7.13.",
+        "caseNo": "78나736",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상여금을 평균임금 산출에 참작하는 방법"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "평균임금은 근로자의 통상의 생활임금을 보장하려는 것이고 이 사건 상여금 역시 원고들의 근로의 대가로 지급되는 임금의 일종임에 틀림없다 하겠으므로 위 상여금의 지급회수 및 방법여하에 따라 퇴직금 산정을 위한 평균임금계산의 결과를 달리하여야 할 것은 아니며 그 1년분을 월할한 3개월분 해당액만을 근로자의 퇴직전 3개월 사이에 실제로 그를 지급받았건 또는 지급받지 못하였던지를 불문하고 위 평균임금계산에 포함시키는 것이 타당하다고 할 것이므로 이와 반대취지의 피고의 주장은 채용하지 않는다.",
+            "그렇다면 이와 취지를 같이하는 원판결은 정당하고 이에 대한 원고와 피고의 항소는 모두 이유없으므로 기각하며 소송비용의 부담에 관하여는 민사소송법 제95조  제96조를 가집행선고에 관하여는 같은법 제199조를 각 적용하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 모두 기각한다."
+        ]
+    }
+}

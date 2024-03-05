@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1968.7.11.자",
+        "caseNo": "68마10",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "과잉경매의 경우에 관한 법리를 오해한 위법이 있는 실례."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "일건 기록에 의하면 수개의 부동산을 경매한 본건 경매에 있어그 전부를경락허가하지 아니하여도 채권을 변제하고 강제집행비용에 충분할 것이 명백함에도 불구하고 본건 수개의 부동산 전부에 대하여 경락을 허가한 결정에 대한 항고를 기각한 원결정에는 과잉경매의 경우에 관한 법리를 오해한위법이 있다할것으로서 이점에 관한 재항고 논지는 이유있고 다른 논점에 대한 판단을 기다릴것 없이 원결정은 파기를 면치못할 것이다.",
+            "따라서 민사소송법 제413조 제406조에 의하여 관여법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고 사건을 대전지방법원 합의부에 환송한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "비료관리법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1988.3.22.",
+        "caseNo": "87도1796",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "백운석분말이 비료관리법  소정의 \"비료의 품질을 저하시키는 다른 물질\"에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 피고인이 소석회비료를 생산하는 과정에서 원재료로 사용한 백운석분말은 비료관리법 제19조 소정의 \"비료의 품질을 저하시키는 다른물질\"에 해당되지 않는다 하여 피고인에게 무죄를 선고한 것은 옳고 여기에는 소론과 같은 위법이 있다고 할 수 없다.",
+            "논지는 이유없어 상고를 기각하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "환경범죄의처벌에관한특별조치법위반 ",
+        "courtNm": "인천지법",
+        "judmnAdjuDe": "1995.10.25.",
+        "caseNo": "95고합486",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "환경범죄의처벌에관한특별조치법  위반죄가 성립되기 위하여 공중의 생명·신체에 대한 구체적인 위험 발생이 필요한지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고인에 대한 이 사건 공소사실은 죄가 되지 아니하거나 범죄의 증명이 없는 경우에 해당하므로 형사소송법 제325조 전단 또는 후단에 의하여 피고인에 대하여 무죄를 선고하기로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인은 무죄."
+        ]
+    }
+}

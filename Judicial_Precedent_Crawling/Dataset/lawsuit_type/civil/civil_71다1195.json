@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.7.27.",
+        "caseNo": "71다1195",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "유일한 증거를 조사하지 않아도 위법이 있다고 할 수 없는 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고가 을 제1 2 3 4 5호 각증의 진정한 성립을 입증하기 위하여 유일한 증인인 소외인을 신청하여 이 사건 제1·2심 법원이 이것을 채택한 뒤 이 증인을 신문하고자 환문하였으나 기일에 출석하지 아니하므로 여러 차례 구인까지 하려 하였더니 이것 또한 모두 실패로 돌아간 사실이 기록상 이러한 경우에 원심이 위 증인을 신문하지 아니하고 피고가 제출한 위의 서증을 배척하였다 하여 유일한 증거방법을 조사하지 아니하였다고 허물할 수는 그 밖에 원심판결에는 채증법칙위배 내지 심리미진의 위법사유가 없다.",
+            "그렇다면 이 상고는 그 이유없다 할것이므로 기각하고 상고비용은 패소자의 이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각한다."
+        ]
+    }
+}

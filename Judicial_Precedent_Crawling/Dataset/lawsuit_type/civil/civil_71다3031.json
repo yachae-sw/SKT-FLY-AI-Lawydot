@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.3.9.",
+        "caseNo": "71다3031",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "농지는 시가지계획구역내에 소재하고 환지예정지지정이 있었다고 하더라도 그 공사가 완료되고 환지처분의 절차를 거치기 전에는 이를 대지라고 할 수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 이 사건 토지가 시가지계획구역내에 소재하고 환지예정지 지정이 있었다 하여도 농지개혁법 시행이전에 당해 시가지계획 공사와 토지구획정리 공사가 시행되어 환지처분의 절차를 거침으로써 위 공사가 완료되지 아니한 이상 이를 대지라고 인정할 수  할것이니 이와 반대의 견해로써 원심의 이점에 관한 적법한 조처를 논난하는 상고논지는 이유없고 또 도로부지로 편입된 토지라 할지라도 그 소유권 이전등기가 불가능한 것은 아님으로 이점에 관한 상고 논지 역시 채용할수 없다.",
+            "이리하여 상고를 이유없다 하여 기각하기로 하고 상고소송비용의 부담에 관하여 민사소송법 제95조 제89조를 적용하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

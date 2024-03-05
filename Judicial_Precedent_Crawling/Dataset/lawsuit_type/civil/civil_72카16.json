@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "환가명령청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1972.5.26.",
+        "caseNo": "72카16",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가집행선고부 판결에 의하여 유체동산이 압류된 경우 본안 법원이 환가명령을 할 수 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "별지 목록 생략"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "신청인의 본건 신청을 기각한다."
+        ]
+    }
+}

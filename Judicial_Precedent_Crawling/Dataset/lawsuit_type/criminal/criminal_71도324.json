@@ -1,0 +1,53 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "직무유기등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.3.30.",
+        "caseNo": "71도324",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형법  의 공용서류는 정부공문서 규정에 따라 접수되고 결제된 것에 한하지 않는다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 인용하고 있는 증거에 의하면 피고인에게 대한 이사건 공용서류등 무효의 범죄사실을 능히 인정할 수 있다.",
+            "피고인은 이 사건으로 말미암아 항소심에서 벌금10000원의 선고를 받아오고 이러한 경우에는 항소심판결에 사실의 오인이 있음을 이유로 하여서는 상고이유로 삼지 못한다.",
+            "원심판결에는 채증법칙 위반의 위법 사유도 없다.",
+            "그리고 이 사건에서 문제로 되어 있는 서류가 설사 공문서로서의 효력이 생기기 이전의 서류이었다 할지라도 형법 제141조 제1항이 규정하고 있는 공무소에서 사용하는 서류가 아니라고 단정할 수는 그러므로 원심판결에는 이점에 관하여 법률적용을 잘못한 위법사유도 없다.",
+            "이리하여 형사소송법 제390조에 의하여 이 상고를 기각한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각한다."
+        ]
+    }
+}

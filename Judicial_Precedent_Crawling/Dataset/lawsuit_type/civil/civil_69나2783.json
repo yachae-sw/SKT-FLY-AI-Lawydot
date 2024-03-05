@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "위자료등청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1970.4.17.",
+        "caseNo": "69나2783",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "군인을 무시하였다는 이유로 총기를 발사하는 행위가 공무원의 직무집행 행위가 되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "판사 신정철은 전임으로 인하여 서명날인 할 수 없다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결중 피고 패소부분을 취소한다."
+        ]
+    }
+}

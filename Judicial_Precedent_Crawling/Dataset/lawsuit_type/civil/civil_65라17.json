@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "이송신청각하결정에대한즉시항고청구사건",
+        "courtNm": "광주고법",
+        "judmnAdjuDe": "1965.11.15.자",
+        "caseNo": "65라17",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "이송신청을 각하한다고 표현하였다 할지라도 위법은 아니다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "본건 항고이유 둘째점에 대하여 항고인의 본건 이송신청을 이유 없다고 배척하려면 이송신청을 기각함이 옳을 것인데 원결정이 본건 이송신청을 각하하였음은 위법을 면치 못한다는 것이나 민사소송법 35조에는 이송신청의 각하결정이라고 명시되어 있기 때문에 원결정 주문에 이송신청을 각하한다고 표현하였다 할지라도 위법일수 없을 뿐만 아니라 대체로 신청사건에 있어서는 이른바 기각과 각하를 엄격히 구별할 만한 실익도 없는 것이다.",
+            "따라서 어느모로보나 원결정은 정당하고 본건 항고는 이유없으므로 민사소송법 제413조 제1항  제384조 제1항을 적용하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항고를 기각한다."
+        ]
+    }
+}

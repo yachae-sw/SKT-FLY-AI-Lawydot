@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상해피고사건",
+        "courtNm": "마산지법",
+        "judmnAdjuDe": "1985.6.13.",
+        "caseNo": "84고단1799",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상해로 기소된 공소사실이 경범죄처벌법위반으로 범칙금통고처분을 받은 범죄사실과 기본적인 점에서 동일하다고 판단한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이 사건 공소사실과 위 경범죄처벌법위반 범죄사실은 범죄사실의 기초되는 사회적 사실관계가 그 기본적인 점에 있어서 동일하다고 볼 것이고 경범죄처벌법위반으로 범칙금납부통고처분을 받고 이미 범칙금을 납부한 사람은 그 범칙행위에 대하여 다시 벌받지 아니하는 것이므로 이 사건 공소사실에 대하여는 형사소송법 제326조 제1호에 따라 면소의 판결을 선고하기로 한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고인은 면소"
+        ]
+    }
+}

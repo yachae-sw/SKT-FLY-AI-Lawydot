@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "청구이의청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1979.2.6.",
+        "caseNo": "78나945",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "보조참가인이 항소한 사건에서 피참가인이 항소포기서를 제출한 경우의 항소의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그런데 피참가인의 항소포기는 민사소송법 제365조 제3항에의하면 항소 취하의 효력이 있고 같은법 제70조 제2항에 의하면 보조 참가인의 소송행위는 피참가인의 소송행위와 저촉되는 때에는 효력이 없는 것이므로 피고보조참가인의 본건 항소는 피참가인인 피고의 위 항소포기에 저촉되어 항소의 효력이 없다 할 것이다.",
+            "그렇다면 본건 항소사건은 피참가인인 피고의 위 항소권포기서가 당원에 접수됨으로써 항소취하되어 종료되었다 할 것인데 피고 보조참가인은 동인의 항소가 유효한 것을 전제로 변론을 하고 있으므로 직권으로 본건 항소사건은 피고의 1978.8.항소취하로 인하여 종료 되었음은 선언한다.",
+            "따라서 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "보건은 피고의 1978.8.12.자 항소취하로 인하여 종료되었다."
+        ]
+    }
+}

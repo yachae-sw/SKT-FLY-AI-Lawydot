@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "관세법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.9.29.",
+        "caseNo": "70도1648",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "밀수입한 금은 관세법 에 해당하는 물품이 아니므로 동법 를 적용할 수 없다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "금의 밀수출입행위에 관하여서는 금에 관한 임시조치법에 의하여 처단하여야 할 것이고 관세법 제181조는 그 적용을 할 수 없다고 함이 당원의 견해이므로 본건에 있어서 피고인들이 밀수입한 금괴를 그 정을 알면서 매수하였다 하더라도 이는 관세법 제186조에서 말하는 동법 제181조에 해당하는 물품이라 할 수 없을 것임에도 불구하고 원심은 피고인들에 대한 위 본건 범죄사실에 대하여 관세법 제186조를 적용하였음은 위법하다 아니할 수 없으므로 파기를 면치 못할 것이고 다른 상고이유에 대하여 판단할 필요없어 논지는 이유있다.",
+            "그러므로 형사소송법 제390조 제391조 제397조에 의하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기말소청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1976.7.23.",
+        "caseNo": "76나1360",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "말소등기의 확정판결과 변론종결후의 승계인"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 원고들의 본소청구는 부적법한 것이므로 이를 각하할 것인바 이와 같은 취지의 원판결은 정당하고 이에 대한 원고들의 항소는 그 이유없으므로 이를 기각하고 항소비용은 패소자들의 부담으로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원고들의 항소를 기각한다."
+        ]
+    }
+}

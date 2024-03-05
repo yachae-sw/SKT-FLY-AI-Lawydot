@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권이전등기및건물명도청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1970.5.7.",
+        "caseNo": "69나514",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "교회재판국의 판결의 효력"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피고교회가 위 부동산을 원고교회에게 양도할 법률상 의무있음을 전제로 하여 피고 등에 대하여 위 부동산의 이전을 구하는 원고의 이건 청구는 다른 점에 대한 판단을 할 것 없이 그 이유없어 기각할 것인 즉 원판결은 이와 취지를 달리하여 부당하므로 피고교회의 항소에 의하여 이를 취소하고 따라서 원고의 이건 항소는 이유없음에 돌아가므로 이를 기각하고 소송비용의 부담에 관하여는 민사소송법 제89조  제96조를 적용하여 주문과 같이 판결한다.",
+            "별지 생략"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "제1심 판결을 취소한다."
+        ]
+    }
+}

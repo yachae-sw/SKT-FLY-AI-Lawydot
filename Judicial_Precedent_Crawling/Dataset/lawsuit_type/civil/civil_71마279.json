@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1971.4.22.자",
+        "caseNo": "71마279",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "죽은 사람의 이름으로 항고를 제기하였더라도 실지 항고를 제기한 행위가 그의 상속인이었다면 항고장에 항고인의 표시를 잘못한 것으로 보고 이를 정정하게 하여야 한다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 관여법관의 일치된 의견으로 원결정을 파기하고 사건을 서울민사지방법원에 환송하기로 하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원결정을 파기하고 사건을 서울민사지방법원으로 환송한다."
+        ]
+    }
+}

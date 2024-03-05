@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "대여금등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.10.",
+        "caseNo": "4294민상1413",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "연대보증인이 채무자의 위탁 내지 동의 없이 이식제한령 초과의 이식을 지급한 경우와 구상권의 범위"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이에 그밖의 상고이유에 대한 설명을 생략하고 민사소송법 제406조 제1항에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기 한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부정수표단속법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.10.25.",
+        "caseNo": "83도2202",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "부도후 수표금액의 입금과 발행인의 형사책임"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "피고인이 발행한 이 사건 수표가 예금부족으로 제시기일에 지급되지 아니한 이상 그 후에 피고인이 그 수표금액을 입금하여 변제하였다 하더라도 부정수표발행인의 형사책임을 면할 수 없고 또 벌금이 선고된 이 사건에 있어서 양형부당은 적법한 상고이유로 삼을 수 없는 것이므로 논지는 어느 것이나 받아들일 수 없다.",
+            "이에 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

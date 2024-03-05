@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가옥명도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.7.28.",
+        "caseNo": "69사28",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "원고가 본건 가옥의 소유자라는 전제사실은 원고와 소외인과의 별건 민사사건의 제1심판결에 의하여 전복되어 항소심에 계속되어 있다고 하더라도 이 사유는 피고의 재심사유로 되지 못한다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 피고들의 재심청구를 이유없다하여 기각하기로 하고 소송비용은 패소자들의 부담으로 하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "피고들의 재심의 소를 기각한다."
+        ]
+    }
+}

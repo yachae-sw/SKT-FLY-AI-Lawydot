@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산경락허가결정에대한재항고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.3.12.자",
+        "caseNo": "80마78",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "공증한 약속어음에 기한 강제집행에 있어 채무자에 대한 그 공정증서의 송달요부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 경매부동산의 경락가격을 다투는 것은 적법한 항고이유가 될 수 없다고 판단한 조처에 아무런 잘못도 없고 이 사건에 있어서와 같이 약속어음을 공증한데에 따른 공정증서에 기한 강제집행에는 그 집행전에 동 공정증서를 채무자에게 송달하여야 할 법률상의 근거가 없으며 그밖에 원심결정에 민사소송법 제412조에서 정한 위법사유가 있음을 찾아볼 수 없다.",
+            "따라서 이 재항고는 이유 없으므로 이를 기각하기로 의견이 일치되어 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

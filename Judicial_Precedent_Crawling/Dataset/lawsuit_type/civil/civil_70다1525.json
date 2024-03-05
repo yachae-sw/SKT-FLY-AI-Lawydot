@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.9.29.",
+        "caseNo": "70다1525",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채증법칙에 위배하여 판결에 영향을 미친 사례."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 을 1호증의 123에 의하면 원고들은 피고로부터 금 34만원을 위자료뿐 아니라 손해배상조로 수령하고 민형사간에 일체의 소송을 않기로 하여 본건 교통사고 사건을 완전 해결 지은 취지가 역력하고 또 그렇게 보는 것이 당사자의 의사에 합치할 뿐더러 망인의 연령 직업 과실정도 등을 참작하면 원고들이 소송을 하지 않고 일시에 수령한 위 금액은 그 전손해배상액에 상당함을 짐작 못할 바 아님에도 불구하고 원심이 막연히 소외 3의 증언에 의하여 위 서증을 그 가해자인 운전수를 구원하기 위해서 피해자들이 만든 것이라고 하여 일부 배척하고 위와 같이 판시한 것은 필경 채증법칙을 위반한 허물이 있고 이는 판결에 영향이 있었다 할 것이므로 원판결중 피고 패소부분을 파기 환송하기로 한다.",
+            "이리하여 관여법관 일치의 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결 중 피고 패소부분을 파기하고 이 부분에 관한 사건을 서울고등법원으로 환송한다."
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "국민투표법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1972.5.9.",
+        "caseNo": "71도2298",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "국민투표법  의 투표의 비밀을 침해하거나 투표인에게 투표한 또는 투표하고자 하는 내용의 표시를 요구한 때에 해당한다고 볼 수 없는 사례."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 유지한 제1심 판결이 피고인이 모의 투표용지 약 300매를 대전시 대흥3동 일대 약 300호의 집에 담 넘어로 던져 넣어 배부한 사실을 확정하고 이는 3선 개헌 반대 선전과 반대할 때의 투표방법을 계몽하기 위한 개헌반대 운동에 지나지 않는 것이며 이를 국민투표법 제105조 제1항에서 말하는 누구든지 투표의 비밀을 침해하거나 투표인에 대하여 투표한 또는 투표하고자 하는 내용의 표시를 요구한 때에 해당된다고는 볼 수 없다고 판시 하였음은 정당하고 거기에 법리오해의 위법이 없으므로 논지는 이유없다 하여 관여법관의 일치한 의견에 따라 상고를 기각하기로 하여 형사소송법 제390조 제364조 제4항에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

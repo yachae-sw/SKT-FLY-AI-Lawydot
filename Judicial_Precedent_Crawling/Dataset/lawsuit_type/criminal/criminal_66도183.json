@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "현주건조물방화,현주건조물방화미수",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.3.22.",
+        "caseNo": "66도183",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "방화의 동기가 애매하고 단시일내에 6회나 동일 방법의 방화가 있는 경우에 피고인의 정신상태에 관한 심리없이 재판하였음은 위법이라고 한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 관여법관전원의 일치한 의견으로 형사소송법 제390조 제397조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고 사건을 광주고등법원에 환송한다."
+        ]
+    }
+}

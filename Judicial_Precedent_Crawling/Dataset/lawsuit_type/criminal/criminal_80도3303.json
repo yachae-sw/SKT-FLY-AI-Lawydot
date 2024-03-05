@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "무고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1981.3.24.",
+        "caseNo": "80도3303",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "무고죄에 있어서 신고사실이 허위라는 인식의 정도"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원판결을 기록과 대조하여 검토하건대 원판결이 피고인이 부산지방법원장에게 제출한 공소외인에 관한 진언서에 기재되어 있는 동 소외인의 비위사실이 객관적 사실에 반하는 허위의 사실이라는 취지에서 판시한 제 1심 판결을 유지하였음은 정당하고 또 무고죄의 성립에는 타인으로 하여금 형사또는 징계처분을 받게할 목적으로 진실하다고 확신없는 사실을 신고함으로써 족한 것이고 신고자가 그 신고사실이 허위라는 것을 확신함을 요하지 않는다고 함이 당원의 판례인 바기록을 정사하면 같은 취지의 원판결은 능히 수긍할 수 있고 거기에 무고죄에 관한 법리오해가 있다할 수 없고 원판결에 논지가 지적하는 바와 같은 심리미진 등의 위법사유도 있다 할 수 없다.",
+            "논지는 모두 이유없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

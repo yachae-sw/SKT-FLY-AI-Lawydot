@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "간통",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1975.10.7.",
+        "caseNo": "75도1489",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형사소송법 229조 1항 소정 간통고소의 유효조건인 혼인관계의 부존재 또는 이혼 소송계속의 존속기간"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결과 제1심 판결을 이 사건 공소를 기각한다."
+        ]
+    }
+}

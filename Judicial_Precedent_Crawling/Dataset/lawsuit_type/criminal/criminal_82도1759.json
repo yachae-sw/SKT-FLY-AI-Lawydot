@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.9.28.",
+        "caseNo": "82도1759",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "기존채무의 변제조로 위조어음을 교부한 경우 사기죄의 성부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기존 채무에 관하여 약속어음을 발행한 경우에 당사자 사이에 특별한 약정이 없으면 채무의 확보 또는 그 지급방법으로 이를 발행한 것으로 추정할",
+            "원심판결은 피고인이 공소사실과 같이 공소외인에게 위조한 액면 금 250만원의 약속어음이 마치 진정한 약속어음인 것처럼 기망 그간 밀린 물품대금 채무인 금 250만원의 변제조로 이를 교부하였다 하여도 이로 인하여 피해자가 피고인의 위 물품대금 채무를 소멸시키는 등 어떠한 처분행위를 한 사실을 인정할 수 있는 증거가 없으니 사기죄가 성립될 수 없다고 판단하고 있는바 기록에 의하여 살펴보면 위 사실인정은 수긍이 가고 그렇다면 사기죄의 성립을 부정한 원심의 조치 역시 정당하다고 할 것이므로 이와 반대의 논지는 채용할 수 없다.",
+            "그러므로 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

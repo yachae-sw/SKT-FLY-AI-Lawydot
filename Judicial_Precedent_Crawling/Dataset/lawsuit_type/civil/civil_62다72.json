@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상,위자료",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.4.26.",
+        "caseNo": "62다72",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "호적에 입적되지 아니한 피해자의 직계존속에 대한 손해재상 의무"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 개정전 민사소송법 400조를 적용하여 이 상고를 기각하기로 하고 상고비용에 관하여는 패소자의 부담으로 관여법관들의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 기각한다."
+        ]
+    }
+}

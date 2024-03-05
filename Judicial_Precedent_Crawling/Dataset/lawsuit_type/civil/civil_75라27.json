@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "회사해산항고사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1976.4.12.자",
+        "caseNo": "75라27",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상법 176조 1항 2호소정의 정당한 사유가 있다고 본 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 피신청인회사가 그간 영업을 휴지하고 있었다 하여도 이는 회사의 목적재산전부가 위조로 인하여 타에 이전되어 주된 사업을 경영하지 못하게 된 것으로서 상법 제176조 제1항 제2호에 규정한 정당한 사유가 없는 것이라고는 볼 수 없고 나아가 피신청인회사가 해산된다면 위 소송에서 피신청인회사가 승소한 경우 목적재산을 회복하여도 그회사의 영업목적을 수행할 수 없는 부당한 결과가 된다할 것이다.",
+            "따라서 항고인의 이건 신청은 이유없으므로 이러한 취지에서 이건 신청을 기각한 원결정은 정당하고 항고인의 항고는 이유없어 비송사건절차법 제24조  민사소송법 제413조  제384조에 의하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항고를 기각한다."
+        ]
+    }
+}

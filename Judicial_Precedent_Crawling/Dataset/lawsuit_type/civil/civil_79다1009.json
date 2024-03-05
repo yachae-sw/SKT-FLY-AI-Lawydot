@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "소유권보존등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1980.7.22.",
+        "caseNo": "79다1009",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사후양자와 재산상속"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결 이유에 의하면 원심은 신민법상 사후입양으로 인하여 호주상속이 개시됨은 별론으로 하고 재산상속이 개시되는 것은 아니므로 구 민법 당시인 1947.11.29 사망한 소외 1의 재산을 그 보다 먼저 사망한 그의 장남인 소외 2의 유처가 상속받아 관리하고 있는 이상 원고가 신민법 시행이후인 1975.5.1 소외 2의 사후양자로 입양하였다 하여서 이를 승계 받을 수 없는 것이라고 본 원심판단은 정당하고 또한 원고가 위 입양 후 사망한 양모인 소외 3을 상속할 수 있음은 특단의 사정이 없는 한 당연하다 할 것인데 원고는 위 상속을 이 사건 청구원인으로 하고 있지 아니하므로 결국 원심판결은 이 점에서 또한 수긍이 된다.",
+            "논지는 이유없어 상고를 기각하고 상고 소송비용은 패소자인 원고의 부담으로 하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

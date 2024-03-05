@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "물품대금청구사건",
+        "courtNm": "서울고법",
+        "judmnAdjuDe": "1973.11.8.",
+        "caseNo": "73나1110",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "회사정리법상의 「정리채권자표」의 성질"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 원고의 본소 청구를 각하할 것인바 원판결은 원고의 청구를 인용하고 있어 부당하고 피고의 항소는 이유있으므로 원판결을 취소하기로 하고 소송비용은 패소자의 부담으로하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 취소하고 원고의 본소를 각하한다."
+        ]
+    }
+}

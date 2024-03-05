@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "물품인도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.3.22.",
+        "caseNo": "83다43",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "판결이 소송촉진등에관한특례법    소정의 처분 등에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "소송촉진등에 관한 특례법 제11조에 의하여 상고는 위 제11조 제1항에 해당하는 사유가 있음을 이유로 하는 때에 한하여 이를 할 수 있는 것인바 원심판결은 위 제1항 제2호에서 말하는 규칙 또는 처분에 해당하지 아니 하며  원심판결에 소론과 같은 법률 판단을 잘못한 위법이 있다는 사유는 위 제11조 제1항 각호의 어느 것에도 해당하지 아니하여 적법한 상고이유가 되지 못한다.",
+            "따라서 상고는 이유없으므로 이를 기각하고 상고비용은 패소자의 부담으로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

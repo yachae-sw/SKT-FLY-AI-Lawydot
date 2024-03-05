@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "묘석등설치금지",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.4.26.",
+        "caseNo": "4294민상1451",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "타인의 토지에 합법적으로 분묘를 설치한 자가 취득한 지상권유사의 물권의 성질"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "논지 제2점에 대하여 원판결의 취지는 원고 제출의 갑제 1호증 및 제2호증의 1 내지 13과 대비하여보면 원고들은 보건 원고측 분묘의 6대손인 동시 본건임야는 원고들의 공유라는 이유로 원고들의 본소를 정당하다고 판정한 취지로 판독할 수 있고 위의 사실을 원고 제출의 위의 각 증거에 의하여 인정될 수 있을뿐 만 아니라 위와 같은 경우에는 장자손계에 속하지 아니한 자손이라도 피고들에게 대하여 그 배제를 청구할 수 있다고 해석되므로 이와 법률견해를 달리하여 원판결을 비의하는 논지도 이유가 없다.",
+            "이상과 같으므로 민사소송법 제400조 제95조 제89조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

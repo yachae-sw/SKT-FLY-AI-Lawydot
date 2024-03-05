@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "부동산낙찰허가",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2002.9.5.자",
+        "caseNo": "2002마2812",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "판결과 같이 집행문이 필요한 채무명의에 있어서 집행문이 붙어 있지 아니한 채무명의 또는 채무명의의 정본 자체가 아닌 정본의 사본에 의하여 배당을 요구한 채권자가 경매절차의 이해관계인 중 '집행력 있는 정본에 의하여 배당을 요구한 채권자'에 해당하는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 재항고인은 이 사건 낙찰기일 전인 배당요구를 함에 있어서 집행문이 붙어 있지 아니한 판결정본의 사본에 의하여 배당을 요구하였을 뿐이므로 위 이해관계인에 해당하지 같은 취지의 원심결정은 정당하고 거기에 재항고이유의 주장과 같은 위법이 없다.",
+            "그러므로 재항고를 기각하기로 하여 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재항고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.1.25.",
+        "caseNo": "65다1789",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "장래 수입상실로 인한 손해배상액산정의 표준시기"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 원고가 주장하는 장래수입 상실로 인한 손해액의 산정은 달리 특별한 사정이 없는한 손해배상채무를 확정하는 사실심 변론종결당시의 백미시세에 의하여 이를 산정하는 것이 타당하다고 할 것이고 또 소외 1이 군에서 제대할 예상시기로부터 본건 사실심 변론종결시까지의 예상수입은 장래수입이 아니므로 각 현실로 수입할 수 있었던 시기의 싯가에 의하여 그 손해액을 산정하여야 할 그런데 원심이 이와는 달리 피해자의 사망년도의 백미평균시세를 표준으로 하여 손해액을 산정한 것은 논거의 타당성을 발견할 수 없는 것이므로 상고논지는 결국 이유있음에 귀착한다.",
+            "그러므로 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결중 원고들 패소부분을 파기하고"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1966.6.28.",
+        "caseNo": "66다493",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민법 에 규정된 친족 관계"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민법 제752조에서 남의 생명을 해친 사람은 피해자의 직계존속 직계비속 및 배우자에 대하여 재산상의 손해 이외의 손해에 관하여도 배상할 책임이 있다고 규정하고 있는 바 여기에서 말하는 친족관계는 반드시 호적상의 친족관계만을 가리키는 것이 아니고 이 사건에 있어서와 같은 위자료 청구에 있어서는 사실상 위와 같은 친족관계 가 있는 경우도 포함하는 것이라고 해석함이 상당할 것이므로  이와 반대의 견해로서 원고 1 원고 2의 본건위자료 청구를 인용한 원판결 부분을 공격하는 논지는 받아 드릴 수 없다.",
+            "그러므로 관여법관 전원의 일치된 의견으로 민사소송법 제400조 제95조 제89조에 의하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

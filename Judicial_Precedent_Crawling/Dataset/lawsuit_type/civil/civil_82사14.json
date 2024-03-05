@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지소유권이전등기말소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.9.14.",
+        "caseNo": "82사14",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "민사소송법  이외의 사유에 기한 재심의 소의 적부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 확정된 종국판결에 대한 재심의 소는 민사소송법 제422조 소정의 사유가 있는 때에 한하여 허용되는 것이므로 재심원고의 주장하는 사유가 이에 해당하지 아니할 때에는 재심의 소는 부적법하다고 할 것인바 소론 사유는 위 법조의 어느 것에도 해당되지 아니하니 같은 이유로 이건 재심의 소는 각하를 면할 수 없다 할 것이다.",
+            "이에 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "재심의 소를 각하한다."
+        ]
+    }
+}

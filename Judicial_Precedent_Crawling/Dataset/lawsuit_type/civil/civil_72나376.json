@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "직무집행정지등가처분청구사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1972.9.7.",
+        "caseNo": "72나376",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "보전소송의 취하에 있어서 상대방의 동의 요부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 이건에서 신청인이 1972.7.이건 신청을 취하한 것은 피신청인들의 이의에 불구하고 바로 그 효력이 생기는 것으로서 이건 소송은 이로써 종료한 것이니 피신청인들의 기일지정신청은 이유없으므로 소송의 종료를 선고하기로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이건 소송은 1972.7.신청인의 신청취하로 종료하다."
+        ]
+    }
+}

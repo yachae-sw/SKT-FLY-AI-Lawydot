@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "강도,강간,강도살인",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.7.29.",
+        "caseNo": "69도933",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "법정형이 사형이나 무기징역 뿐이면 소년법  의 적용이 없으므로 설사 법정형을 감경하여 유기징역을 선고하는 경우도 정기형을 선고하는 것이 위법이 아니다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 상고를 모두 기각한다."
+        ]
+    }
+}

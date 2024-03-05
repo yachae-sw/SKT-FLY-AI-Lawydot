@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상(자)",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1994.9.30.",
+        "caseNo": "94다25759",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "중기 지입권자의 총수입 중 그 개인의 기여도 상당 수입 부분을 임금구조기본통계조사보고서상 \"달리 분류되지 않는 운수 및 통신사업 감독원\"의 월평균 수입 정도로 계산한 원심판결을 수긍한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결 이유를 기록에 비추어 살펴보면 원심이 원고가 중기2대를 중기회사에 지입하여 운영함으로써 얻은 수입 가운데 원고의 기여도에 상당하는 수입을 노동부 발간 임금구조기본통계조사보고서상 \"달리 분류되지 않는 운수 및 통신사업 감독원\"의 월평균 수입 정도로 계산한 조치는 정당하다고 판단되고 이러한 판단을 하는 과정에서 거친 증거판단에 채증법칙을 위반한 잘못이 없으며 장래수입상실손해액산정에 관한 법리를 오해한 허물도 상고이유는 받아들일 수 없다.",
+            "그러므로 이 사건 상고를 기각하고 상고비용은 상고인인 원고의 부담으로 하기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

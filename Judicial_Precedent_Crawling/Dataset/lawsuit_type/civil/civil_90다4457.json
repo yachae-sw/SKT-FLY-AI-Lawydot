@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "건물명도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.11.9.",
+        "caseNo": "90다4457",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "채권담보의 목적으로 건물을 양도받은 채권자가 채권이 변제로 소멸된 후 그 건물을 제3자에게 매도한 경우 그 매수인의 소유권 취득 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "상고논지는 모두 이유없으므로 상고를 기각하고 상고비용은 패소자에게 부담시키기로 관여 법관의 의견이 일치되어 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

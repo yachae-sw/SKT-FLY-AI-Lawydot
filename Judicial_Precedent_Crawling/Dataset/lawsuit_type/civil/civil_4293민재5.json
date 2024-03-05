@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가옥명도등",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1962.5.24.",
+        "caseNo": "4293민재5",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상고이유서제출 기간 경과후에 제출된 추가상고 이유서가 이미 제출된 상고 이유서의 석명보충이 아닌 경우 이에 대한 심리 판단"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "따라서 민사소송법 제430조 제425조 제95조 제89조에 의하여 관여법관 전원의 일치한 의견으로 주문과 같이 판결 한다"
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 재심청구를 기각 한다."
+        ]
+    }
+}

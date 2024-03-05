@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "야간주거침입절도",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1976.11.9.",
+        "caseNo": "76도3076",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상고이유를 제한한 형사소송법 384조 4호가 헌법 24조 100조 2항에 위반되는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "결국 이건 상고는 이유없음에 귀하여 기각을 면치 못할 것이므로 같은법 390조 399조 364조4항에 의하여 기각하기로 하고 상고 제기후의 구금일수중 40일을 형법제57조에 의하여 원심에서 유지한 제1심판결의 본형에 산입하기로 하고 관여 법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 상고제기후의 구금일수중 40일을 본형에 산입한다."
+        ]
+    }
+}

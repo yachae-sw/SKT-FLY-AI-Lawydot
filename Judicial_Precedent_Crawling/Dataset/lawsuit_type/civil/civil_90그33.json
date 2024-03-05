@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가처분결정에대한집행정지",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1990.9.21.자",
+        "caseNo": "90그33",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가처분결정에 대한 채무자의 이의신청에 의하여 법원이 그 가처분의 전부나 일부의 인가변경취소를 선고하여야 할 경우 민사소송법  에 의한 집행정지의 가부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "민사소송법 제714조에 의한 가처분은 권리의 집행보전이나 임시의 지위를 정하기 위한 것으로서 긴급한 필요가 있는 경우에 잠정적으로 하는 조치이므로 가처분결정에 대하여 채무자가 이의신청을 함으로써 법원이 종국판결로 그 가처분의 전부나 일부의 인가변경취소를 선고하여야 할 경우 민사소송법 제473조 제474조의 규정을 준용하여 그 판결선고시까지 가처분집행의 정지를 허용할 수는 없는 것이다.",
+            "이 사건 공사금지가처분 결정에 대한 집행정지신청을 기각한 원심의 조치는 정당하고 논지는 이유 없으므로 특별항고를 기각하기로 하여 관여 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별항고를 기각한다."
+        ]
+    }
+}

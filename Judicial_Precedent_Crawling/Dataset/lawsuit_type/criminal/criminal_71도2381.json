@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "중과실치상,도로교통법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1972.2.22.",
+        "caseNo": "71도2381",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "항소법원이 징역 6월의 실형을 선고한 제1심 양형이 과중하다고 인정하여 피고인의 항소이유를 받아들여 제1심 판결을 파기하면서 제1심 그대로의 같은 실형을 선고한 것은 판결이유와 주문이 저촉 모순된다 할 것이다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러므로 원판결을 파기환송하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고"
+        ]
+    }
+}

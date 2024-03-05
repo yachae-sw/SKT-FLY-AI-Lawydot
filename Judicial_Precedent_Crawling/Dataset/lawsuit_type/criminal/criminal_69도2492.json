@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사기방조",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.3.10.",
+        "caseNo": "69도2492",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "사기방조죄는 정범인 본범의 사기 또는 사기미수의 증명이 없으면 사기방조 죄도 그 증명이 없음에 돌아간다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 피고인의 사기방조의 본 범인 박모의 가짜 외국제 화장품을 제조하여 타인을 기망하여 돈을 편취하였다는 증거가 없으므로 방조의 대상되는 본범의 실행행위의 착수가 없는 이상 사기방조죄가 성립할 수 없다하여 무죄선고를 한 조치는 원래 형법상 종범은 타인의 범죄를 방조함을 말하고 따라서 종범의 범죄는 정범의 범죄에 종속하여 성립하는 것이므로 본건에 있어 사기방조죄도 그 증명이 없음에 돌아가므로 원심의 위와같은 판단은 정당하고 반대의 견해로 종법 그 자체가 독립된 형식이라는 이론적 전제아래 원판결을 비의하는 상고논지는 이유없다.",
+            "그러므로 형사소송법 제390조에 의하여 관여한 법관 전원의 일치한 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각 한다."
+        ]
+    }
+}

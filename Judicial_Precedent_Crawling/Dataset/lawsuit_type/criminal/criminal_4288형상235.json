@@ -1,0 +1,48 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "수회사기",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1955.10.18.",
+        "caseNo": "4288형상235",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "후생관계 또는 상관의 승인과 수뢰죄 성부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "심안컨대 경찰관이 그 직무에 관하여 피의자로부터 뇌물을 받음에 당하여 그 상관의 명시 묵시의 승인을 얻었던지 상관과 동석하여 향응을 받었다 하여서 수뢰죄가 성립 아니한다는 소론은 법률상 성립할 수 없는 바이요 수뢰행위가 피고인의 대원의 생활난을 타개하기 위한 것이라 할지라도 수뢰죄의 범죄조각 이유에 해당하지 아니함은 형법상 의심의 여지가 없이 명백한 것이오 일건기록에 대조하여 원심이 인용한 증거내용을 검토컨대 본건 각 피고 사실에 대한 증거가 충분하며 중대한 사실의 오인을 의심할 바 없음으로 원판결은 심리미진 기타 하등의 위법이 없어 논지는 모다 이유없다고 인정하므로 형사소송법 제390조에 의하여 주문과 같이 판결된다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "본건 상고를 기각한다."
+        ]
+    }
+}

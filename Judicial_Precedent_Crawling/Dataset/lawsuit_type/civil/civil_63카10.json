@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "가처분집행정지취소",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1963.9.21.",
+        "caseNo": "63카10",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "가처분에 관한 판결에 대하여는 상소제기가 있는 경우에 민사소송법  를 준용하여 집행의 정지 또는 취소를 청구할 수 있는가 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그러나 가처분에 관한 판결에 대하여 상소 신립이 있다 하더라도 민사소송법 제473조 제474조의 규정을 준용하여 집행의 정지 또는 취소를 청구할 수 없다고 해석되므로 이 사건 신청은 부적법한 것으로서 각하 되어야 할 것이다.",
+            "그러므로 관여한 법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "이 신청을 각하한다."
+        ]
+    }
+}

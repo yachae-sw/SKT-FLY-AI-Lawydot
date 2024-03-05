@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "상습존속폭행",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1965.1.26.",
+        "caseNo": "64도687",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "상습 존속폭행죄를 규정한 형법 의 죄에는 형법  은 적용된다고 볼 수 없으므로 이 죄에 대하여는 피해자의 명시한 의사에 반하여 논할 수 있다."
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그렇다면 이 죄에 대하여는 단순 존속폭행의 죄에 적용되는 형법 제260조제3항은 적용될 수 없다고 보아야 될 그럼에도 불구하고 원심은 상습존속폭행의 죄에도 형법 제260조제3항이 적용되는 것처럼 오해하고 피해자 되는 피고인의 부인 공소외인이 본건이 제1심에 계속 증인 1964.3.2 고소를 취소하였으니 이 사람의 명시한 의사에 반하여 논 하지못한다하여 제대로된 제1심판결을 파기하고 본건 공소를 기각하고 있다 그렇다면 원심은 상습존속폭행에 관한 법리를 오해한 것이 분명하다 그러므로 형사소송법제397조에 의하여 원심판결을 파기하고 사건을 원심인 부산지방법원 합의부로 환송하기로 한다.",
+            "이 판결에는 관여법관들의 견해가 일치되다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원심판결을 파기하고 사건을 부산지방법원 합의부에 환송한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "폭력행위등처벌에관한법률위반피고사건",
+        "courtNm": "대구고법",
+        "judmnAdjuDe": "1972.12.7.",
+        "caseNo": "72노972",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "형법 42조 단서의 적용 누락이 판결결과에 영향이 있는지 여부"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "그리고 직권으로 살피면 원심은 피고인에게 누범가중과 경합가중을 하면서 형법 42조 단서를 적용하지 아니한 잘못은 있으나 징역 1년 6월이 선고된 이건에 있어서는 판결결과에 영향이 없으므로 파기사유가 되지 아니하고 양형부당의 점은 기록을 통하여 형법 51조에 규정된 양형의 조건인 여러 정상을 참작하면 원심의 형량은 상당하고 결코 무거워서 부당하다고는 인정되지 아니하므로 논지 이유없다.",
+            "그러하다면 피고인의 항소는 그 이유없음이 명백하므로 형사소송법 제364조 제5항에 의하여 변론을 거침이 없이 기각하고 형법 제57조에 의하여 이 판결선고전의 당심구금일수 중 30일을 원심판결의 본형에 산입하기로 하여 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "항소를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "사기·도로교통법위반",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1983.10.11.",
+        "caseNo": "83도2281",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "범의가 없었다는 진술과 범죄의 성립을 저각하는 사유"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심판결 거시의 증거에 의하면 그 판시사실이 적법히 인정되며 거기에 소론과 같이 심리를 다하지 아니하거나 채증법칙에 위배하여 사실을 오인한 위법이 없고 또 사기죄에 있어서 사기의 의사가 없었다는 진술은 단순한 범죄의 부인이라 할 것이고 법률상 범죄의 성립을 저각하는 이유되는 사실의 진술이라고 할 수 없는 것이므로 원심이 이 점에 대한 판단을 아니하였다하며 위법일 수 논지는 이유없다.",
+            "따라서 상고를 기각하기로 하여 관여법관의 일치 된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

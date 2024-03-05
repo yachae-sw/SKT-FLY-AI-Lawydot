@@ -1,0 +1,46 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "처분금지가처분",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1969.6.24.",
+        "caseNo": "68다2100",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "토지의 처분행위를 금하는 가처분이 인정된 이상 그 지상의 공작물 설치와 수목벌채 채석등 행위의 금지를 요구하는 가처분신청은 그 보전의 필요가 있고 소명이 되어 있다고 보아야 한다"
+        ]
+    },
+    "dcss": {
+        "courtDcss": []
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파기하고 사건을 서울고등법원으로 환송한다."
+        ]
+    }
+}

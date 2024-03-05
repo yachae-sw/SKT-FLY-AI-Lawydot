@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "손해배상",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1970.3.31.",
+        "caseNo": "70다29",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "임료상당의 손실보상액 산정의 기준"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "원심이 본건 토지에 대한 1966.10.1 부터 1967.6.30 까지의 임료상당의 손실보상액 산정의 증거로 한 제1심 감정인 소외인의 감정결과에 의하면 본건 토지는 \"동아극장 서측 약20미터 지점 전기부속품점 전면도로로서 동 토지에 대한 임료 및 싯가 산출상의 자료를 부근 복덕방 및 인접점포에서 수집코저 하였으나 호가하는 시세 구구불일하므로 임료에 있어서는 재무부 고시가격 평당250000원을 임료산출상의 기준가격으로 하였다고 되어 있는 바 동 재무부 고시가격은 본건토지 소재지 의 일반적인 가격을 기준으로 한것으로 보여지는 바 원심이 이러한 가격을 기준으로 임료상당액을 산출한 조치에 위법이 있다할 수 반대의 견해로 원심의 보상액산정의 기초를 다투는 상고논지는 이유 없다.",
+            "그러므로 관여한 법관 전원의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

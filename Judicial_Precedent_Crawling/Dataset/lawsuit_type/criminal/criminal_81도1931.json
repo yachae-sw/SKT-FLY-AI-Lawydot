@@ -1,0 +1,50 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "범인은닉",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1982.1.26.",
+        "caseNo": "81도1931",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "범인은닉죄에 있어서 '죄를 범한 자'의 의미"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "범인은닉죄는 형사사법에 관한 국권의 행사를 방해하는 자를 처벌하고자 하는 것이므로 형법 제151조 제 1 항의 이른바 죄를 범한 자라 함은 그 입법의 목적에 비추어 범죄의 혐의를 받아 수사대상이 되어 있는 자를 포함한다고 함이 당원의 판례로 하는 바이니 가사 소론과 같이 구속수사의 대상이 된 공소외인이 그 후 무혐의로 석방되었다 하더라도 피고인에 대한 범인은닉죄의 성립에는 영향이 없다 할 것이다.",
+            "따라서 원심이 피고인은 항소이유서를 제출하지 아니하였을 뿐만 아니라 제1심 판결을 살펴 보아도 아무런 직권조사 사유를 발견할 수 없다고 하여 피고인의 항소를 기각한 조처는 정당하고 소론과 같은 위법사유가 있다고 할 수 논지는 이유없다.",
+            "이에 상고를 기각하기로 하여 관여법관의 일치된 의견으로 주문과 같이 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 기각한다."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "토지건물매매무효확인",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "1947.3.23.",
+        "caseNo": "4280민상278",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "회사소유 부동산을 회사대표자 개인이 계약당사자로서 매도하고 다시 회사대표자자격으로써 한 소유권이전 등기는 유효한가"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "안컨대 원판결 이유설시에 의하면 피고가 본건 토지가옥을 소외인으로부터 매수하였던 바 기후에 우 소외인 개인의 소유가 아니고 원고회사의 소유임을 발견하고 동인으로부터 원고회사 대표취체역의 자격으로서의 명의로 소유권이전등기에 관한 소요서류를 수취한 후 차를 이용하여 피고의 명의로 소유권이전등기를 경유한 사실을 그러면 피고는 원고회사와 매매계약 즉 등기원인없이 소유권이전등기를 수한 것이 되므로 원고의 청구를 배척치 못할 것임에도 불구하고 차를 기각한 것은 이유저어라 아니할 수 없으니 논지는 이유있어 원판결은 파훼를 면치 못할 것이다.",
+            "자에 기타 논지에 대한 설명을 생략하고 민사소송법 제407조 제1항에 의하여 주문과 여히 판결함."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "원판결을 파훼함."
+        ]
+    }
+}

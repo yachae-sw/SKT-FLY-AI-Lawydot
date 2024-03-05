@@ -1,0 +1,51 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "무고",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2002.11.13.",
+        "caseNo": "2002도4893",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "법관에 대한 기피신청이 있는 경우 정지되는 소송진행에 판결의 선고가 포함되는지 여부",
+            "형사판결에서 원심판결 표시 중 오기를 경정한 사례"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "또 원심이 피고인에 대한 이 사건 무고의 공소사실을 모두 유죄로 판단한 것도 정당하고 거기에 상고이유의 주장과 같은 채증법칙 위배 등의 위법이 따라서 이 부분 상고이유도 받아들일 수 없다.",
+            "한편 원심판결의 원심판결 표시 중 \"2000고단2877 판결\"은 \"2000고단2877 2001고단2267 판결\"을 잘못 기재하였음이 명백하므로 직권으로 경정한다.",
+            "그러므로 주문과 같이 상고를 기각하고 상고 후의 구금일수 일부를 본형에 산입하며 원심판결을 경정하기로 판결한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "상고를 상고 후의 구금일수 중 90일을 본형에 원심판결의 원심판결 표시 중 \"2000고단2877 판결\"을 \"2000고단2877 2001고단2267 판결\"로 경정한다."
+        ]
+    }
+}

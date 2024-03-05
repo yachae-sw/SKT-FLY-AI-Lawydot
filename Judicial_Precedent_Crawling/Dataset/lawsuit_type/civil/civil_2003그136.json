@@ -1,0 +1,49 @@
+{
+    "info": {
+        "caseField": "",
+        "detailField": "",
+        "trailField": "",
+        "caseNm": "경정",
+        "courtNm": "대법원",
+        "judmnAdjuDe": "2004.6.25.자",
+        "caseNo": "2003그136",
+        "relateLaword": [],
+        "qotatPrcdnt": []
+    },
+    "concerned": {
+        "acusr": "",
+        "dedat": ""
+    },
+    "org": {
+        "orgJdgmnCourtNm": "",
+        "orgJdgmnAdjuDe": "",
+        "orgJdgmnCaseNo": ""
+    },
+    "disposal": {
+        "disposalform": "",
+        "disposalcontent": []
+    },
+    "mentionedItems": {
+        "rqestObjet": []
+    },
+    "assrs": {
+        "acusrAssrs": [],
+        "dedatAssrs": []
+    },
+    "facts": {
+        "bsisFacts": [
+            "판결경정신청을 기각한 결정에 대하여 헌법 위반을 이유로 민사소송법  에 의한 특별항고를 할 수 있는 경우"
+        ]
+    },
+    "dcss": {
+        "courtDcss": [
+            "기록에 의하면 신청인이 이 사건 재판에 필요한 자료를 제출할 기회를 전혀 부여받지 못한 상태에서 원심의 결정이 있었다고 볼 만한 사정이 전혀 없고 이행권고결정문과 그 소송의 전 과정에 나타난 자료 및 그 후에 신청인이 제출한 자료에 의하더라도 이행권고결정문상의 피고의 주소 표시에 오류가 있음이 분명하다고 보기 어려울 뿐만 아니라 원심에서 사실조회촉탁신청을 할 기회를 갖지 못하였다는 특별항고이유의 주장은 단순히 원심결정에 심리미진의 위법이 있음을 주장하는 것에 지나지 않아서 특별항고사유에 해당되지 않으므로 원심결정에 재판에 영향을 미친 헌법 위반이 있다고 할 수 없다.",
+            "그러므로 이 사건 특별항고를 기각하기로 하여 관여 대법관의 일치된 의견으로 주문과 같이 결정한다."
+        ]
+    },
+    "close": {
+        "cnclsns": [
+            "특별항고를 기각한다."
+        ]
+    }
+}

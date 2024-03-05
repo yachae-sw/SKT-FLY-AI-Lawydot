@@ -25,4 +25,90 @@ In the project directory, you can run:
 - 변경 사항을 만들 때마다 페이지가 다시로드됩니다.\
    콘솔에서 린트(lint) 오류를 확인할 수도 있습니다.
 
+## 프로젝트 구조
+
+```
+├── README.md
+├── .eslintrc.js
+├── .gitignore
+├── .prettierrc.json
+├── package-lock.json
+├── package.json
+│
+├── public
+│    └── index.html
+└── src
+     ├── App.jsx
+     ├── index.jsx
+     ├── api
+     │     └── mandarinAPI.js
+     ├── asset
+     │     ├── fonts
+     │     ├── css_sprites.png
+     │     ├── logo-404.svg
+     │     └── logo-home.svg
+     │          .
+     │          .
+     │          .
+     ├── atoms
+     │     ├── LoginData.js
+     │     └── LoginState.js
+     ├── common
+     │     ├── alert
+     │     │     ├── Alert.jsx
+     │     │     └── Alert.Style.jsx
+     │     ├── button
+     │     ├── comment
+     │     ├── inputBox
+     │     ├── post
+     │     ├── postModal
+     │     ├── product
+     │     ├── tabMenu
+     │     ├── topBanner
+     │     └── userBanner
+     ├── pages
+     │     ├── addProduct
+     │     │     ├── AddProduct.jsx
+     │     │     └── AddProduct.Style.jsx
+     │     ├── chatList
+     │     ├── chatRoom
+     │     ├── emailLogin
+     │     ├── followerList
+     │     ├── followingList
+     │     ├── home
+     │     ├── join
+     │     ├── page404
+     │     ├── postDetail
+     │     ├── postEdit
+     │     ├── postUpload
+     │     ├── productEdit
+     │     ├── profile
+     │     ├── profileEdit
+     │     ├── profileSetting
+     │     ├── search
+     │     ├── snsLogin
+     │     └── splash
+     ├── routes
+     │     ├── privateRoutes.jsx
+     │     └── privateRoutesRev.jsx
+     └── styles
+           └── Globalstyled.jsx
+```
+
+<br>
+
 ## 페이지 구성
+
+### [Log-in]
+
+- 서비스 접속 초기화면으로 Log-in 화면이 나타납니다.
+  - 로그인이 되어 있지 않은 경우 : 로그인 페이지
+  - 로그인이 되어 있는 경우 : Lawydot 홈 화면
+  - 가입이 되어 있지 않은 경우 : CREATE ONE 부분을 누르면 Sign-up 페이지로 이동
+- SNS(카카오톡, 구글, 페이스북) 로그인 기능은 구현되어 있지 않습니다.
+
+| Log-in                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------- |
+| ![Log-in](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/4716cc9b-ba83-4135-8ef2-b574c204787a) |
+
+<br>

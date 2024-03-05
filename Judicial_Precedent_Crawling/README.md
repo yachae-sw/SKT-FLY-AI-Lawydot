@@ -30,7 +30,7 @@
     - courtDcss : 판례 전문 중 이유 부분
     - cnclsns : 판례 전문 중 주문 부분
 
-  - ````PYTHON
+  ```PYTHON
       json_data = {
               "info": {
                   "caseField": "",
@@ -73,5 +73,4 @@
                   "cnclsns": []
               }
           }
-          ```
-    ````
+  ```

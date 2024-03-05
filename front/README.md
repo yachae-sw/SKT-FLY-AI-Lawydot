@@ -25,24 +25,26 @@ In the project directory, you can run:
 - 변경 사항을 만들 때마다 페이지가 다시로드됩니다.\
    콘솔에서 린트(lint) 오류를 확인할 수도 있습니다.
 
-## 프로젝트 구조
+## Front-end 구조
 
 ```
 ├── README.md
-├── .eslintrc.js
 ├── .gitignore
-├── .prettierrc.json
 ├── package-lock.json
 ├── package.json
+├── yarn.lock
+│
+├── node_modules
 │
 ├── public
 │    └── index.html
 └── src
-     ├── App.jsx
-     ├── index.jsx
-     ├── api
-     │     └── mandarinAPI.js
-     ├── asset
+     ├── App.js
+     ├── index.css
+     ├── index.js
+     ├── utils
+     │     └── APIRoutes.js
+     ├── assets
      │     ├── fonts
      │     ├── css_sprites.png
      │     ├── logo-404.svg

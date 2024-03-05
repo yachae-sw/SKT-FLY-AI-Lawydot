@@ -38,63 +38,40 @@ In the project directory, you can run:
 │
 ├── public
 │    └── index.html
+│
 └── src
      ├── App.js
      ├── index.css
      ├── index.js
      ├── utils
      │     └── APIRoutes.js
+     │
      ├── assets
-     │     ├── fonts
-     │     ├── css_sprites.png
-     │     ├── logo-404.svg
-     │     └── logo-home.svg
+     │     ├── analytics_icon.svg
+     │     ├── chatbot_icon.svg
+     │     ├── files_icon.svg
+     │     └── lawydot_logo.png
      │          .
      │          .
      │          .
-     ├── atoms
-     │     ├── LoginData.js
-     │     └── LoginState.js
-     ├── common
-     │     ├── alert
-     │     │     ├── Alert.jsx
-     │     │     └── Alert.Style.jsx
-     │     ├── button
-     │     ├── comment
-     │     ├── inputBox
-     │     ├── post
-     │     ├── postModal
-     │     ├── product
-     │     ├── tabMenu
-     │     ├── topBanner
-     │     └── userBanner
-     ├── pages
-     │     ├── addProduct
-     │     │     ├── AddProduct.jsx
-     │     │     └── AddProduct.Style.jsx
-     │     ├── chatList
-     │     ├── chatRoom
-     │     ├── emailLogin
-     │     ├── followerList
-     │     ├── followingList
-     │     ├── home
-     │     ├── join
-     │     ├── page404
-     │     ├── postDetail
-     │     ├── postEdit
-     │     ├── postUpload
-     │     ├── productEdit
-     │     ├── profile
-     │     ├── profileEdit
-     │     ├── profileSetting
-     │     ├── search
-     │     ├── snsLogin
-     │     └── splash
-     ├── routes
-     │     ├── privateRoutes.jsx
-     │     └── privateRoutesRev.jsx
-     └── styles
-           └── Globalstyled.jsx
+     ├── components
+     │     ├── ChatContainer.jsx
+     │     ├── ChatInput.jsx
+     │     ├── Contacts.jsx
+     │     ├── Logout.jsx
+     │     ├── PostItem.jsx
+     │     ├── SetAvatar.jsx
+     │     └── Welcometothe.jsx
+     │
+     └── pages
+           ├── Chat.jsx
+           ├── Checklist.jsx
+           ├── Lawyer.jsx
+           ├── Login.jsx
+           ├── PostDetail.jsx
+           └── Register.jsx
+
+
 ```
 
 <br>

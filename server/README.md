@@ -24,3 +24,41 @@ In the project directory, you can run:
 
 - 변경 사항을 만들 때마다 페이지가 다시로드됩니다.\
    콘솔에서 린트(lint) 오류를 확인할 수도 있습니다.
+
+## Back-end 구조
+
+```
+├── README.md
+├── .env
+├── package-lock.json
+├── package.json
+├── index.js
+│
+├── node_modules
+│
+├── routes
+│     ├── messagesRoute.js
+│     ├── postRoute.js
+│     └── userRoutes.js
+│
+├── models
+│     ├── cosinModel.js
+│     ├── geminiModel.js
+│     ├── localdb_saveModel.js
+│     ├── results_chema.js
+│     └── userModel.js
+│
+└── controllers
+      ├── cosinController
+      │     ├── law_output_100.csv
+      │     ├── output.csv
+      │     └── similarity_final.py
+      │
+      ├── cosinController.js
+      ├── geminiController.js
+      ├── messageController.js
+      ├── postController.js
+      ├── summaryController.js
+      └── userController.js
+
+```

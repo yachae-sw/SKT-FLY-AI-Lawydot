@@ -30,6 +30,8 @@
     - courtDcss : 판례 전문 중 이유 부분
     - cnclsns : 판례 전문 중 주문 부분
 
+    <br/>
+
   ```PYTHON
       json_data = {
               "info": {

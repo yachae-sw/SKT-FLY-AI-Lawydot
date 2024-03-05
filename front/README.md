@@ -91,3 +91,81 @@ In the project directory, you can run:
 | ![Log-in](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/4716cc9b-ba83-4135-8ef2-b574c204787a) |
 
 <br>
+
+### [Sign-up]
+
+- Log-in 페이지에서 CREATE ONE 부분을 누르면 나타납니다.
+  - Username, Email, Password, Confirm Password를 입력하면 데이터 베이스에 저장됩니다.
+  - 이때, Password와 Confirm Password는 동일해야 합니다.
+  - Username과 Email이 이미 등록되어 있을 경우 오류 메시지를 띄웁니다.
+
+| Sign-up                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- |
+| ![Sign-up](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/114a5ccc-22e6-44cb-af0b-75c034cc1768) |
+
+<br>
+
+### [Welcome]
+
+- 접속되었음을 알려주는 페이지 입니다.
+
+| Welcome                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- |
+| ![Welcome](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/2125df33-bcda-4675-8c35-0784245e4598) |
+
+<br>
+
+### [Chabot]
+
+- Chatbot 페이지 입니다.
+  - 부동산 종류, 임대 형식, 가해자, 피해 금액, 간략한 상황 총 5가지를 입력합니다.
+  - 이때, 법률 자문인 역할을 받은 Gemini가 분석을 시작합니다.
+
+| Chatbot                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- |
+| ![Chatbot](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/ca5e4ed3-961e-428d-adc5-44f5b24cd2be) |
+
+<br>
+
+### [Result]
+
+- 결과 페이지 입니다.
+  - 사용자 입력을 바탕으로 상황에 대한 관련 법률, 상황 요약, 해결절차, 필요 서류, 유사 판례를 보여줍니다.
+
+| Result                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------- |
+| ![result1](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/8d6d1761-e816-4558-b257-4fc20b07d3ff) |
+| ![result2](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/873f3ae3-e233-4ba7-aaae-28f86334787d) |
+| ![result3](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/e1fe598c-97dc-4f51-87f9-2a4fe592bdb0) |
+
+<br>
+
+### [History]
+
+- 이전 채팅 내용을 볼 수 있는 History 페이지 입니다.
+
+| History                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- |
+| ![History](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/c674af9e-9e05-4047-9057-2084365684d8) |
+
+<br>
+
+### [Checklist]
+
+- 부동산 사기 방지를 위한 핵심 체크리스트를 볼 수 있습니다.
+
+| Checklist                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------ |
+| ![Checklist](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/b267f23d-254c-47ea-947e-1425bed8ff2d) |
+
+<br>
+
+### [Translation]
+
+- 부동산 사기 관련 어려운 용어를 쉽게 해석했습니다.
+
+| Translation                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------- |
+| ![Translation](https://github.com/yachae-sw/SKT-FLY-AI-Lawydot/assets/93850398/0eaf9b47-a6ef-4755-9465-53033dcfb1af) |
+
+<br>
